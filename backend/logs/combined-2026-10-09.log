@@ -1,0 +1,214 @@
+[2026-10-09T04:47:41.038Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:47:41.645Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:47:41.649Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:47:55.197Z] [WARN] Dev-only /kundli/generate used — order PKO-207E465D created with payment skipped entirely (no Razorpay request made)
+[2026-10-09T04:48:00.268Z] [ERROR] Failed to send email to diagtest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T04:48:00.269Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac871fb504dcf4049aae8b2: Invalid login: 535 Incorrect authentication data
+[2026-10-09T04:48:00.343Z] [ERROR] Kundli generation failed for order 6ac871fb504dcf4049aae8b2: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T04:48:00.416Z] [INFO] [0mPOST /api/v1/kundli/generate [32m201[0m 5347.925 ms - 1428[0m
+[2026-10-09T04:48:25.658Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:08.803Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:08.803Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:09.713Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:49:09.714Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:49:22.266Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:22.359Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:23.039Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:49:23.041Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:49:29.863Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:29.946Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:49:30.660Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:49:30.662Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:50:01.375Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:50:01.435Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:50:02.167Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:50:02.168Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:50:17.374Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:50:17.412Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:50:18.430Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:50:18.431Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:51:46.471Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:51:46.498Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:51:47.285Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:51:47.287Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:52:13.742Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:52:13.856Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:52:14.528Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:52:14.530Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:52:24.803Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:52:24.866Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:52:25.705Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:52:25.707Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:53:06.935Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:53:06.941Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:53:07.765Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:53:07.766Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:53:46.356Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:53:46.479Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:53:47.297Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:53:47.298Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:54:31.773Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:54:31.774Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T04:54:32.617Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T04:54:32.619Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T04:54:34.971Z] [INFO] [0mGET /health [32m200[0m 1.598 ms - 269[0m
+[2026-10-09T04:54:38.030Z] [INFO] [0mGET /health [32m200[0m 0.185 ms - 266[0m
+[2026-10-09T04:56:36.622Z] [WARN] Auto-migrated Premium Kundli pricing/content into Consultation Services (service 6ac874043886cff5bf41a179) — manage it from Admin > Consultation Services from now on.
+[2026-10-09T04:56:36.623Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 154.218 ms - 397[0m
+[2026-10-09T04:58:09.813Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 131.882 ms - 721[0m
+[2026-10-09T04:59:02.493Z] [INFO] [0mPUT /api/v1/admin/premium-kundli/settings [32m200[0m 104.158 ms - 398[0m
+[2026-10-09T04:59:24.258Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 61.496 ms - 398[0m
+[2026-10-09T04:59:24.327Z] [INFO] [0mGET /api/v1/consultations/services?type=kundli [32m200[0m 33.441 ms - 751[0m
+[2026-10-09T05:01:26.812Z] [WARN] Dev-only /kundli/generate used — order PKO-07BB21C4 created with payment skipped entirely (no Razorpay request made)
+[2026-10-09T05:01:31.250Z] [ERROR] Failed to send email to pricecheck@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:31.251Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac875263886cff5bf41a17d: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:31.346Z] [ERROR] Kundli generation failed for order 6ac875263886cff5bf41a17d: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:01:31.423Z] [INFO] [0mPOST /api/v1/kundli/generate [32m201[0m 4728.706 ms - 1433[0m
+[2026-10-09T05:01:44.312Z] [WARN] Dev-only /horoscope/generate used — order PHO-567C5784 created with payment skipped entirely (no Razorpay request made)
+[2026-10-09T05:01:48.242Z] [ERROR] Failed to send email to signtest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:48.243Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac875383886cff5bf41a189: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:48.313Z] [ERROR] Horoscope generation failed for order 6ac875383886cff5bf41a189: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:01:48.381Z] [INFO] [0mPOST /api/v1/horoscope/generate [32m201[0m 4172.431 ms - 1383[0m
+[2026-10-09T05:04:15.064Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 66.278 ms - 398[0m
+[2026-10-09T05:04:15.142Z] [INFO] [0mGET /api/v1/horoscope/service [32m200[0m 36.935 ms - 759[0m
+[2026-10-09T05:04:15.239Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 38.667 ms - 1394[0m
+[2026-10-09T05:05:34.096Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:06:34.418Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:06:35.064Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:06:35.066Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:06:54.036Z] [INFO] [0mGET /api/v1/horoscope/service [32m200[0m 59.138 ms - 759[0m
+[2026-10-09T05:06:54.037Z] [INFO] [0mGET /api/v1/announcements [32m200[0m 65.297 ms - 114[0m
+[2026-10-09T05:06:54.038Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 63.667 ms - 398[0m
+[2026-10-09T05:06:54.041Z] [INFO] [0mGET /api/v1/settings [32m200[0m 0.742 ms - 952[0m
+[2026-10-09T05:06:54.049Z] [INFO] [0mGET /api/v1/products/featured/list [32m200[0m 73.242 ms - 103[0m
+[2026-10-09T05:06:54.051Z] [INFO] [0mGET /api/v1/categories?parent=root [32m200[0m 77.173 ms - 580[0m
+[2026-10-09T05:06:54.052Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 71.727 ms - -[0m
+[2026-10-09T05:06:54.078Z] [INFO] [0mGET /api/v1/home-sections [32m200[0m 39.264 ms - 109[0m
+[2026-10-09T05:06:58.712Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 2.909 ms - -[0m
+[2026-10-09T05:06:58.715Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.079 ms - -[0m
+[2026-10-09T05:06:58.716Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.608 ms - -[0m
+[2026-10-09T05:06:58.735Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 32.850 ms - -[0m
+[2026-10-09T05:06:58.740Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 32.457 ms - 398[0m
+[2026-10-09T05:06:58.743Z] [INFO] [0mGET /api/v1/horoscope/service [32m200[0m 34.450 ms - 759[0m
+[2026-10-09T05:06:58.745Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 36.115 ms - -[0m
+[2026-10-09T05:06:58.751Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 39.078 ms - -[0m
+[2026-10-09T05:11:45.269Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:11:45.297Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:11:46.082Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:11:46.086Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:12:13.963Z] [INFO] [0mGET /api/v1/kundli/settings [0m-[0m - ms - -[0m
+[2026-10-09T05:12:16.166Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 10.184 ms - -[0m
+[2026-10-09T05:12:16.166Z] [INFO] [0mGET /api/v1/settings [36m304[0m 4.866 ms - -[0m
+[2026-10-09T05:12:16.186Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 34.648 ms - -[0m
+[2026-10-09T05:12:16.193Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 32.703 ms - 398[0m
+[2026-10-09T05:12:21.932Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 147.254 ms - 721[0m
+[2026-10-09T05:12:22.338Z] [INFO] [0mGET /api/v1/admin/dashboard/charts?range=30 [32m200[0m 66.539 ms - 114[0m
+[2026-10-09T05:12:22.339Z] [INFO] [0mGET /api/v1/admin/dashboard/stats [32m200[0m 70.559 ms - 265[0m
+[2026-10-09T05:12:22.347Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-consultation-bookings [32m200[0m 73.204 ms - 114[0m
+[2026-10-09T05:12:22.382Z] [INFO] [0mGET /api/v1/admin/dashboard/low-stock [32m200[0m 107.584 ms - 133[0m
+[2026-10-09T05:12:22.389Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-orders [32m200[0m 105.341 ms - -[0m
+[2026-10-09T05:12:22.632Z] [INFO] [0mGET /api/v1/admin/dashboard/inventory-stats [32m200[0m 356.050 ms - 221[0m
+[2026-10-09T05:12:29.982Z] [INFO] [0mGET /api/v1/admin/consultation-bookings?limit=100 [32m200[0m 73.914 ms - 163[0m
+[2026-10-09T05:12:31.886Z] [INFO] [0mGET /api/v1/consultations/services?all=true [32m200[0m 105.574 ms - -[0m
+[2026-10-09T05:13:04.605Z] [ERROR] [946c36d2-ae15-47c4-afdb-62c940a9b8fe] PUT /api/v1/consultations/services/6ac874043886cff5bf41a179 - 400 - Cast to Object failed for value "[object Object]" (type string) at path "seo", Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-10-09T05:13:04.608Z] [INFO] [0mPUT /api/v1/consultations/services/6ac874043886cff5bf41a179 [33m400[0m 5102.590 ms - -[0m
+[2026-10-09T05:13:06.256Z] [ERROR] [c947c6b9-a908-4c30-bcdc-465eec1cca73] PUT /api/v1/consultations/services/6ac874043886cff5bf41a179 - 400 - Cast to Object failed for value "[object Object]" (type string) at path "seo", Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-10-09T05:13:06.259Z] [INFO] [0mPUT /api/v1/consultations/services/6ac874043886cff5bf41a179 [33m400[0m 1432.370 ms - -[0m
+[2026-10-09T05:13:34.944Z] [INFO] [0mPOST /api/v1/consultations/services [32m201[0m 117.648 ms - 676[0m
+[2026-10-09T05:13:35.029Z] [INFO] [0mGET /api/v1/consultations/services?all=true [32m200[0m 72.982 ms - -[0m
+[2026-10-09T05:13:38.651Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 0.956 ms - -[0m
+[2026-10-09T05:13:38.678Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 32.550 ms - -[0m
+[2026-10-09T05:13:38.678Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 30.842 ms - -[0m
+[2026-10-09T05:13:38.679Z] [INFO] [0mGET /api/v1/horoscope/service [36m304[0m 32.552 ms - -[0m
+[2026-10-09T05:13:38.797Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 144.849 ms - -[0m
+[2026-10-09T05:13:38.943Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 294.046 ms - -[0m
+[2026-10-09T05:13:40.511Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 4.287 ms - -[0m
+[2026-10-09T05:13:40.514Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 0.959 ms - -[0m
+[2026-10-09T05:13:40.516Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.200 ms - -[0m
+[2026-10-09T05:13:40.535Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 30.120 ms - -[0m
+[2026-10-09T05:13:40.539Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 31.814 ms - -[0m
+[2026-10-09T05:13:40.540Z] [INFO] [0mGET /api/v1/horoscope/service [36m304[0m 31.874 ms - -[0m
+[2026-10-09T05:13:40.541Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 31.740 ms - -[0m
+[2026-10-09T05:13:40.543Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 32.765 ms - -[0m
+[2026-10-09T05:14:06.557Z] [ERROR] Geocoding failed for birth place "nouida": Could not resolve coordinates for birth place "nouida"
+[2026-10-09T05:14:06.558Z] [ERROR] [30d96119-50dd-4f42-9101-858b6fa54ea2] POST /api/v1/kundli/geocode - 422 - Couldn't find "nouida" — try being more specific, e.g. "Jaipur, Rajasthan, India"
+[2026-10-09T05:14:06.558Z] [INFO] [0mPOST /api/v1/kundli/geocode [33m422[0m 284.893 ms - 500[0m
+[2026-10-09T05:14:11.359Z] [INFO] [0mPOST /api/v1/kundli/geocode [32m200[0m 571.824 ms - 252[0m
+[2026-10-09T05:14:12.610Z] [WARN] Dev-only /horoscope/generate used — order PHO-C5B6B33D created with payment skipped entirely (no Razorpay request made)
+[2026-10-09T05:14:16.092Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:14:16.092Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac878248dc415c530121933: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:14:16.169Z] [ERROR] Horoscope generation failed for order 6ac878248dc415c530121933: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:14:16.242Z] [INFO] [0mPOST /api/v1/horoscope/generate [32m201[0m 3716.851 ms - -[0m
+[2026-10-09T05:21:05.057Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:05.058Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:05.906Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:21:05.908Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:21:16.969Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:17.095Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:17.764Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:21:17.766Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:21:22.378Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:22.526Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:23.153Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:21:23.154Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:21:26.285Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:26.459Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:21:26.926Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:21:26.927Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:23:29.242Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:23:29.248Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:23:30.084Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:23:30.086Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:24:23.087Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:24:23.210Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:24:23.880Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:24:23.882Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:24:26.704Z] [INFO] [0mGET /health [32m200[0m 1.563 ms - 269[0m
+[2026-10-09T05:24:39.800Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 397.633 ms - 1265[0m
+[2026-10-09T05:25:31.104Z] [ERROR] [4108ed9e-48b9-4bf6-9219-7aab3ae6937f] POST /api/v1/kundli/payment/verify - 400 - Unexpected token '◇', "◇ injected"... is not valid JSON
+[2026-10-09T05:26:00.095Z] [ERROR] Failed to send email to flowtrace@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:26:00.095Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac87a97527dbf1c72649f9a: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:26:00.170Z] [ERROR] Kundli generation failed for order 6ac87a97527dbf1c72649f9a: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:26:00.237Z] [INFO] [0mPOST /api/v1/kundli/payment/verify [32m200[0m 3791.441 ms - 1357[0m
+[2026-10-09T05:26:00.303Z] [INFO] [0mPOST /api/v1/kundli/payment/verify [32m200[0m 31.317 ms - 1352[0m
+[2026-10-09T05:26:31.871Z] [INFO] [0mPOST /api/v1/horoscope/order [32m201[0m 315.798 ms - 1932[0m
+[2026-10-09T05:26:31.998Z] [INFO] [0mPOST /api/v1/kundli/payment/verify [32m200[0m 33.184 ms - 1352[0m
+[2026-10-09T05:26:45.417Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 410.470 ms - 1264[0m
+[2026-10-09T05:26:45.719Z] [ERROR] [2b18e06b-0be6-4723-bfd3-63442f749d5c] POST /api/v1/kundli/payment/verify - 400 - Payment verification failed: invalid signature
+[2026-10-09T05:26:45.720Z] [INFO] [0mPOST /api/v1/kundli/payment/verify [33m400[0m 70.743 ms - 419[0m
+[2026-10-09T05:27:15.032Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 188.813 ms - -[0m
+[2026-10-09T05:27:15.034Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 187.898 ms - -[0m
+[2026-10-09T05:27:15.038Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 190.479 ms - -[0m
+[2026-10-09T05:27:15.040Z] [INFO] [0mGET /api/v1/horoscope/service [36m304[0m 194.952 ms - -[0m
+[2026-10-09T05:27:15.045Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 196.245 ms - -[0m
+[2026-10-09T05:27:15.047Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 197.222 ms - -[0m
+[2026-10-09T05:27:20.458Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.881 ms - -[0m
+[2026-10-09T05:27:20.527Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 72.031 ms - -[0m
+[2026-10-09T05:27:26.970Z] [INFO] [0mGET /api/v1/consultations/services?limit=50 [32m200[0m 72.091 ms - -[0m
+[2026-10-09T05:29:22.687Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:29:22.722Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-09T05:29:23.498Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-09T05:29:23.500Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-09T05:29:39.236Z] [INFO] [0mGET /api/v1/consultations/services?all=true [36m304[0m 75.797 ms - -[0m
+[2026-10-09T05:29:44.160Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 5.678 ms - -[0m
+[2026-10-09T05:29:44.161Z] [INFO] [0mGET /api/v1/settings [36m304[0m 2.332 ms - -[0m
+[2026-10-09T05:29:44.211Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 58.038 ms - -[0m
+[2026-10-09T05:29:44.213Z] [INFO] [0mGET /api/v1/horoscope/service [36m304[0m 55.959 ms - -[0m
+[2026-10-09T05:29:59.886Z] [INFO] [0mPOST /api/v1/kundli/geocode [32m200[0m 525.991 ms - 255[0m
+[2026-10-09T05:30:02.681Z] [INFO] [0mPOST /api/v1/kundli/geocode [32m200[0m 13.116 ms - 252[0m
+[2026-10-09T05:30:05.421Z] [WARN] Dev-only /horoscope/generate used — order PHO-D8DC815E created with payment skipped entirely (no Razorpay request made)
+[2026-10-09T05:30:09.130Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:09.130Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac87bdd8b4c6290d81e7985: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:09.210Z] [ERROR] Horoscope generation failed for order 6ac87bdd8b4c6290d81e7985: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:30:09.281Z] [INFO] [0mPOST /api/v1/horoscope/generate [32m201[0m 3947.076 ms - -[0m
+[2026-10-09T05:30:26.164Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 49.550 ms - -[0m
+[2026-10-09T05:30:26.188Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 75.603 ms - -[0m
+[2026-10-09T05:30:26.192Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 78.379 ms - -[0m
+[2026-10-09T05:30:26.194Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 83.570 ms - -[0m
+[2026-10-09T05:30:40.406Z] [INFO] [0mPOST /api/v1/kundli/geocode [32m200[0m 572.352 ms - 225[0m
+[2026-10-09T05:30:42.014Z] [INFO] [0mPOST /api/v1/kundli/geocode [32m200[0m 299.500 ms - 226[0m
+[2026-10-09T05:30:43.349Z] [WARN] Dev-only /kundli/generate used — order PKO-77AE4CED created with payment skipped entirely (no Razorpay request made)
+[2026-10-09T05:30:46.244Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:46.245Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac87c038b4c6290d81e7990: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:46.676Z] [ERROR] Kundli generation failed for order 6ac87c038b4c6290d81e7990: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:30:46.748Z] [INFO] [0mPOST /api/v1/kundli/generate [32m201[0m 3477.389 ms - -[0m

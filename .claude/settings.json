@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx eslint *)",
+      "Bash(node -c controllers/cart.controller.js)",
+      "Bash(node -c models/Coupon.js)",
+      "Bash(node -c validators/coupon.validator.js)",
+      "Bash(node -c controllers/coupon.controller.js)",
+      "Bash(node -e ' *)",
+      "Bash(node -c models/HomeSection.js)",
+      "Bash(node -c controllers/homeSection.controller.js)",
+      "Bash(node -c routes/admin.routes.js)",
+      "PowerShell(Get-CimInstance Win32_OperatingSystem | Select-Object @{N='FreeGB';E={[math]::Round\\($_.FreePhysicalMemory/1MB,2\\)}}, @{N='TotalGB';E={[math]::Round\\($_.TotalVisibleMemorySize/1MB,2\\)}})",
+      "Bash(curl -s http://localhost:5001/api/v1/kundli/settings -w \"\\\\nHTTP:%{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:5001/api/v1/horoscope/service -w \"\\\\nHTTP:%{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:5001/api/v1/kundli/settings)",
+      "Bash(curl -s http://localhost:5001/api/v1/horoscope/service)",
+      "WebFetch(domain:www.astrologyapi.com)",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>{const j=JSON.parse\\(d\\);console.log\\('amount charged:', j.data.order.amount, '\\(expect 733.95 = 699 + 5% GST\\)'\\);}\\)\")",
+      "Bash(curl -s \"http://localhost:5001/api/v1/products/featured/list\")",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>{const j=JSON.parse\\(d\\);console.log\\('count:', \\(j.data?.products||[]\\).length\\);}\\)\")",
+      "Bash(curl -s \"http://localhost:5001/api/v1/products/bestsellers/list\")",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>{const j=JSON.parse\\(d\\);console.log\\('count:', \\(j.data?.products||[]\\).length, j.success, j.message\\);}\\)\")",
+      "Bash(curl -s \"http://localhost:5001/api/v1/products/new-arrivals/list\")",
+      "Bash(curl -s \"http://localhost:5001/api/v1/testimonials\")",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>{const j=JSON.parse\\(d\\);console.log\\('count:', \\(j.data?.testimonials||[]\\).length, j.success\\);}\\)\")",
+      "Bash(curl -s \"http://localhost:5001/api/v1/blogs?limit=3\")",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>{const j=JSON.parse\\(d\\);console.log\\('count:', \\(j.data?.blogs||[]\\).length, j.success\\);}\\)\")"
+    ]
+  }
+}

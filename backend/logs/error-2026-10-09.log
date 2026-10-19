@@ -1,0 +1,27 @@
+[2026-10-09T04:48:00.269Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac871fb504dcf4049aae8b2: Invalid login: 535 Incorrect authentication data
+[2026-10-09T04:48:00.268Z] [ERROR] Failed to send email to diagtest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T04:48:00.343Z] [ERROR] Kundli generation failed for order 6ac871fb504dcf4049aae8b2: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:01:31.250Z] [ERROR] Failed to send email to pricecheck@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:31.251Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac875263886cff5bf41a17d: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:31.346Z] [ERROR] Kundli generation failed for order 6ac875263886cff5bf41a17d: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:01:48.242Z] [ERROR] Failed to send email to signtest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:48.243Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac875383886cff5bf41a189: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:48.313Z] [ERROR] Horoscope generation failed for order 6ac875383886cff5bf41a189: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:13:04.605Z] [ERROR] [946c36d2-ae15-47c4-afdb-62c940a9b8fe] PUT /api/v1/consultations/services/6ac874043886cff5bf41a179 - 400 - Cast to Object failed for value "[object Object]" (type string) at path "seo", Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-10-09T05:13:06.256Z] [ERROR] [c947c6b9-a908-4c30-bcdc-465eec1cca73] PUT /api/v1/consultations/services/6ac874043886cff5bf41a179 - 400 - Cast to Object failed for value "[object Object]" (type string) at path "seo", Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-10-09T05:14:06.557Z] [ERROR] Geocoding failed for birth place "nouida": Could not resolve coordinates for birth place "nouida"
+[2026-10-09T05:14:06.558Z] [ERROR] [30d96119-50dd-4f42-9101-858b6fa54ea2] POST /api/v1/kundli/geocode - 422 - Couldn't find "nouida" — try being more specific, e.g. "Jaipur, Rajasthan, India"
+[2026-10-09T05:14:16.092Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac878248dc415c530121933: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:14:16.092Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:14:16.169Z] [ERROR] Horoscope generation failed for order 6ac878248dc415c530121933: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:25:31.104Z] [ERROR] [4108ed9e-48b9-4bf6-9219-7aab3ae6937f] POST /api/v1/kundli/payment/verify - 400 - Unexpected token '◇', "◇ injected"... is not valid JSON
+[2026-10-09T05:26:00.095Z] [ERROR] Failed to send email to flowtrace@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:26:00.095Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac87a97527dbf1c72649f9a: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:26:00.170Z] [ERROR] Kundli generation failed for order 6ac87a97527dbf1c72649f9a: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:26:45.719Z] [ERROR] [2b18e06b-0be6-4723-bfd3-63442f749d5c] POST /api/v1/kundli/payment/verify - 400 - Payment verification failed: invalid signature
+[2026-10-09T05:30:09.130Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:09.130Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac87bdd8b4c6290d81e7985: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:09.210Z] [ERROR] Horoscope generation failed for order 6ac87bdd8b4c6290d81e7985: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:30:46.244Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:46.245Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac87c038b4c6290d81e7990: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:46.676Z] [ERROR] Kundli generation failed for order 6ac87c038b4c6290d81e7990: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)

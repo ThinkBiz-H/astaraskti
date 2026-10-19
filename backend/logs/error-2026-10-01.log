@@ -1,0 +1,21 @@
+[2026-10-01T05:00:26.554Z] [ERROR] [0eb1f798-02a3-4178-bd26-542bd894bc7b] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-10-01T05:00:26.561Z] [ERROR] [f7597291-7281-423a-9103-73942d016f83] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-10-01T05:00:26.566Z] [ERROR] [25f79e98-80c6-4aca-b1bc-369202cb3c42] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-10-01T05:00:26.588Z] [ERROR] [c008a2ef-c9ca-44cf-893a-f5d058ba671a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-10-01T05:00:55.417Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2e300584576sm5174095ad.9 - gsmtp
+[2026-10-01T05:00:55.418Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abde9043837faa589986f8b: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2e300584576sm5174095ad.9 - gsmtp
+[2026-10-01T05:00:55.530Z] [ERROR] Kundli generation failed for order 6abde9043837faa589986f8b: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-01T05:15:11.735Z] [ERROR] Geocoding failed for birth place "Zzzxxqwnotarealplace12345": Could not resolve coordinates for birth place "Zzzxxqwnotarealplace12345"
+[2026-10-01T05:15:11.736Z] [ERROR] [870daebc-d52c-44a4-8c05-d68078b8f66e] POST /api/v1/kundli/geocode - 422 - Couldn't find "Zzzxxqwnotarealplace12345" — try being more specific, e.g. "Jaipur, Rajasthan, India"
+[2026-10-01T05:15:45.188Z] [ERROR] Failed to send email to test2@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34db3e33b73sm3497730eec.18 - gsmtp
+[2026-10-01T05:15:45.188Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abdec7fc07574c9dc07d72b: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34db3e33b73sm3497730eec.18 - gsmtp
+[2026-10-01T05:15:45.272Z] [ERROR] Kundli generation failed for order 6abdec7fc07574c9dc07d72b: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-01T05:30:47.475Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abdf005c07574c9dc07d737: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a4f445d356sm2581958a91.11 - gsmtp
+[2026-10-01T05:30:47.474Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a4f445d356sm2581958a91.11 - gsmtp
+[2026-10-01T05:30:47.554Z] [ERROR] Kundli generation failed for order 6abdf005c07574c9dc07d737: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)

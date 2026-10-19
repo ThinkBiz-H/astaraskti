@@ -1,0 +1,1 @@
+import{q as e,j as r}from"./index-DkjWC_BH.js";import{S as a}from"./SEO-DFC8awFu.js";import{P as o}from"./ProductListing-D8pNW4gK.js";import"./ProductCard-D0JmNto9.js";function u(){const[s]=e(),t=s.get("q")||"";return r.jsxs(r.Fragment,{children:[r.jsx(a,{title:`Search results for "${t}"`,noindex:!0}),r.jsx(o,{title:`Search results for "${t}"`})]})}export{u as default};

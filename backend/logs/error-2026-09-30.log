@@ -1,0 +1,43 @@
+[2026-09-30T08:53:07.970Z] [ERROR] [e3af2a50-10b5-42f9-a50f-a75c74c2e01b] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.977Z] [ERROR] [263d0c95-7ac5-4867-a34e-ae7fc5a7a1f6] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.982Z] [ERROR] [cb92f7a1-b31b-4d0e-9fe2-45f8b8f60bfc] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:08.066Z] [ERROR] [00719afb-c2e5-46c6-8e95-9a92f8ed3a2c] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T08:54:32.672Z] [ERROR] [cb53d7ec-b438-4dc1-bdad-19d6f5e73254] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-30T08:55:21.028Z] [ERROR] [46be94c9-b88d-4768-afc1-d0687522954b] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-30T08:55:33.216Z] [ERROR] [f8918081-1e84-49fd-9df1-84d3c0edfdbc] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-30T08:56:05.027Z] [ERROR] [0dc074e7-140e-402c-9de0-e1732b3d990a] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-30T09:55:44.035Z] [ERROR] [b9529bd0-2126-44cf-8011-78ab35245a58] PUT /api/v1/products/6aba5d58030b90cdec499761 - 401 - Not authorized, token failed or expired
+[2026-09-30T09:55:44.086Z] [ERROR] [7a93a269-15a7-4da3-95a1-fb43e7da1773] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T09:56:59.838Z] [ERROR] [9c35d7b7-34b4-4ff1-8367-09c3f5da1860] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.840Z] [ERROR] [66ec00f3-5129-4456-8a71-ce4900718c0a] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.843Z] [ERROR] [a2566c11-4220-4b78-a5e9-e50d06b8131e] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.859Z] [ERROR] [696bb295-5beb-4cc0-9284-79d93c25919f] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T09:57:51.024Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-14d02f90bcdsm3955110c88.0 - gsmtp
+[2026-09-30T10:13:30.844Z] [ERROR] [1644d19e-d1f2-4f72-91b7-144c0df04b7c] GET /api/v1/orders/6abcdd1c3108a2845cdf7a9b - 401 - Not authorized, token failed or expired
+[2026-09-30T10:13:30.848Z] [ERROR] [96135003-c0bd-4f00-ba5d-d3d4a7fba975] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T10:13:30.856Z] [ERROR] [3140cdc4-0170-49b8-b1af-ab78c7de2b7a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T11:35:10.035Z] [ERROR] [960a1a9a-f899-4421-bded-e85b1a14a4bf] POST /api/v1/orders/6abcdd1c3108a2845cdf7a9b/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-30T11:36:28.189Z] [ERROR] [bbba9220-40e5-444a-b8d3-2afb8921cec6] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-30T11:43:48.325Z] [ERROR] [64a98e06-92bd-479e-b929-c3bff0a031dd] GET /api/services - 404 - Route not found - /api/services
+[2026-09-30T11:43:48.590Z] [ERROR] [ddf4d3da-591f-4f26-a6d7-808e10c4ea08] GET /favicon.ico - 404 - Route not found - /favicon.ico
+[2026-09-30T11:52:22.194Z] [ERROR] [12a799e1-f97d-4a66-af17-6ad3542e8b81] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T11:52:22.205Z] [ERROR] [678ece59-7494-4605-8907-656b628e9081] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T12:01:34.249Z] [ERROR] [cdbb4cde-6c57-4cd1-a1de-b0f92eb903fe] GET /api/v1/admin/consultation-bookings?limit=100 - 401 - Not authorized, token failed or expired
+[2026-09-30T12:01:34.259Z] [ERROR] [d34d61a3-fc86-411d-b42f-1859b8d13729] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T12:22:58.008Z] [ERROR] [3657f2eb-6fcb-4f09-8801-9c6c8f3191b0] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:23:03.451Z] [ERROR] [3a926bf1-3965-4c3b-a549-1d1af971a6cc] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:23:13.934Z] [ERROR] [b3474f4d-e8bc-4b51-a9b9-291044c5185c] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:40:50.648Z] [ERROR] [42ca5375-87aa-49c5-b209-2afa7e99e5bb] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:43:46.592Z] [ERROR] [5a705874-1f38-4223-825c-20a58c324898] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:55:57.931Z] [ERROR] [14fe6a76-d45b-415d-81d8-b6a23e47e902] POST /api/v1/kundli/generate - 403 - This endpoint is disabled (SKIP_KUNDLI_PAYMENT is not enabled in this environment)
+[2026-09-30T12:56:41.255Z] [ERROR] Failed to send email to test@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8872539a16esm779896b3a.14 - gsmtp
+[2026-09-30T12:56:41.256Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abd07076544040c3999b5fc: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8872539a16esm779896b3a.14 - gsmtp
+[2026-09-30T12:56:41.341Z] [ERROR] Kundli generation failed for order 6abd07076544040c3999b5fc: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-09-30T12:57:29.798Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34cf553e787sm4203448eec.17 - gsmtp
+[2026-09-30T12:57:29.799Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abd07376544040c3999b608: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34cf553e787sm4203448eec.17 - gsmtp
+[2026-09-30T12:57:29.880Z] [ERROR] Kundli generation failed for order 6abd07376544040c3999b608: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)

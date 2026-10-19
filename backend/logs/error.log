@@ -1,0 +1,914 @@
+[2026-08-26T12:14:14.660Z] [ERROR] [8919ced8-d94e-4b25-a95a-079de2f7ceb9] GET /favicon.ico - 404 - Route not found - /favicon.ico
+[2026-08-26T12:16:49.168Z] [ERROR] [58f0714a-2998-4877-b3f4-435d0d6d9903] POST /api/v1/auth/otp/request - 400 - Name is required
+[2026-08-26T12:20:28.586Z] [ERROR] [3cfee2dc-89f4-4764-a137-a33d3157b953] GET /api/v1/consultation-services - 404 - Route not found - /api/v1/consultation-services
+[2026-08-26T12:20:44.755Z] [ERROR] [4ed66545-66ab-48da-a448-9088a666eabc] GET /api/v1/services - 404 - Route not found - /api/v1/services
+[2026-08-26T12:20:50.592Z] [ERROR] [16c71f3e-ad05-487d-9c22-58487e86dd3f] GET /api/v1/consultations - 404 - Route not found - /api/v1/consultations
+[2026-08-27T07:08:15.940Z] [ERROR] [4b5b9caf-9af4-462b-af22-958f72735210] GET /api/v1/consultations - 404 - Route not found - /api/v1/consultations
+[2026-08-27T07:09:55.460Z] [ERROR] [7877d93a-d9d8-4e27-b017-4b8b2f59afc3] GET /api/v1/auth/otp/request - 404 - Route not found - /api/v1/auth/otp/request
+[2026-08-27T07:12:01.707Z] [ERROR] [8f49ff19-2fe7-4a09-86c4-cbb78ff31e92] GET /api/v1/auth/profile - 404 - Route not found - /api/v1/auth/profile
+[2026-08-27T07:12:54.251Z] [ERROR] [1968cb65-c606-49c8-9bd6-aab822d292d1] PUT /api/v1/auth/me - 404 - Route not found - /api/v1/auth/me
+[2026-08-27T07:13:04.774Z] [ERROR] [dc8336e9-cc4f-41ff-90ba-ba6d509e9c05] PUT /api/v1/auth/profile - 404 - Route not found - /api/v1/auth/profile
+[2026-08-27T07:14:18.593Z] [ERROR] [aadb96d8-2d3c-441c-8306-da1c0f6d81cc] POST /api/v1/products - 403 - Role 'user' is not authorized to access this resource
+[2026-09-09T05:19:40.552Z] [ERROR] [222bdaa8-f2fd-4b3e-a599-0b6b1a762d00] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-09T05:19:40.561Z] [ERROR] [387decdb-99c4-42fd-b63e-cc58ad0ad157] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-09T05:19:40.562Z] [ERROR] [f3307bc0-8c5e-48cc-b2b8-e8318631a152] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-09T05:19:40.563Z] [ERROR] [2c0e3e81-2478-4c15-a37c-339024696364] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:41.593Z] [ERROR] [713cedcc-a53c-4dae-874c-df424d76f6c3] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-09T05:19:41.595Z] [ERROR] [bdc27817-cd99-4fc9-9962-07e64eebaa23] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-09T05:19:41.596Z] [ERROR] [e0927271-8c7f-44d3-9f0e-9531fa787670] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-09T05:19:41.597Z] [ERROR] [8e79cc50-9d9c-4580-a559-54a37bc9d68a] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:47.938Z] [ERROR] [e42520ce-3dcc-4f53-876b-39bca588edfb] GET /api/v1/consultations/services/kundli-reading - 500 - Not allowed by CORS
+[2026-09-09T05:19:47.939Z] [ERROR] [c86d300c-20f1-4906-85f9-e94b302df4a5] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:48.945Z] [ERROR] [bafbce0d-94ae-40a4-8b34-ef94bd92f4a4] GET /api/v1/consultations/services/kundli-reading - 500 - Not allowed by CORS
+[2026-09-09T05:19:48.949Z] [ERROR] [616e7801-ba4c-46cb-8a3d-16d64e9d8b62] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:52.075Z] [ERROR] [51d809d2-402d-408b-973e-139b104d8580] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 500 - Not allowed by CORS
+[2026-09-09T05:19:52.076Z] [ERROR] [fc3c2304-e935-41b0-998c-a88848724790] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-09-09T05:19:52.077Z] [ERROR] [26b5b23c-1422-4d69-90fc-203e90fe21fc] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-09-09T05:19:52.079Z] [ERROR] [51898fa7-486b-4019-9d7e-fd6a82b41e25] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:53.096Z] [ERROR] [69561c1c-2fbb-4c6e-bea0-4ab0da3b372f] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 500 - Not allowed by CORS
+[2026-09-09T05:19:53.098Z] [ERROR] [0012ab34-2002-46f0-9c86-290f599c882b] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-09-09T05:19:53.099Z] [ERROR] [a07d7e10-faf0-4218-8c17-d11610d55648] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-09-09T05:19:53.100Z] [ERROR] [e986dcf0-4fb2-4c82-ba6a-373d57391070] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:54.570Z] [ERROR] [e19bbefd-5477-4613-a930-19912d110faf] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=gemstones - 500 - Not allowed by CORS
+[2026-09-09T05:19:55.576Z] [ERROR] [b54cf37e-ddc8-45ef-90c4-c845d5cc4fb6] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=gemstones - 500 - Not allowed by CORS
+[2026-09-09T05:19:56.762Z] [ERROR] [610af772-2639-4319-9234-70bbac4887c1] GET /api/v1/blogs?page=1&limit=9 - 500 - Not allowed by CORS
+[2026-09-09T05:19:56.763Z] [ERROR] [a823cb1b-eb70-4f5a-adf0-a21fd5373ffe] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:19:57.777Z] [ERROR] [475a0eea-9559-4e64-af1c-9cdada9903c0] GET /api/v1/blogs?page=1&limit=9 - 500 - Not allowed by CORS
+[2026-09-09T05:19:57.778Z] [ERROR] [1de5f13e-bb17-4e8c-a0ef-072c6c982140] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-09T05:29:38.695Z] [ERROR] [13d51211-e8bc-402a-81c9-ef3865387f46] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-09T05:31:59.401Z] [ERROR] [fede41e9-da52-4706-afd5-f8072e0f5e7c] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-09T05:33:13.979Z] [ERROR] [fc826500-fcc1-454f-acfd-70772ba867d2] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-09T05:56:48.381Z] [ERROR] [4d007cb2-8134-41d0-8d5f-5ef3e89f7c03] POST /api/v1/categories - 401 - Not authorized, token failed or expired
+[2026-09-09T05:56:48.646Z] [ERROR] [fd9acc64-667c-4b67-b9a9-608dd42ad70f] POST /api/v1/categories - 500 - Must supply api_key
+[2026-09-09T05:57:07.297Z] [ERROR] [45b944c0-622f-4dda-b315-5c2aedc6bdcd] POST /api/v1/categories - 500 - Must supply api_key
+[2026-09-09T05:59:32.403Z] [ERROR] [4f977dec-10cc-4559-bf48-2f649fef7cdd] POST /api/v1/products - 500 - Must supply api_key
+[2026-09-09T06:00:04.584Z] [ERROR] [145b3dc7-4462-4e3e-8da8-110de22dffd0] POST /api/v1/products/6aa0f5ceee6ee6da9c1cbd20/view - 401 - Not authorized, no access token provided
+[2026-09-09T06:00:59.360Z] [ERROR] [c9406947-614b-4a5f-aa5d-d97e103564f2] POST /api/v1/products/6aa0f5ceee6ee6da9c1cbd20/view - 401 - Not authorized, no access token provided
+[2026-09-09T06:00:59.370Z] [ERROR] [fdcd8fa4-abdb-4adc-96d2-b3997284503f] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-09-09T06:01:04.257Z] [ERROR] [f441a8cc-9556-4eae-ab0a-71992f8344a2] POST /api/v1/cart - 401 - Not authorized, no access token provided
+[2026-09-09T06:01:04.263Z] [ERROR] [ff6630ee-bed3-4179-89bb-c828754e5b05] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-09-09T06:02:31.640Z] [ERROR] [17add6f4-9bd1-4def-8a73-8d9803168282] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-09T06:02:32.374Z] [ERROR] [d3b071cc-d6e1-4abe-b678-3160559cd0b6] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 400 - Resource not found. Invalid: category
+[2026-09-09T06:02:33.200Z] [ERROR] [30925c4b-0f83-495e-bc95-527a568a0076] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=gemstones - 400 - Resource not found. Invalid: category
+[2026-09-09T06:02:34.207Z] [ERROR] [ffaa799c-0957-48c9-ae8d-55740f7aae18] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=gemstones - 400 - Resource not found. Invalid: category
+[2026-09-09T06:02:38.627Z] [ERROR] [ee53f975-91e4-4ce6-887f-6861b3d1c07c] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 400 - Resource not found. Invalid: category
+[2026-09-09T06:02:39.647Z] [ERROR] [5e2286b2-68b6-42fa-8bc1-815935e0d670] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 400 - Resource not found. Invalid: category
+[2026-09-09T06:02:42.337Z] [ERROR] [0132c8f9-903f-4538-acfc-9b8c68fadfdd] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=gemstones - 400 - Resource not found. Invalid: category
+[2026-09-09T06:02:43.352Z] [ERROR] [bb955305-ea0e-49f4-a8c2-96ca2aa489ea] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=gemstones - 400 - Resource not found. Invalid: category
+[2026-09-11T04:52:21.837Z] [ERROR] [41424dca-3252-463d-87ba-7f006ac97277] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-11T04:52:21.880Z] [ERROR] [b6250635-87dc-4fd8-955c-92c952dc9df8] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-11T04:52:21.962Z] [ERROR] [675bbcd9-41b3-44ae-ad64-346d6f4f8e85] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-09-11T04:52:24.017Z] [ERROR] [0cbdf8af-3f2f-4238-8959-517597983d2f] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:24.917Z] [ERROR] [c54c3f67-8ebc-4a94-8c29-cd3d60cdba74] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:25.099Z] [ERROR] [12a34a79-44be-415c-9db6-d4bc436568e6] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:25.270Z] [ERROR] [6deb7fbe-b515-4ffa-ab14-81ef101ca1e0] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:25.444Z] [ERROR] [2273e578-8877-406c-b7a2-7e82707052a4] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:44.069Z] [ERROR] [352b530a-a712-4a3a-9d0c-7b6225563f1e] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:44.903Z] [ERROR] [147cdedb-5af7-4c95-a3a4-5fde87a827a6] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:45.085Z] [ERROR] [4835637e-fd6a-4219-965a-21136cff71de] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:52:45.204Z] [ERROR] [b24553f2-1b7f-44c3-ac2a-0d2417d2bdfb] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:53:00.727Z] [ERROR] [3fc65f24-71c5-4ea9-b565-530cabf05a14] POST /api/v1/products/6aa0f5ceee6ee6da9c1cbd20/view - 401 - Not authorized, no access token provided
+[2026-09-11T04:53:00.741Z] [ERROR] [183acd14-4aa3-4567-850c-3056008f3c8a] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-09-11T04:53:04.545Z] [ERROR] [06a503fb-9af8-452f-a808-41e0a2f69f94] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-11T04:55:43.445Z] [ERROR] [723e96d0-042d-4788-9b22-a19e11cffa11] POST /api/v1/products/6aa0f5ceee6ee6da9c1cbd20/view - 401 - Not authorized, no access token provided
+[2026-09-11T04:59:56.896Z] [ERROR] [69f50f84-9550-4c3d-9bba-5edb8f7f2ed6] POST /api/v1/auth/register - 409 - Duplicate value entered for field: mobile
+[2026-09-11T05:01:05.045Z] [ERROR] [ec9df9ef-4d07-48b0-a11a-473227743acb] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-11T05:01:06.078Z] [ERROR] [c7b423a6-57a5-40d7-85a7-2406d78d7c7e] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-11T05:01:06.959Z] [ERROR] [247d8996-348b-4ece-af3c-eae617e8a9fb] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 400 - Resource not found. Invalid: category
+[2026-09-11T05:01:07.969Z] [ERROR] [f4fab1e9-f70a-4d9a-8d5b-1a0b4b848b50] GET /api/v1/products?page=1&limit=12&sort=-createdAt&category=rudraksha - 400 - Resource not found. Invalid: category
+[2026-09-11T05:08:44.086Z] [ERROR] [4915b2bb-35d6-4d7f-b6fe-ffdd93766448] POST /api/v1/coupons - 422 - Validation failed
+[2026-09-11T05:08:57.627Z] [ERROR] [66e4f9bd-2cb3-47c4-b017-2dd74b49dc1d] POST /api/v1/coupons - 422 - Validation failed
+[2026-09-11T05:09:23.079Z] [ERROR] [ef5b2794-6409-470b-ac48-e6ef9a3218a1] POST /api/v1/coupons - 422 - Validation failed
+[2026-09-11T05:16:17.871Z] [ERROR] [85bf8658-e2cd-4bd3-86a3-8dbd1d931673] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-11T05:16:17.874Z] [ERROR] [97d48bb8-5467-46b8-8fb1-3267ae60e9b3] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-11T05:16:17.877Z] [ERROR] [13038048-a2ab-4d9c-9dcd-8e40cd82d36e] GET /api/v1/users/address - 401 - Not authorized, token failed or expired
+[2026-09-11T05:16:29.623Z] [ERROR] [634ab37d-042b-4d70-9e0d-a914f899609a] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-11T05:19:44.419Z] [ERROR] [ba5e9c36-9118-4c89-a116-b27cd26c7372] PUT /api/v1/products/6aa0f5ceee6ee6da9c1cbd20 - 401 - Not authorized, token failed or expired
+[2026-09-11T05:19:44.446Z] [ERROR] [2f36f683-65a7-4fe9-bfea-cb758015d2bf] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-09-11T05:19:55.242Z] [ERROR] [6ca2a70c-cd4c-402f-b02c-8bbdcaaf376d] PUT /api/v1/products/6aa0f5ceee6ee6da9c1cbd20 - 422 - Validation failed
+[2026-09-11T05:20:07.288Z] [ERROR] [d53f7f92-ae6c-4737-af80-90cc1dccd9ec] PUT /api/v1/products/6aa0f5ceee6ee6da9c1cbd20 - 422 - Validation failed
+[2026-09-11T05:21:33.423Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd2ceb73cdsm5368335ad.38 - gsmtp
+[2026-09-11T05:21:34.847Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39d951d1056sm2900131a91.7 - gsmtp
+[2026-09-11T05:21:34.904Z] [ERROR] Notification job 6aa38fdc1d1839f072dcd5cc (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39d951d1056sm2900131a91.7 - gsmtp
+[2026-09-11T05:23:04.828Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd2cfe815bsm5528835ad.68 - gsmtp
+[2026-09-11T05:23:04.866Z] [ERROR] Notification job 6aa38fdc1d1839f072dcd5cc (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd2cfe815bsm5528835ad.68 - gsmtp
+[2026-09-11T05:23:08.366Z] [ERROR] [afd481ba-670d-4374-8e46-0a5fedb7817b] GET /api/v1/pages/shipping-policy - 404 - Page not found
+[2026-09-11T05:23:09.415Z] [ERROR] [51e2dd8e-ab11-4925-a8da-ae50138354ea] GET /api/v1/pages/shipping-policy - 404 - Page not found
+[2026-09-11T05:24:25.138Z] [ERROR] [9665c090-f7db-4bde-8232-30c7007c6ae1] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-11T05:24:26.180Z] [ERROR] [176bd175-0c76-4f13-8c1a-b4e31199ab8c] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-11T05:25:04.701Z] [ERROR] [39c0b989-aaa8-4c57-be68-928e143d0604] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-11T06:28:18.326Z] [ERROR] [7f05588c-29c0-4ddf-ab63-30ba89c325c4] GET /api/v1/admin/dashboard/stats - 401 - Not authorized, token failed or expired
+[2026-09-11T06:28:18.333Z] [ERROR] [dad7c85a-5b98-4c0a-9697-9733e206df35] GET /api/v1/admin/dashboard/charts?range=30 - 401 - Not authorized, token failed or expired
+[2026-09-11T06:28:18.335Z] [ERROR] [b8121b93-ed8c-41e3-9b21-a513974a70f0] GET /api/v1/admin/dashboard/recent-consultation-bookings - 401 - Not authorized, token failed or expired
+[2026-09-11T06:28:18.337Z] [ERROR] [7cb7b44c-5399-487e-acc3-f130a44a49d7] GET /api/v1/admin/dashboard/recent-orders - 401 - Not authorized, token failed or expired
+[2026-09-11T06:28:18.339Z] [ERROR] [dd5cfb25-321f-4acf-88e4-0e046c4b1931] GET /api/v1/admin/dashboard/low-stock - 401 - Not authorized, token failed or expired
+[2026-09-11T06:28:38.176Z] [ERROR] [a9277019-4585-43d4-a28d-4587d5bf0c36] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 422 - Validation failed
+[2026-09-11T06:28:45.353Z] [ERROR] [06cf9e2d-318b-4fb1-8ade-b67fce0a7aa3] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 400 - Invalid order status transition: "Confirmed" -> "Shipped"
+[2026-09-11T06:28:52.491Z] [ERROR] [17a27b53-83eb-4920-bac5-3f14be8beeb9] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 422 - Validation failed
+[2026-09-11T06:28:57.834Z] [ERROR] [38bd5684-0dd7-4d49-b3a6-590c07e91834] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 422 - Validation failed
+[2026-09-11T06:29:00.915Z] [ERROR] [9b342c67-0e74-4e6d-9f3c-723175f8da0b] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 400 - Invalid order status transition: "Confirmed" -> "Shipped"
+[2026-09-11T06:29:08.875Z] [ERROR] [abca4b34-44c7-426f-967b-07f5cc3d7ea7] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 400 - Invalid order status transition: "Confirmed" -> "Out For Delivery"
+[2026-09-11T06:29:12.391Z] [ERROR] [be270962-6149-4fb8-a775-717885c54788] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 422 - Validation failed
+[2026-09-11T06:29:23.486Z] [ERROR] [c40428d4-be33-4e86-982f-99031991a201] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 400 - Invalid order status transition: "Confirmed" -> "Returned"
+[2026-09-11T06:29:46.289Z] [ERROR] [fc5a5927-79f0-4d33-a60a-d4236b65278d] POST /api/v1/coupons - 422 - Validation failed
+[2026-09-11T06:30:05.612Z] [ERROR] [79a746ba-a0af-4f57-b04a-a41b8de713d4] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-11T07:07:06.125Z] [ERROR] [21a84354-a179-4f44-8a78-05f1472f6df5] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-11T07:07:06.128Z] [ERROR] [fed92a22-5287-4108-8444-783d93d1f4de] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-11T07:07:06.129Z] [ERROR] [783b057e-afa3-435a-878f-d926a273202f] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-11T07:07:06.130Z] [ERROR] [41110609-5b6f-4db2-9a23-8c23c958c6c7] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-11T07:07:07.167Z] [ERROR] [3d8a180a-58c1-4178-a445-be5f4c7c4c38] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-11T07:07:07.168Z] [ERROR] [477faae8-8db9-425e-a599-54c9d8993c56] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-11T07:07:07.169Z] [ERROR] [73b82e0c-c877-439c-9454-f7926635e255] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-11T07:07:07.170Z] [ERROR] [6aa59da7-ae0a-4b63-9a19-84b740667719] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-11T07:07:14.971Z] [ERROR] [19304124-448b-47ab-9ba7-2121e5a918e1] POST /api/v1/auth/refresh - 404 - Route not found - /api/v1/auth/refresh
+[2026-09-11T07:07:14.974Z] [ERROR] [7e50a135-5c03-4c64-b86b-cf0ffbbdcdd3] POST /api/v1/auth/refresh - 404 - Route not found - /api/v1/auth/refresh
+[2026-09-11T07:07:48.924Z] [ERROR] [928d5642-557f-49b8-9c5c-f3250718e6f1] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-11T07:08:16.964Z] [ERROR] [46e36dc5-6c32-4cd5-a6c9-eec9dcb9ba6e] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-11T07:08:36.888Z] [ERROR] [b6549745-2361-44b1-8220-e993500015a7] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-11T07:08:36.894Z] [ERROR] [daf7bbaf-eb41-4271-ba32-92df1f3bed83] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-11T07:08:36.896Z] [ERROR] [46a59db7-5c2f-4946-9d29-65941ed856a7] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-11T07:08:36.898Z] [ERROR] [19accbad-64ee-41a2-8463-f9b30c7e263a] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-11T07:08:37.941Z] [ERROR] [f9c7258c-c784-4665-a9f3-5db05d719cab] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-11T07:08:37.946Z] [ERROR] [03e7a224-da5e-4f75-b96c-7c6caf36d950] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-11T07:08:37.953Z] [ERROR] [901edca8-a679-4609-98ee-bac0bb63f991] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-11T07:08:37.957Z] [ERROR] [b3b36c42-b349-4069-a300-d11be1662835] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-11T07:08:43.087Z] [ERROR] [f64fbe69-111f-4156-ab9a-bc9a0c2f7fd0] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-09-11T07:08:43.089Z] [ERROR] [06358baa-158d-461c-b674-4fce4af0ac69] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-09-11T07:08:43.094Z] [ERROR] [73d4f711-bb7d-481d-ae1c-c3d2d58c1c43] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-09-11T07:08:43.098Z] [ERROR] [aa05ac10-abe4-42a3-8906-c62cd068e6ac] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-11T07:08:44.103Z] [ERROR] [0f81442e-34a6-429d-8756-1a1aa84bc9ba] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-09-11T07:08:44.109Z] [ERROR] [71d41d5a-77a6-4a4d-a1d7-ea006392b0a6] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-09-11T07:08:44.106Z] [ERROR] [9650dce2-9e65-4501-a8f8-10854b2acc1a] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-09-11T07:08:44.114Z] [ERROR] [61e37485-1fdf-4e5e-a6e0-21425db9a24b] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-11T07:09:09.588Z] [ERROR] [716e803c-6285-4a15-9ad8-550cef56fcba] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-11T07:09:09.595Z] [ERROR] [c5c47f65-c3d9-418d-80c9-23fc9810b141] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-11T07:09:09.596Z] [ERROR] [7652900d-0d01-4519-8cfb-13dc4a621f86] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-11T07:09:12.855Z] [ERROR] [85c209bc-10c0-4205-b650-c257bf51520f] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-11T07:09:12.857Z] [ERROR] [885ff9cf-e1ed-40a6-a65d-ec430376894d] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-11T07:09:12.859Z] [ERROR] [0348dbd9-cea2-4026-b0b3-0b5dbb4b5099] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-11T07:10:19.887Z] [ERROR] [f52518ff-5a77-46fe-a4f0-a42b06c6c071] GET /api/v1/auth/me - 401 - Not authorized, token failed or expired
+[2026-09-11T07:10:19.894Z] [ERROR] [53ecf315-64a6-4f34-bcca-49efb849c656] GET /api/v1/auth/me - 401 - Not authorized, token failed or expired
+[2026-09-11T07:10:20.015Z] [ERROR] [9b5dbcc6-8147-4758-b715-e4cbd4a10e3f] POST /api/v1/auth/refresh - 404 - Route not found - /api/v1/auth/refresh
+[2026-09-11T07:10:20.343Z] [ERROR] [72246b71-bb6e-4d58-99e4-68355099bc9b] POST /api/v1/auth/refresh - 404 - Route not found - /api/v1/auth/refresh
+[2026-09-11T07:10:20.345Z] [ERROR] [7a6d68b0-1f25-4005-a9af-0c5a26ebd308] POST /api/v1/auth/refresh - 404 - Route not found - /api/v1/auth/refresh
+[2026-09-11T07:11:03.490Z] [ERROR] [8d8241ce-2709-414c-823c-9b67fec03139] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-11T07:12:33.421Z] [ERROR] [e84a6d83-39e6-4bb8-8fa8-4176df11b327] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 422 - Validation failed
+[2026-09-11T07:12:39.224Z] [ERROR] [c224916a-1d53-4209-ad89-d556154cdda6] PATCH /api/v1/orders/6aa38fdb1d1839f072dcd5c6/status - 400 - Invalid order status transition: "Confirmed" -> "Shipped"
+[2026-09-11T07:13:00.419Z] [ERROR] [a80e2d44-f8d1-4d8e-9ba8-030542d074a2] POST /api/v1/coupons - 422 - Validation failed
+[2026-09-11T07:13:06.723Z] [ERROR] [10c58487-05f4-4df9-91f6-d9a8bc7da8b7] POST /api/v1/coupons - 422 - Validation failed
+[2026-09-11T07:13:32.380Z] [ERROR] [5b95bfcb-076c-45a7-9c92-5c22bbaba6c2] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-11T07:13:40.549Z] [ERROR] [bf97a682-21fe-408a-b1c6-cdf608a0b755] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-11T07:15:02.481Z] [ERROR] [873f8525-0303-4fa0-bad9-7f743a0bbae8] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-11T07:17:14.807Z] [ERROR] [6843d8b8-5cbd-498d-bd1f-c8aef0d694d2] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-17T09:26:11.179Z] [ERROR] [4f792798-c743-4409-9eb1-ead6bc0d4624] POST /api/v1/products/6aa38fb91d1839f072dcd5ba/view - 401 - Not authorized, no access token provided
+[2026-09-17T09:26:11.213Z] [ERROR] [74b5122c-9741-455a-8d37-d36259f9ee16] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T09:26:14.362Z] [ERROR] [09dcd450-7cbd-4de3-aee1-cb034eae3b5e] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:26:58.941Z] [ERROR] [e96293cb-048c-4bfd-9e8a-97e5cac67853] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:00.243Z] [ERROR] [3ff52a83-77c3-42f6-8132-03d134d51bbd] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:00.421Z] [ERROR] [70b025d5-5faa-4c54-9bbc-29ffb8dbd9ad] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:01.068Z] [ERROR] [fb414107-f4cc-4dbe-a305-7c52f65c2438] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:01.230Z] [ERROR] [c4afcbbc-1f3f-4527-89d4-cbbb897ce17b] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:01.394Z] [ERROR] [358c0a31-6e4a-4da0-b091-26e87d980331] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:01.499Z] [ERROR] [d71d39c0-a322-4ed4-8030-c250c2a08dec] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:32.905Z] [ERROR] [187478e8-b894-4a74-a648-80426e948ed2] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:33.763Z] [ERROR] [c055a4cc-5b04-491e-9b23-8f35f0a4e00c] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-09-17T09:27:41.824Z] [ERROR] [6b39729b-19cb-46de-8afc-6698abbad12c] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:42.583Z] [ERROR] [74e571ba-42a0-4809-93e4-1371623669d0] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:43.114Z] [ERROR] [0bb6b092-d808-42e1-a008-557a15359796] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:43.458Z] [ERROR] [9d559629-a0bf-4ba1-b74b-96a34dfb6a5c] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:43.727Z] [ERROR] [f505de5d-e134-4f4e-8c24-11c4852d3ad5] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:43.888Z] [ERROR] [be049b3e-9a65-43ed-9e0a-12d4e53b956d] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:44.052Z] [ERROR] [34b0cb77-7827-419b-b7a9-d28994d4515e] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:44.248Z] [ERROR] [22d077fa-f052-4d0c-8517-d2f47fb65f5b] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:44.378Z] [ERROR] [09141ea5-2990-458a-b0a0-893eddbb75ab] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:44.540Z] [ERROR] [36a26743-f382-45f9-adda-fd13db190af0] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:44.870Z] [ERROR] [f330c6ec-872c-484b-b39d-461e93c76394] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:45.210Z] [ERROR] [97aaf412-4756-47fb-a8a9-42b11656dde3] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:45.470Z] [ERROR] [4fb346ad-5ce7-47c7-8545-26512eed200c] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:57.014Z] [ERROR] [ff56081f-4597-4218-a137-81a299f0fd81] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:27:58.687Z] [ERROR] [6355637a-139e-46be-989b-d44edd7bbd70] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-17T09:36:45.302Z] [ERROR] [3972cb0f-ba42-4563-bce5-a96503a76358] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-17T09:38:24.823Z] [ERROR] [09dae11c-28ec-4ed5-91c5-3d7622b3e063] GET /api/v1/pages/privacy-policy - 404 - Page not found
+[2026-09-17T09:38:25.859Z] [ERROR] [87e98882-df04-4b50-abed-6ff380ac98e7] GET /api/v1/pages/privacy-policy - 404 - Page not found
+[2026-09-17T09:45:55.112Z] [ERROR] [8a2852bd-835f-455e-a004-fa5f3cbcde81] GET /api/v1/coupons - 401 - Not authorized, token failed or expired
+[2026-09-17T09:45:55.123Z] [ERROR] [2a66ac1c-a912-432a-b894-2b56cddf390c] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T09:45:56.077Z] [ERROR] [1e821698-666c-4d64-9f4a-64015b802f22] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-17T09:45:56.080Z] [ERROR] [3ed76ae5-213d-41f7-baac-b81e75837d25] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-17T09:45:56.091Z] [ERROR] [48359f30-0d27-4c9a-be43-4ba078e8e675] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T09:49:31.183Z] [ERROR] [82a04efc-19af-436a-bf0f-201903d6700d] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-17T11:42:45.149Z] [ERROR] [e46848f4-dcd4-404a-85c6-9d0f82172db1] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:42:45.154Z] [ERROR] [ede72161-c697-4120-ae6a-b7703d13f803] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:42:45.155Z] [ERROR] [72da8ccd-eda6-49c3-a4e1-1f78deb68670] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:42:45.157Z] [ERROR] [12382968-8c34-4463-b6f2-01431dd662e2] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:42:45.152Z] [ERROR] [4e820735-e7a8-4576-a604-6e5356bc2971] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:42:46.159Z] [ERROR] [cb346ce0-e7ad-42ea-96b2-c759865d43c0] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:42:46.160Z] [ERROR] [421cc745-daf3-47bd-9740-1c2abc59a024] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:42:46.169Z] [ERROR] [bf284fb8-0682-449f-87d6-95820c78a5d8] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:42:46.170Z] [ERROR] [454ea4a0-cf0d-498e-8de8-1f7d39bf3cb1] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:42:46.168Z] [ERROR] [454a9ea0-21a5-418e-806e-11642dd59ca2] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:42:57.560Z] [ERROR] [c079586e-8e71-4efd-bf0c-93a763ae82e8] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:42:57.561Z] [ERROR] [f4202a5f-5aee-4a3c-b4f3-e460dac3ad6b] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:42:57.562Z] [ERROR] [23d05e51-5697-4cfa-85f9-20280d529cd2] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:42:57.563Z] [ERROR] [33c025c9-4a84-4d97-9ea3-154a1d643e45] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:42:57.564Z] [ERROR] [d612f57b-ce0b-40ec-beeb-feff2a1c2bb5] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:42:58.620Z] [ERROR] [e7c52073-1af5-4a1d-8312-fbccfc49a0ab] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:42:58.622Z] [ERROR] [3606332b-22aa-4ed2-bd2a-2c98dca28c31] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:42:58.623Z] [ERROR] [f3d35791-2afe-4197-908c-5055cdda6b6f] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:42:58.624Z] [ERROR] [b24498d4-9fd8-4156-bd82-d9884e1b9857] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:42:58.625Z] [ERROR] [80c0cff7-5c0f-4118-bbd1-6be23cfaa0b4] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:09.939Z] [ERROR] [03daa604-10f9-478a-91bb-67ecaed1b7f7] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:09.942Z] [ERROR] [2964fac7-3036-45df-a9c2-ec9dace40264] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:43:09.943Z] [ERROR] [050fdaa2-7e35-40e5-a20c-91da097022eb] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:43:09.946Z] [ERROR] [14959998-19fd-4a00-ae26-7e7c3ed232a4] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:43:09.947Z] [ERROR] [faae3e93-5357-42d9-9915-554bc0c76c6a] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:43:10.992Z] [ERROR] [1fa2f9c8-6c96-42b6-92aa-171c50de4456] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:10.994Z] [ERROR] [1daf1d94-ccaf-42a5-a887-5fb90a5c9229] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:43:10.996Z] [ERROR] [96513e9a-3f93-4d6a-a7e3-ae264e7ea9ee] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:43:10.995Z] [ERROR] [73f8055b-d7ac-4ade-b69b-e9d5780b1ccf] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:43:10.999Z] [ERROR] [e017d59f-19f4-49d6-8dae-05adefb49cee] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:43:14.410Z] [ERROR] [49571597-aead-495b-9a1e-65385aa42d5b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:43:14.411Z] [ERROR] [c5cac1a7-4f41-45f5-8f9c-8dc144e291a8] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:43:14.413Z] [ERROR] [ac8e6bd4-ff79-4bc9-a330-c1c8feb19cc2] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:43:14.414Z] [ERROR] [5d701b91-d747-4e10-b934-d558ef8d5855] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:43:14.415Z] [ERROR] [52e4d0bf-e7c2-4609-b317-71706f0d76df] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:15.423Z] [ERROR] [23c1ba0f-e4ee-47c5-a87f-4aa077b0a381] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-17T11:43:15.425Z] [ERROR] [973115b7-5232-40c4-98f7-e314170858b5] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-17T11:43:15.427Z] [ERROR] [68dff847-0c79-4e6e-8edb-4e29026485df] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-17T11:43:15.429Z] [ERROR] [c037b618-e37d-485e-8d71-7419dff16c9b] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-17T11:43:15.434Z] [ERROR] [4488cb86-a13e-42c0-802e-79b2d1184045] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:18.177Z] [ERROR] [0a570622-d82d-4390-8bad-add1ba76b20a] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-09-17T11:43:18.178Z] [ERROR] [f0810477-f948-4a1d-be4c-d2c14f525d86] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:18.180Z] [ERROR] [6cfe5164-97d2-40c6-860e-a5811fc74863] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-09-17T11:43:18.182Z] [ERROR] [592da031-a362-4e0c-8407-c46fbe4c9573] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-09-17T11:43:19.191Z] [ERROR] [0c440248-ae92-4a77-af01-fa2984c0dc23] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-09-17T11:43:19.192Z] [ERROR] [2abd2b00-1d5d-48b1-8bd0-f215fb123f00] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-17T11:43:19.193Z] [ERROR] [fdc96b42-2f30-4bf9-bc40-fa767547e14f] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-09-17T11:43:19.195Z] [ERROR] [179b3713-5ef3-4a2d-b3e3-83db23067719] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-09-17T11:44:09.491Z] [ERROR] [cff30a70-64d2-4054-b414-8721b8c0e702] GET /api/v1/admin/notification-campaigns - 401 - Not authorized, token failed or expired
+[2026-09-17T11:44:09.496Z] [ERROR] [801db16b-2904-4121-acef-015d7601fd42] GET /api/v1/admin/notification-jobs?status=failed - 401 - Not authorized, token failed or expired
+[2026-09-17T11:44:09.526Z] [ERROR] [38914c41-4bf2-4842-a183-613f6433b2c9] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T11:45:02.950Z] [ERROR] [51255a9f-d415-4953-8e79-05d462d1172d] POST /api/v1/orders/6aa38fdb1d1839f072dcd5c6/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-17T11:46:54.040Z] [ERROR] [e3d0b75f-9388-4cf5-9c01-d2307b5b79e4] POST /api/v1/consultations/services - 500 - next is not a function
+[2026-09-17T11:53:09.565Z] [ERROR] [61195292-fce2-4645-9b66-e642f6fa4a7d] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-17T11:53:10.606Z] [ERROR] [ae381a7a-19d9-4c5e-8231-b4026c29e5cb] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-17T11:53:46.883Z] [ERROR] [81cbc947-b75e-4092-b493-516edb404d59] POST /api/v1/admin/home-sections - 500 - Unknown API key your_api_key
+[2026-09-17T11:53:47.110Z] [ERROR] [b04fe2a2-c4e3-4f4d-b2f8-e1061ca89776] POST /api/v1/admin/home-sections - 500 - Unknown API key your_api_key
+[2026-09-17T11:56:44.852Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35e532e4sm4855592a91.10 - gsmtp
+[2026-09-17T11:56:59.453Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e460b1a94sm399681a91.4 - gsmtp
+[2026-09-17T11:56:59.485Z] [ERROR] Notification job 6aabd57bc726deff04e7665b (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e460b1a94sm399681a91.4 - gsmtp
+[2026-09-17T11:58:29.431Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89eb7d15sm25619545ad.39 - gsmtp
+[2026-09-17T11:58:29.461Z] [ERROR] Notification job 6aabd57bc726deff04e7665b (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89eb7d15sm25619545ad.39 - gsmtp
+[2026-09-17T11:59:16.513Z] [ERROR] [121d7760-a4f9-4197-ade6-f8e7b01ca077] GET /api/v1/admin/blogs - 401 - Not authorized, token failed or expired
+[2026-09-17T11:59:16.525Z] [ERROR] [e2ed9ed8-2e3a-4aa7-9215-7bcae082939d] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T12:00:44.065Z] [ERROR] [094d05a9-15a0-4c4f-a0ab-057bd16f7e8b] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-17T12:00:44.077Z] [ERROR] [473951c6-6aeb-408a-be0b-6f5220105271] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T12:04:00.367Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89eff35asm25181965ad.58 - gsmtp
+[2026-09-17T12:04:00.396Z] [ERROR] Notification job 6aabd57bc726deff04e7665b (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89eff35asm25181965ad.58 - gsmtp
+[2026-09-17T12:08:12.876Z] [ERROR] [1b547f78-6ec3-45cb-9638-02e8c52b9458] POST /api/v1/orders/6aabd57ac726deff04e76655/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-17T12:11:48.944Z] [ERROR] [92c54bd7-407c-499d-8d5b-86a6a489908d] POST /api/v1/products/6aa38fb91d1839f072dcd5ba/view - 401 - Not authorized, no access token provided
+[2026-09-17T12:11:48.958Z] [ERROR] [e00f63c2-3893-48cb-8af2-5c5544066343] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T12:12:15.699Z] [ERROR] [b37becb4-18b4-41cd-97c3-479905930b64] POST /api/v1/cart - 400 - Only -2 units available in stock
+[2026-09-17T12:12:39.847Z] [ERROR] [e9bc528d-3100-4421-bf1d-86c25896271b] PUT /api/v1/products/6aa38fb91d1839f072dcd5ba - 422 - Validation failed
+[2026-09-17T12:12:52.977Z] [ERROR] [2207780d-8f3a-48d1-9f5b-53bb1c042f78] PUT /api/v1/products/6aa38fb91d1839f072dcd5ba - 422 - Validation failed
+[2026-09-17T12:13:05.952Z] [ERROR] [99907233-36c1-4ea5-8bec-2b8d03a749ed] POST /api/v1/cart - 400 - Only -2 units available in stock
+[2026-09-17T12:14:22.671Z] [ERROR] [67ca2188-f7fc-4ee3-ba3c-56ebdf9628fb] POST /api/v1/cart/apply-coupon - 400 - You have already used this coupon the maximum number of times
+[2026-09-17T12:14:57.153Z] [ERROR] [d0eecf14-b323-4835-82c4-4fce65626d77] PUT /api/v1/coupons/6aa3aa0818268fd509471502 - 401 - Not authorized, token failed or expired
+[2026-09-17T12:14:57.158Z] [ERROR] [d382551f-300e-42e9-89d7-3e27f8269c55] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T12:15:46.874Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-87201b2ad8fsm2741650b3a.46 - gsmtp
+[2026-09-17T12:15:59.854Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89e94374sm25887465ad.16 - gsmtp
+[2026-09-17T12:15:59.898Z] [ERROR] Notification job 6aabd9f1c726deff04e767cd (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89e94374sm25887465ad.16 - gsmtp
+[2026-09-17T12:17:29.842Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35df479fsm4978624a91.6 - gsmtp
+[2026-09-17T12:17:29.876Z] [ERROR] Notification job 6aabd9f1c726deff04e767cd (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35df479fsm4978624a91.6 - gsmtp
+[2026-09-17T12:18:15.850Z] [ERROR] [cfa45c07-9a00-4862-9ad7-06cad2aba645] POST /api/v1/cart - 400 - Only -1 units available in stock
+[2026-09-17T12:18:25.957Z] [ERROR] [39cb10b3-a2aa-4a93-87d3-e22d0b260f83] DELETE /api/v1/products/6aabd976c726deff04e76739 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-17T12:18:29.723Z] [ERROR] [1a2e132e-48d1-4e28-af72-e4a289168340] DELETE /api/v1/products/6aabd976c726deff04e76739 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-17T12:19:33.422Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2dd89ebf2e2sm26134215ad.42 - gsmtp
+[2026-09-17T12:19:59.894Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35daaa93sm5955518a91.2 - gsmtp
+[2026-09-17T12:19:59.964Z] [ERROR] Notification job 6aabdad4c726deff04e76895 (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35daaa93sm5955518a91.2 - gsmtp
+[2026-09-17T12:21:29.891Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-87201730814sm2744428b3a.36 - gsmtp
+[2026-09-17T12:21:29.927Z] [ERROR] Notification job 6aabdad4c726deff04e76895 (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-87201730814sm2744428b3a.36 - gsmtp
+[2026-09-17T12:22:59.797Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35dab2e9sm6017290a91.1 - gsmtp
+[2026-09-17T12:22:59.833Z] [ERROR] Notification job 6aabd9f1c726deff04e767cd (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35dab2e9sm6017290a91.1 - gsmtp
+[2026-09-17T12:27:00.131Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35dab2e9sm6044099a91.1 - gsmtp
+[2026-09-17T12:27:00.162Z] [ERROR] Notification job 6aabdad4c726deff04e76895 (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35dab2e9sm6044099a91.1 - gsmtp
+[2026-09-17T12:30:17.075Z] [ERROR] [225c426b-b302-433f-8a1a-c039c6eb1eb7] GET /api/v1/orders?page=1&limit=15 - 401 - Not authorized, token failed or expired
+[2026-09-17T12:30:17.084Z] [ERROR] [aa3a5d52-f585-43c6-abc0-14d6b2815ee5] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T12:37:36.750Z] [ERROR] [4e809220-efe8-4bf4-94f4-e2e5096b9353] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-17T12:37:36.761Z] [ERROR] [4eb08d06-440b-43a9-8768-74862e187170] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-17T12:38:59.642Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-87200d4c94asm2846230b3a.16 - gsmtp
+[2026-09-17T12:39:00.013Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35df6112sm5155437a91.7 - gsmtp
+[2026-09-17T12:39:00.044Z] [ERROR] Notification job 6aabdf62c726deff04e76a28 (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35df6112sm5155437a91.7 - gsmtp
+[2026-09-17T12:40:30.254Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc50c24487bsm2833589a12.12 - gsmtp
+[2026-09-17T12:40:30.340Z] [ERROR] Notification job 6aabdf62c726deff04e76a28 (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc50c24487bsm2833589a12.12 - gsmtp
+[2026-09-18T04:53:29.013Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50d332sm1039497a91.9 - gsmtp
+[2026-09-18T04:53:29.044Z] [ERROR] Notification job 6aabdf62c726deff04e76a28 (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50d332sm1039497a91.9 - gsmtp
+[2026-09-18T05:03:17.889Z] [ERROR] [b9a1f7dc-6b26-44e3-9028-2922f9bce30c] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-18T05:03:17.894Z] [ERROR] [f9e93ead-cc68-478b-aee6-fba02dcad5aa] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-18T05:03:17.906Z] [ERROR] [9335d630-490f-47b5-8ec7-48b13e21fa42] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-18T05:03:17.943Z] [ERROR] [a5b7b724-5da1-470d-8e94-650746f823ee] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:03:29.668Z] [ERROR] [32ce1cc5-b11f-462f-aec3-76aa2bca80a4] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:03:29.679Z] [ERROR] [f85b0627-6668-46ba-a0c3-97c82f733956] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:15:03.230Z] [ERROR] [dfaf58a5-a8b1-4622-b888-c974bb16ef25] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:15:03.240Z] [ERROR] [d0cc4c04-f8b7-45c8-9d52-4190b2732f92] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:34:33.126Z] [ERROR] [60a0de93-486a-484d-96a3-0b223da1a260] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-18T05:40:08.907Z] [ERROR] [ac775089-c52f-417a-b850-79f427cdc160] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:40:08.924Z] [ERROR] [224a1ff0-56cf-4c90-b41c-ebcd43fd226b] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:40:16.675Z] [ERROR] [35fb43c0-c9cc-4103-adba-c2094bf6b092] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:40:16.688Z] [ERROR] [84b0fa6a-ef0b-4aff-9621-5e87e1f2419f] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:40:46.668Z] [ERROR] [08096bfd-554f-45b2-bc84-b9901ad51fe9] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:40:46.698Z] [ERROR] [e398707e-ea72-4142-9809-8da5891a6a38] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:48:06.167Z] [ERROR] [b97b563f-4711-46b4-95e3-8a33f1b4c27d] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:48:06.181Z] [ERROR] [0450a770-2785-4efc-9b22-94c8b78d983d] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:48:13.507Z] [ERROR] [f61b68f9-7a7a-4818-a11c-b6dee8732e95] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T05:48:13.514Z] [ERROR] [4574dd5b-f802-41ae-927f-0dde35571167] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:54:35.060Z] [ERROR] [5f98f066-5ed8-4117-9672-f8269badcee7] GET /api/v1/admin/dashboard/stats - 401 - Not authorized, token failed or expired
+[2026-09-18T05:54:35.063Z] [ERROR] [b48ec436-2932-44e2-a20a-335f667ac340] GET /api/v1/admin/dashboard/recent-orders - 401 - Not authorized, token failed or expired
+[2026-09-18T05:54:35.066Z] [ERROR] [8432059b-3b4d-4fe3-be8f-5f79eb9122ef] GET /api/v1/admin/dashboard/charts?range=30 - 401 - Not authorized, token failed or expired
+[2026-09-18T05:54:35.068Z] [ERROR] [dd8d3844-588b-4d92-92eb-20db1d7fd99d] GET /api/v1/admin/dashboard/recent-consultation-bookings - 401 - Not authorized, token failed or expired
+[2026-09-18T05:54:35.070Z] [ERROR] [66fd523a-5cf4-4952-88db-ea997f1a1407] GET /api/v1/admin/dashboard/low-stock - 401 - Not authorized, token failed or expired
+[2026-09-18T05:54:35.080Z] [ERROR] [63615b1b-21ed-416f-86dc-dc4c96d04758] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T05:54:48.624Z] [ERROR] [ddd7f091-d8c7-4bad-99f7-9fcaa476945d] PUT /api/v1/products/6aabdd47c726deff04e76959 - 422 - Validation failed
+[2026-09-18T05:54:49.923Z] [ERROR] [2b340558-73fa-4ad5-a802-dd510ae01331] PUT /api/v1/products/6aabdd47c726deff04e76959 - 422 - Validation failed
+[2026-09-18T05:55:58.625Z] [ERROR] [94db0a38-3d6d-4bd1-8ed8-e3a23012b457] DELETE /api/v1/products/6aabdd47c726deff04e76959 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-18T05:55:58.973Z] [ERROR] [6b6cc352-2738-4a56-9537-ff3a3b6f2dc0] DELETE /api/v1/products/6aabdd47c726deff04e76959 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-18T05:55:59.169Z] [ERROR] [4e8a9a20-e76d-418c-a4a5-297d8aa87046] DELETE /api/v1/products/6aabdd47c726deff04e76959 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-18T05:55:59.473Z] [ERROR] [79deae5b-e43d-4828-bca1-8e89edfeb51a] DELETE /api/v1/products/6aabdd47c726deff04e76959 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-18T05:56:00.302Z] [ERROR] [8e267de3-dffd-4177-ade5-92ca137f6ca0] DELETE /api/v1/products/6aabdd47c726deff04e76959 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-18T05:56:03.390Z] [ERROR] [555f8229-6a75-4397-a445-c34b230b1916] DELETE /api/v1/products/6aabdd47c726deff04e76959 - 400 - Path `stock` (-1) is less than minimum allowed value (0).
+[2026-09-18T05:56:19.821Z] [ERROR] [0557da8b-2ff0-4418-8c81-e2f96d6cc841] PUT /api/v1/products/6aabdd47c726deff04e76959 - 422 - Validation failed
+[2026-09-18T06:50:29.053Z] [ERROR] [12cf7cfa-66bb-48e2-a66d-a367bb376a18] GET / - 404 - Route not found - /
+[2026-09-18T06:57:25.954Z] [ERROR] [974ce6b6-2c34-440f-a050-4dbc8ee286e2] POST /api/v1/orders - 400 - Path `shippingAddress.fullName` is required.
+[2026-09-18T07:00:11.789Z] [ERROR] Failed to send email to __inv_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb760dd35sm3298965ad.80 - gsmtp
+[2026-09-18T07:00:40.174Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35daaa93sm10439016a91.2 - gsmtp
+[2026-09-18T07:00:40.202Z] [ERROR] Notification job 6aace17a5119492b9ebbaed3 (email to __inv_test_admin__@internal.test) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35daaa93sm10439016a91.2 - gsmtp
+[2026-09-18T07:00:41.450Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7548afcsm3225865ad.36 - gsmtp
+[2026-09-18T07:00:41.491Z] [ERROR] Notification job 6aace17a5119492b9ebbaed4 (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7548afcsm3225865ad.36 - gsmtp
+[2026-09-18T07:02:10.154Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e59abb3dbsm1773092a91.11 - gsmtp
+[2026-09-18T07:02:10.177Z] [ERROR] Notification job 6aace17a5119492b9ebbaed3 (email to __inv_test_admin__@internal.test) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e59abb3dbsm1773092a91.11 - gsmtp
+[2026-09-18T07:02:12.418Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcedc9b1sm356119b3a.22 - gsmtp
+[2026-09-18T07:02:12.459Z] [ERROR] Notification job 6aace17a5119492b9ebbaed4 (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcedc9b1sm356119b3a.22 - gsmtp
+[2026-09-18T07:07:40.260Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7575ea1sm3382405ad.45 - gsmtp
+[2026-09-18T07:07:40.294Z] [ERROR] Notification job 6aace17a5119492b9ebbaed3 (email to __inv_test_admin__@internal.test) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7575ea1sm3382405ad.45 - gsmtp
+[2026-09-18T07:07:41.548Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50d332sm1666185a91.9 - gsmtp
+[2026-09-18T07:07:41.586Z] [ERROR] Notification job 6aace17a5119492b9ebbaed4 (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50d332sm1666185a91.9 - gsmtp
+[2026-09-18T07:08:34.040Z] [ERROR] [42d381fd-2ff2-4115-8769-3b3ea451ea96] PATCH /api/v1/orders/6aace1795119492b9ebbaecf/cancel - 401 - Not authorized, token failed or expired
+[2026-09-18T07:21:57.094Z] [ERROR] Failed to send email to __inv_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc5c50e7433sm481391a12.28 - gsmtp
+[2026-09-18T07:22:40.375Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e361b8e1asm8875262a91.12 - gsmtp
+[2026-09-18T07:22:40.404Z] [ERROR] Notification job 6aace6a95119492b9ebbaedc (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e361b8e1asm8875262a91.12 - gsmtp
+[2026-09-18T07:22:41.639Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35b6a350sm10133182a91.0 - gsmtp
+[2026-09-18T07:22:41.666Z] [ERROR] Notification job 6aace6a95119492b9ebbaedd (email to __inv_test_admin__@internal.test) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e35b6a350sm10133182a91.0 - gsmtp
+[2026-09-18T07:22:42.871Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a3e3fc9sm1748153a91.3 - gsmtp
+[2026-09-18T07:22:42.905Z] [ERROR] Notification job 6aace6a95119492b9ebbaee1 (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a3e3fc9sm1748153a91.3 - gsmtp
+[2026-09-18T07:22:44.137Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc5c50c7df7sm444073a12.19 - gsmtp
+[2026-09-18T07:22:44.166Z] [ERROR] Notification job 6aace6a95119492b9ebbaee2 (email to __inv_test_admin__@internal.test) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc5c50c7df7sm444073a12.19 - gsmtp
+[2026-09-18T07:22:45.440Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dd9e08ecsm381997b3a.53 - gsmtp
+[2026-09-18T07:22:45.469Z] [ERROR] Notification job 6aace6bc5119492b9ebbaee7 (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dd9e08ecsm381997b3a.53 - gsmtp
+[2026-09-18T07:22:46.726Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e36115cc8sm8864065a91.3 - gsmtp
+[2026-09-18T07:22:46.753Z] [ERROR] Notification job 6aace6bc5119492b9ebbaee8 (email to __inv_test_admin__@internal.test) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e36115cc8sm8864065a91.3 - gsmtp
+[2026-09-18T07:22:48.027Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dc8fa40fsm388929b3a.15 - gsmtp
+[2026-09-18T07:22:48.057Z] [ERROR] Notification job 6aace6bd5119492b9ebbaeec (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dc8fa40fsm388929b3a.15 - gsmtp
+[2026-09-18T07:22:49.312Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcfda1b2sm377121b3a.32 - gsmtp
+[2026-09-18T07:22:49.337Z] [ERROR] Notification job 6aace6bd5119492b9ebbaeed (email to __inv_test_admin__@internal.test) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcfda1b2sm377121b3a.32 - gsmtp
+[2026-09-18T07:24:10.432Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5679c25csm794640a91.1 - gsmtp
+[2026-09-18T07:24:10.461Z] [ERROR] Notification job 6aace6a95119492b9ebbaedc (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5679c25csm794640a91.1 - gsmtp
+[2026-09-18T07:24:11.700Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc5bc987e59sm468478a12.4 - gsmtp
+[2026-09-18T07:24:11.728Z] [ERROR] Notification job 6aace6a95119492b9ebbaedd (email to __inv_test_admin__@internal.test) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc5bc987e59sm468478a12.4 - gsmtp
+[2026-09-18T07:24:12.944Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcedc9besm382764b3a.27 - gsmtp
+[2026-09-18T07:24:12.970Z] [ERROR] Notification job 6aace6a95119492b9ebbaee1 (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcedc9besm382764b3a.27 - gsmtp
+[2026-09-18T07:24:14.214Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb75ae73csm3490845ad.57 - gsmtp
+[2026-09-18T07:24:14.244Z] [ERROR] Notification job 6aace6a95119492b9ebbaee2 (email to __inv_test_admin__@internal.test) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb75ae73csm3490845ad.57 - gsmtp
+[2026-09-18T07:24:15.480Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a53fb02sm1715643a91.14 - gsmtp
+[2026-09-18T07:24:15.506Z] [ERROR] Notification job 6aace6bc5119492b9ebbaee7 (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a53fb02sm1715643a91.14 - gsmtp
+[2026-09-18T07:24:16.738Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e361b7266sm8956557a91.13 - gsmtp
+[2026-09-18T07:24:16.802Z] [ERROR] Notification job 6aace6bc5119492b9ebbaee8 (email to __inv_test_admin__@internal.test) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e361b7266sm8956557a91.13 - gsmtp
+[2026-09-18T07:24:18.159Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e3abada87sm8040056a91.14 - gsmtp
+[2026-09-18T07:24:18.184Z] [ERROR] Notification job 6aace6bd5119492b9ebbaeec (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e3abada87sm8040056a91.14 - gsmtp
+[2026-09-18T07:24:19.408Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dd3eb803sm374463b3a.41 - gsmtp
+[2026-09-18T07:24:19.434Z] [ERROR] Notification job 6aace6bd5119492b9ebbaeed (email to __inv_test_admin__@internal.test) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dd3eb803sm374463b3a.41 - gsmtp
+[2026-09-18T07:29:40.521Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dded2ca5sm381340b3a.61 - gsmtp
+[2026-09-18T07:29:40.550Z] [ERROR] Notification job 6aace6a95119492b9ebbaedc (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dded2ca5sm381340b3a.61 - gsmtp
+[2026-09-18T07:29:41.756Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875cf02d4d8sm404665b3a.5 - gsmtp
+[2026-09-18T07:29:41.783Z] [ERROR] Notification job 6aace6a95119492b9ebbaedd (email to __inv_test_admin__@internal.test) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875cf02d4d8sm404665b3a.5 - gsmtp
+[2026-09-18T07:29:43.036Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7525ba9sm3654305ad.18 - gsmtp
+[2026-09-18T07:29:43.066Z] [ERROR] Notification job 6aace6a95119492b9ebbaee1 (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7525ba9sm3654305ad.18 - gsmtp
+[2026-09-18T07:29:44.293Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e55ed815bsm973575a91.3 - gsmtp
+[2026-09-18T07:29:44.343Z] [ERROR] Notification job 6aace6a95119492b9ebbaee2 (email to __inv_test_admin__@internal.test) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e55ed815bsm973575a91.3 - gsmtp
+[2026-09-18T07:29:45.616Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddbabb90b0sm1294975ad.15 - gsmtp
+[2026-09-18T07:29:45.644Z] [ERROR] Notification job 6aace6bc5119492b9ebbaee7 (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddbabb90b0sm1294975ad.15 - gsmtp
+[2026-09-18T07:29:46.872Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb760d679sm3540435ad.76 - gsmtp
+[2026-09-18T07:29:46.903Z] [ERROR] Notification job 6aace6bc5119492b9ebbaee8 (email to __inv_test_admin__@internal.test) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb760d679sm3540435ad.76 - gsmtp
+[2026-09-18T07:29:48.131Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a57079bsm1801925a91.15 - gsmtp
+[2026-09-18T07:29:48.158Z] [ERROR] Notification job 6aace6bd5119492b9ebbaeec (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a57079bsm1801925a91.15 - gsmtp
+[2026-09-18T07:29:49.379Z] [ERROR] Failed to send email to __inv_test_admin__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50cd09sm1693322a91.7 - gsmtp
+[2026-09-18T07:29:49.406Z] [ERROR] Notification job 6aace6bd5119492b9ebbaeed (email to __inv_test_admin__@internal.test) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50cd09sm1693322a91.7 - gsmtp
+[2026-09-18T08:02:18.640Z] [ERROR] [b1ec74ce-a496-4254-a68a-cf3d6ab7de46] GET /api/v1/inventory/stock/6aabdd47c726deff04e76959 - 401 - Not authorized, token failed or expired
+[2026-09-18T08:02:18.647Z] [ERROR] [31464436-18cc-4d38-9a30-6ce32642d85d] GET /api/v1/inventory/movements?productId=6aabdd47c726deff04e76959&limit=30 - 401 - Not authorized, token failed or expired
+[2026-09-18T08:02:18.661Z] [ERROR] [03d5631f-1efc-45cb-834c-099c5044e385] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T08:04:16.984Z] [ERROR] [05ca152f-da81-405d-b584-3f2277a450ea] POST /api/v1/orders/6aabdf61c726deff04e76a22/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-18T09:20:18.395Z] [ERROR] [916b91f9-c8e7-4cef-a305-f23102c504ea] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-18T09:20:18.435Z] [ERROR] [dce4927e-5b7b-465a-be1d-ca1e56d393c3] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T09:20:19.089Z] [ERROR] [193190e0-72f0-4487-8288-51784a50bbcd] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-18T09:20:19.096Z] [ERROR] [3d579e05-2924-48b1-bbe2-c242a75c28f4] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-18T09:20:19.104Z] [ERROR] [bd65984c-6239-4831-a1fe-05209d115b47] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-18T09:20:19.108Z] [ERROR] [2a87890e-6552-4121-925c-79466d5fb2f5] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T09:20:31.907Z] [ERROR] [aa6f8a19-5e84-4248-bd12-cfc43084972d] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T09:20:31.919Z] [ERROR] [e05d9b28-a5f0-4092-a6b1-a1dfec4465f7] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T09:21:42.931Z] [ERROR] [c37a1710-9a5d-4ef8-a496-1d20fe183403] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T09:21:42.940Z] [ERROR] [ab99b63d-a552-4f3d-b14e-4b38754e3b33] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T09:22:04.348Z] [ERROR] [a18a699f-8c85-4ad5-8163-85dc164aab19] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T09:22:04.359Z] [ERROR] [25b51496-224c-460b-8b0f-f06526895dfc] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T09:42:26.312Z] [ERROR] [984e3844-4a53-4d92-b134-f2f0ff85a71f] GET /api/v1/coupons - 401 - Not authorized, token failed or expired
+[2026-09-18T09:42:26.339Z] [ERROR] [787a29f2-3eed-4a6b-a396-8c56130cc1dd] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T09:54:14.023Z] [ERROR] [652f351e-3d98-48e8-95e8-61e6cb261767] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T09:54:14.028Z] [ERROR] [775b3a37-976d-464c-a68e-cbb98e6a76d7] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T10:12:49.458Z] [ERROR] [b884781a-62dd-475c-988c-a33f5a064e0f] POST /api/v1/orders - 401 - Not authorized, no access token provided
+[2026-09-18T10:13:11.457Z] [ERROR] Failed to send email to __inv_test_guest__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875ddecbb5dsm596323b3a.57 - gsmtp
+[2026-09-18T10:13:19.134Z] [ERROR] Failed to send email to __inv_test_admin2__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb73db0b8sm5522885ad.3 - gsmtp
+[2026-09-18T10:13:19.162Z] [ERROR] Notification job 6aad0eb66a02cefe661df53b (email to __inv_test_admin2__@internal.test) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb73db0b8sm5522885ad.3 - gsmtp
+[2026-09-18T10:13:20.403Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a0e860asm2941480a91.1 - gsmtp
+[2026-09-18T10:13:20.436Z] [ERROR] Notification job 6aad0eb66a02cefe661df53c (email to admin@myshop.com) failed on attempt 1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a0e860asm2941480a91.1 - gsmtp
+[2026-09-18T10:13:27.846Z] [ERROR] [a577c9b3-292b-4580-944a-a12eb9d24f49] POST /api/v1/coupons/validate - 404 - Invalid coupon code
+[2026-09-18T10:14:08.586Z] [ERROR] [160bd787-81a3-448b-8c5d-2a04531537dc] GET /api/v1/products/id/6aad0ea16a02cefe661df52d - 404 - Product not found
+[2026-09-18T10:14:09.621Z] [ERROR] [912a3ba8-4fd7-4e87-aab3-7e5866658426] GET /api/v1/products/id/6aad0ea16a02cefe661df52d - 404 - Product not found
+[2026-09-18T10:14:39.428Z] [ERROR] [34eb77f7-601a-47c1-8b09-f29ab94e8633] GET /api/v1/products/id/6aad0ea16a02cefe661df52d - 404 - Product not found
+[2026-09-18T10:14:40.461Z] [ERROR] [dff2d1a9-dbe7-4ca1-94dc-e35c74c6974d] GET /api/v1/products/id/6aad0ea16a02cefe661df52d - 404 - Product not found
+[2026-09-18T10:16:13.227Z] [ERROR] Failed to send email to __inv_test_admin2__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7573f4dsm5501455ad.46 - gsmtp
+[2026-09-18T10:16:13.261Z] [ERROR] Notification job 6aad0eb66a02cefe661df53b (email to __inv_test_admin2__@internal.test) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb7573f4dsm5501455ad.46 - gsmtp
+[2026-09-18T10:16:14.572Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dc8fa41dsm587194b3a.19 - gsmtp
+[2026-09-18T10:16:14.600Z] [ERROR] Notification job 6aad0eb66a02cefe661df53c (email to admin@myshop.com) failed on attempt 2: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dc8fa41dsm587194b3a.19 - gsmtp
+[2026-09-18T10:16:55.386Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875dcfda1b2sm576355b3a.32 - gsmtp
+[2026-09-18T10:21:43.326Z] [ERROR] Failed to send email to __inv_test_admin2__@internal.test: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e36115cc8sm9638775a91.3 - gsmtp
+[2026-09-18T10:21:43.358Z] [ERROR] Notification job 6aad0eb66a02cefe661df53b (email to __inv_test_admin2__@internal.test) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e36115cc8sm9638775a91.3 - gsmtp
+[2026-09-18T10:21:44.697Z] [ERROR] Failed to send email to admin@myshop.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50c9fasm2644195a91.8 - gsmtp
+[2026-09-18T10:21:44.723Z] [ERROR] Notification job 6aad0eb66a02cefe661df53c (email to admin@myshop.com) failed on attempt 3: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a50c9fasm2644195a91.8 - gsmtp
+[2026-09-18T10:32:19.576Z] [ERROR] [59385d73-5822-4fd2-8a46-2f1615e68822] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-18T10:32:19.594Z] [ERROR] [31986011-4ea1-4127-9a79-b1697579d0c5] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T11:07:21.245Z] [ERROR] [df9bbf9f-54f3-41ee-97a1-1f02a14b31bd] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T11:07:21.254Z] [ERROR] [dcc07ccb-7f19-43c3-a06c-96d0d2e22b33] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T11:07:23.026Z] [ERROR] [04369ce2-22fb-4bf0-9c31-29af41dbb1d8] POST /api/v1/products/6aabdd47c726deff04e76959/view - 401 - Not authorized, no access token provided
+[2026-09-18T11:07:23.033Z] [ERROR] [f66efef0-46dc-4c62-bba8-660e1a39e112] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T11:29:30.625Z] [ERROR] [165a15ec-d111-4e07-a59a-675c36007e24] POST /api/v1/orders/6aad0f95fdb6fb1a59a76106/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-18T11:51:02.826Z] [ERROR] [0532248a-5b5b-49ec-ac29-d68a7f1d6e8a] GET /api/v1/orders/6aad0f95fdb6fb1a59a76106/track - 401 - Not authorized, token failed or expired
+[2026-09-18T11:51:02.846Z] [ERROR] [99ac59b5-bd32-440d-a122-d12d3e9881c4] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-18T11:54:44.760Z] [ERROR] Failed to send email to __ord_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ddb760d684sm6589265ad.81 - gsmtp
+[2026-09-18T11:54:52.410Z] [ERROR] [8f601ffa-1df6-427f-8887-84a69a78c76c] PATCH /api/v1/orders/6aad2683702d1fede9947b49/status - 400 - Invalid order status transition: "Packed" -> "Shipped"
+[2026-09-18T11:54:52.542Z] [ERROR] [5596a430-7775-4754-928e-0ced9023163c] PATCH /api/v1/orders/6aad2683702d1fede9947b49/status - 400 - Invalid order status transition: "Packed" -> "Delivered"
+[2026-09-18T11:55:01.905Z] [ERROR] Failed to send email to __ord_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e5a0e860asm3519904a91.1 - gsmtp
+[2026-09-18T11:55:03.802Z] [ERROR] Failed to send email to __ord_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-875ddecbb5dsm705207b3a.57 - gsmtp
+[2026-09-18T11:55:45.220Z] [ERROR] Failed to send email to __ord_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc5c4dba322sm810773a12.10 - gsmtp
+[2026-09-18T11:55:47.141Z] [ERROR] Failed to send email to __ord_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-39e557c2949sm1443738a91.0 - gsmtp
+[2026-09-18T12:24:16.767Z] [ERROR] [2f1ec401-1f41-4d27-98c4-d584d9627e7c] GET /api/v1/admin/dashboard/stats - 401 - Not authorized, token failed or expired
+[2026-09-18T12:24:16.776Z] [ERROR] [2bf52708-e342-4e9b-8815-ea158385cbeb] GET /api/v1/admin/dashboard/charts?range=30 - 401 - Not authorized, token failed or expired
+[2026-09-18T12:24:16.779Z] [ERROR] [df8a2c58-1207-4569-bdf5-4bd152a8d0fc] GET /api/v1/admin/dashboard/recent-orders - 401 - Not authorized, token failed or expired
+[2026-09-18T12:24:16.781Z] [ERROR] [f3011fc9-ec6a-404b-aeb9-eefb7c2339c2] GET /api/v1/admin/dashboard/recent-consultation-bookings - 401 - Not authorized, token failed or expired
+[2026-09-18T12:24:16.782Z] [ERROR] [97fb5b49-d31a-4f88-b955-46ce2e99e862] GET /api/v1/admin/dashboard/low-stock - 401 - Not authorized, token failed or expired
+[2026-09-18T12:24:16.784Z] [ERROR] [87bca530-3d81-4b45-b010-f7bc20e0e458] GET /api/v1/admin/dashboard/inventory-stats - 401 - Not authorized, token failed or expired
+[2026-09-18T12:24:16.814Z] [ERROR] [4fffda3b-def3-44db-acb3-c593ac738d18] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-23T08:44:33.277Z] [ERROR] [8be560f5-298e-4ca6-9c05-fd05f16aa01a] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-23T08:44:33.284Z] [ERROR] [864ec76d-e77e-4932-a293-ac58001e0611] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-23T08:44:33.288Z] [ERROR] [e7395afe-3eb5-4844-8130-5e4556b5a6b4] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-23T08:44:33.331Z] [ERROR] [cfd8ce9d-5504-407a-8615-71d394a55afa] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-23T08:44:41.996Z] [ERROR] [7765038c-5fdd-4166-80ef-3c39f4267b4e] POST /api/v1/auth/login - 401 - Invalid email or password
+[2026-09-23T08:45:49.968Z] [ERROR] [004aead9-fb8e-4b24-9529-df5d67f01dcc] POST /api/v1/coupons/validate - 404 - Invalid coupon code
+[2026-09-23T08:46:01.463Z] [ERROR] [d27bc7ba-890d-4382-9850-89382f29c71b] POST /api/v1/orders - 401 - Internal Server Error
+[2026-09-23T08:46:01.472Z] [ERROR] [78bca1ef-602c-4d69-b5a6-385ddff48b0b] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-23T08:46:43.710Z] [ERROR] Failed to send email to robotwallahbgs@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a0807d5316sm3437138a91.3 - gsmtp
+[2026-09-23T08:48:02.751Z] [ERROR] [254891d7-45b9-48b2-8677-e7c409aab4df] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-23T08:48:12.683Z] [ERROR] [8d4ae356-2440-4bab-96eb-0560f8237873] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-23T08:48:53.784Z] [ERROR] [2b8859a1-2edd-4925-83af-94442773930c] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-23T08:49:03.880Z] [ERROR] [6a44d143-82ad-43a7-962b-37243282435c] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-23T08:51:10.136Z] [ERROR] [200cfb44-b23e-4290-ad02-101bb45e0fd1] POST /api/v1/instagram-feed - 422 - Validation failed
+[2026-09-23T08:51:14.040Z] [ERROR] [bbf81ae2-c4c6-418d-af79-ec60754d238f] POST /api/v1/instagram-feed - 422 - Validation failed
+[2026-09-24T04:52:04.976Z] [ERROR] [922419b3-9916-44ef-b53d-2b8fb610bdf6] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-24T04:52:04.981Z] [ERROR] [a9495bb4-dadf-4f5b-9ad6-2fb6ca2dbde6] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-24T04:52:04.984Z] [ERROR] [0d82655f-d984-44d9-8506-85a59ee8b097] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-24T04:52:05.028Z] [ERROR] [da76bb29-11a1-40f9-816e-0559a346afcf] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-24T04:52:05.031Z] [ERROR] [8ab2428b-72cf-4842-a862-b9b4fa74d921] GET /api/v1/products/hyy - 404 - Product not found
+[2026-09-24T05:12:49.853Z] [ERROR] [3d76b73a-2d4a-461a-b439-3d6db3297e61] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T05:14:03.317Z] [ERROR] [2bb0999e-2ab1-455c-af22-82277624ecdc] GET /api/v1/kundli/download/6ab4b18e43b155708c723644 - 404 - This Kundli report is not ready yet
+[2026-09-24T05:14:43.127Z] [ERROR] [bc37c16d-eeca-4f32-9371-41a2381ea59a] PATCH /api/v1/kundli/status - 500 - Unknown API key your_api_key
+[2026-09-24T05:15:21.581Z] [ERROR] Failed to send email to __pko_test_customer__@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a0972b11d4sm2711267a91.4 - gsmtp
+[2026-09-24T05:17:37.613Z] [ERROR] [60f05637-a5aa-4518-85ac-e036ee437268] GET /api/v1/kundli/orders?page=1&limit=15 - 401 - Not authorized, token failed or expired
+[2026-09-24T05:17:37.632Z] [ERROR] [80e7ffcf-08e6-44eb-874b-d63dc3ebad1e] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-24T05:20:24.446Z] [ERROR] [61d6d9d1-ab66-4638-9729-9f2e1d569567] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T05:20:24.455Z] [ERROR] [06a20c8f-bd28-421c-a01f-41815d460d46] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-24T05:23:36.884Z] [ERROR] [2242a64c-13d2-4e6e-96e2-5447b604f72c] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-24T05:23:38.679Z] [ERROR] [b726d71e-db13-442b-b286-7a2dc2148e28] GET /api/v1/consultations/services/kundli-reading - 404 - Consultation service not found
+[2026-09-24T05:47:40.907Z] [ERROR] [ae4f82ee-688c-4223-8aee-6cf35b6975ea] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:01:17.592Z] [ERROR] Failed to send email to __guest_test_ramesh@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a09773a515sm2930577a91.15 - gsmtp
+[2026-09-24T06:01:17.592Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ab4b97c51f023f514732c40: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a09773a515sm2930577a91.15 - gsmtp
+[2026-09-24T06:12:05.934Z] [ERROR] [dd603725-741a-4426-969b-bbf4c77cbb9e] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:12:06.119Z] [ERROR] [50b93603-2650-4dd2-9d62-e09d338dc44f] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:15:29.036Z] [ERROR] [6b1a6713-98e0-4652-af89-d7abe6f460f4] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:15:32.187Z] [ERROR] [b5b94293-4871-4178-bd50-62f9402f01c1] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:23:15.615Z] [ERROR] Failed to send email to __kundli_test_user@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc75f3d1336sm2065580a12.12 - gsmtp
+[2026-09-24T06:23:15.616Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ab4c0035040e8f705a572c5: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-cc75f3d1336sm2065580a12.12 - gsmtp
+[2026-09-24T06:23:51.207Z] [ERROR] Failed to send email to __guest_test_suresh@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a082a0edaesm3320698a91.1 - gsmtp
+[2026-09-24T06:23:51.207Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ab4bf355040e8f705a572c1: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a082a0edaesm3320698a91.1 - gsmtp
+[2026-09-24T06:24:00.102Z] [ERROR] [41463f66-db60-41ca-a6a5-6c0320d07db5] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:24:28.889Z] [ERROR] [72fd123b-07f2-4456-a0be-2ce9674e09b5] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:25:09.135Z] [ERROR] [f1027382-b561-43a2-bc50-62a1ca792c6c] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:25:34.799Z] [ERROR] [2f80f1f7-a12f-421f-a507-46ad2c10295e] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:25:43.669Z] [ERROR] [a5b90de0-b48e-4be1-b7b2-6343201cff7e] GET /api/v1/kundli/order - 404 - Route not found - /api/v1/kundli/order
+[2026-09-24T06:25:43.891Z] [ERROR] [5c82dd6a-de23-4a4d-9687-163b9d270f32] GET /favicon.ico - 404 - Route not found - /favicon.ico
+[2026-09-24T06:26:16.590Z] [ERROR] [d8ca2fb8-cf35-4847-979a-b0c4906ede8b] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:28:41.543Z] [ERROR] [adff5e74-ee30-4585-9f88-50ae88043889] POST /api/v1/kundli/order - 401 - Internal Server Error
+[2026-09-24T06:30:27.048Z] [ERROR] [b60c87a0-bd14-4cd5-94cc-f932925d1fd3] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-24T06:30:46.194Z] [ERROR] [3704b9dd-0c26-4edc-97e4-c6c996fd9d7b] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-24T06:32:48.896Z] [ERROR] [7c59e22d-bf9a-419e-bdb4-6a6946c66d4c] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-24T08:17:36.978Z] [ERROR] [3316e91a-530a-4be3-8072-b8737a71858c] GET /api/v1/kundli/order - 404 - Route not found - /api/v1/kundli/order
+[2026-09-28T11:20:09.815Z] [ERROR] [e57a417e-7b7a-4862-9e01-ec6fa592c178] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-09-28T11:20:09.820Z] [ERROR] [b01228cd-9dfd-4333-bf92-885eb28bed61] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-28T11:20:09.822Z] [ERROR] [25d4c4ba-d700-4a92-8092-938f4bf042ff] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-28T11:20:09.821Z] [ERROR] [c7959158-101a-4e2a-9a5d-8b72fbf35f6d] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-28T11:20:09.823Z] [ERROR] [2969453d-5cef-4ef1-a348-381003018d3b] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-28T11:20:09.818Z] [ERROR] [147bfe94-d026-427f-bc0b-e841543a235a] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-09-28T11:20:09.824Z] [ERROR] [3de0ebea-626a-481f-b61d-49bbab77917d] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.859Z] [ERROR] [504afc48-e040-4848-8051-d8a377610109] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.861Z] [ERROR] [dcdb941a-44ac-44ea-9eec-fb02b370c028] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.862Z] [ERROR] [c114b929-152b-4770-b26a-42cf31369033] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.863Z] [ERROR] [b41fb861-e419-447f-b92f-4b315a4c184a] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.863Z] [ERROR] [76b3633e-9c51-4fa4-a060-26dfc0ba556d] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.864Z] [ERROR] [dd8fb62f-7a84-4769-bdfb-c0eee23f11eb] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-28T11:20:10.865Z] [ERROR] [ca2ae905-d11d-4508-acf1-2d59ad01b40f] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.236Z] [ERROR] [c85ea030-98fa-456e-8a10-2fdc0154d48b] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.238Z] [ERROR] [6d1c13c6-429c-419d-aa4f-eafa463f7754] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.239Z] [ERROR] [4d5cf8f0-6533-4ed2-9132-d0f2eae96970] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.240Z] [ERROR] [24da9ba8-8c90-4683-a6e9-3694917c23a4] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.241Z] [ERROR] [7c02f7f3-a060-4b66-afb3-5491b065956b] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.244Z] [ERROR] [38336471-a3a1-4e45-82b4-b6b678523fa8] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-28T11:35:13.243Z] [ERROR] [f81b5d12-392c-40c4-b2d0-5080ba72be39] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.242Z] [ERROR] [af1e50ed-f742-403b-aa7a-423e87e880ce] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.247Z] [ERROR] [ce14af7b-caac-459e-a8c8-0ee97f92971e] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.248Z] [ERROR] [6807fd71-bb8c-4dca-aa56-245ad311f3df] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.292Z] [ERROR] [8453d0e2-d5ea-4f63-a590-709e224f6921] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.294Z] [ERROR] [cf8d1733-05ba-433d-aafc-94e40fbe094a] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.295Z] [ERROR] [4d571489-cfa9-4b4c-87ab-4c93b72f38b5] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-09-28T11:35:14.296Z] [ERROR] [625ccdc3-c304-4d58-881b-e4d99201c08c] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-09-28T12:27:14.905Z] [ERROR] [03f23bf7-a7e0-4bf4-9511-61b3e2d74bf9] POST /api/v1/categories - 400 - Only image files (jpeg, jpg, png, webp) are allowed
+[2026-09-28T12:28:09.021Z] [ERROR] Could not seed initial warehouse stock for product 6aba5d58030b90cdec499761: No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-28T12:28:22.059Z] [ERROR] [5157a8ee-1173-448d-bfbf-06365e770592] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Only image files (jpeg, jpg, png, webp) are allowed
+[2026-09-28T12:28:47.646Z] [ERROR] [e1a119e8-7f59-4fbb-8695-24d0465f79ac] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-28T12:29:12.542Z] [ERROR] [b6f5291f-45a3-4de4-8bf1-6c670e2d4b92] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-28T12:29:28.977Z] [ERROR] [74ac5a87-baaa-4c23-933c-0c3de1995393] POST /api/v1/inventory/adjust - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-28T12:29:31.301Z] [ERROR] [ec03bc37-8cca-4af8-8b66-b44c92e4c54b] POST /api/v1/inventory/adjust - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-28T12:29:44.220Z] [ERROR] [b6ad619b-d2df-4c88-b258-0bda8952dd4d] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-28T12:33:13.179Z] [ERROR] [23d096f1-dbea-4d30-805c-660dcd204e55] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-28T12:34:05.285Z] [ERROR] [19ae6fd8-a94b-4939-b3ae-35a4b31fad25] POST /api/v1/auth/otp/request - 409 - Duplicate value entered for field: mobile
+[2026-09-28T12:34:17.410Z] [ERROR] [36db2b40-2000-4c02-83c1-b6c3a66e619c] POST /api/v1/orders - 401 - Internal Server Error
+[2026-09-28T12:34:17.420Z] [ERROR] [7ef0b2e8-363d-48db-9298-2eac186bcdcb] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-28T12:35:09.292Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a0b8efb156sm22216765a91.1 - gsmtp
+[2026-09-28T12:40:21.810Z] [ERROR] [cf49c884-1293-41e2-896c-e55775798265] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-28T12:40:54.193Z] [ERROR] [c205cec5-d984-47dd-8178-084efe0484d2] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-30T08:53:07.970Z] [ERROR] [e3af2a50-10b5-42f9-a50f-a75c74c2e01b] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.977Z] [ERROR] [263d0c95-7ac5-4867-a34e-ae7fc5a7a1f6] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.982Z] [ERROR] [cb92f7a1-b31b-4d0e-9fe2-45f8b8f60bfc] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:08.066Z] [ERROR] [00719afb-c2e5-46c6-8e95-9a92f8ed3a2c] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T08:54:32.672Z] [ERROR] [cb53d7ec-b438-4dc1-bdad-19d6f5e73254] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-30T08:55:21.028Z] [ERROR] [46be94c9-b88d-4768-afc1-d0687522954b] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-30T08:55:33.216Z] [ERROR] [f8918081-1e84-49fd-9df1-84d3c0edfdbc] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-30T08:56:05.027Z] [ERROR] [0dc074e7-140e-402c-9de0-e1732b3d990a] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-30T09:55:44.035Z] [ERROR] [b9529bd0-2126-44cf-8011-78ab35245a58] PUT /api/v1/products/6aba5d58030b90cdec499761 - 401 - Not authorized, token failed or expired
+[2026-09-30T09:55:44.086Z] [ERROR] [7a93a269-15a7-4da3-95a1-fb43e7da1773] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T09:56:59.838Z] [ERROR] [9c35d7b7-34b4-4ff1-8367-09c3f5da1860] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.840Z] [ERROR] [66ec00f3-5129-4456-8a71-ce4900718c0a] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.843Z] [ERROR] [a2566c11-4220-4b78-a5e9-e50d06b8131e] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.859Z] [ERROR] [696bb295-5beb-4cc0-9284-79d93c25919f] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T09:57:51.024Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-14d02f90bcdsm3955110c88.0 - gsmtp
+[2026-09-30T10:13:30.844Z] [ERROR] [1644d19e-d1f2-4f72-91b7-144c0df04b7c] GET /api/v1/orders/6abcdd1c3108a2845cdf7a9b - 401 - Not authorized, token failed or expired
+[2026-09-30T10:13:30.848Z] [ERROR] [96135003-c0bd-4f00-ba5d-d3d4a7fba975] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T10:13:30.856Z] [ERROR] [3140cdc4-0170-49b8-b1af-ab78c7de2b7a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T11:35:10.035Z] [ERROR] [960a1a9a-f899-4421-bded-e85b1a14a4bf] POST /api/v1/orders/6abcdd1c3108a2845cdf7a9b/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-30T11:36:28.189Z] [ERROR] [bbba9220-40e5-444a-b8d3-2afb8921cec6] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-30T11:43:48.325Z] [ERROR] [64a98e06-92bd-479e-b929-c3bff0a031dd] GET /api/services - 404 - Route not found - /api/services
+[2026-09-30T11:43:48.590Z] [ERROR] [ddf4d3da-591f-4f26-a6d7-808e10c4ea08] GET /favicon.ico - 404 - Route not found - /favicon.ico
+[2026-09-30T11:52:22.194Z] [ERROR] [12a799e1-f97d-4a66-af17-6ad3542e8b81] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T11:52:22.205Z] [ERROR] [678ece59-7494-4605-8907-656b628e9081] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T12:01:34.249Z] [ERROR] [cdbb4cde-6c57-4cd1-a1de-b0f92eb903fe] GET /api/v1/admin/consultation-bookings?limit=100 - 401 - Not authorized, token failed or expired
+[2026-09-30T12:01:34.259Z] [ERROR] [d34d61a3-fc86-411d-b42f-1859b8d13729] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T12:22:58.008Z] [ERROR] [3657f2eb-6fcb-4f09-8801-9c6c8f3191b0] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:23:03.451Z] [ERROR] [3a926bf1-3965-4c3b-a549-1d1af971a6cc] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:23:13.934Z] [ERROR] [b3474f4d-e8bc-4b51-a9b9-291044c5185c] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:40:50.648Z] [ERROR] [42ca5375-87aa-49c5-b209-2afa7e99e5bb] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:43:46.592Z] [ERROR] [5a705874-1f38-4223-825c-20a58c324898] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:55:57.931Z] [ERROR] [14fe6a76-d45b-415d-81d8-b6a23e47e902] POST /api/v1/kundli/generate - 403 - This endpoint is disabled (SKIP_KUNDLI_PAYMENT is not enabled in this environment)
+[2026-09-30T12:56:41.255Z] [ERROR] Failed to send email to test@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8872539a16esm779896b3a.14 - gsmtp
+[2026-09-30T12:56:41.256Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abd07076544040c3999b5fc: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8872539a16esm779896b3a.14 - gsmtp
+[2026-09-30T12:56:41.341Z] [ERROR] Kundli generation failed for order 6abd07076544040c3999b5fc: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-09-30T12:57:29.798Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34cf553e787sm4203448eec.17 - gsmtp
+[2026-09-30T12:57:29.799Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abd07376544040c3999b608: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34cf553e787sm4203448eec.17 - gsmtp
+[2026-09-30T12:57:29.880Z] [ERROR] Kundli generation failed for order 6abd07376544040c3999b608: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-01T05:00:26.554Z] [ERROR] [0eb1f798-02a3-4178-bd26-542bd894bc7b] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-10-01T05:00:26.561Z] [ERROR] [f7597291-7281-423a-9103-73942d016f83] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-10-01T05:00:26.566Z] [ERROR] [25f79e98-80c6-4aca-b1bc-369202cb3c42] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-10-01T05:00:26.588Z] [ERROR] [c008a2ef-c9ca-44cf-893a-f5d058ba671a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-10-01T05:00:55.417Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2e300584576sm5174095ad.9 - gsmtp
+[2026-10-01T05:00:55.418Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abde9043837faa589986f8b: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2e300584576sm5174095ad.9 - gsmtp
+[2026-10-01T05:00:55.530Z] [ERROR] Kundli generation failed for order 6abde9043837faa589986f8b: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-01T05:15:11.735Z] [ERROR] Geocoding failed for birth place "Zzzxxqwnotarealplace12345": Could not resolve coordinates for birth place "Zzzxxqwnotarealplace12345"
+[2026-10-01T05:15:11.736Z] [ERROR] [870daebc-d52c-44a4-8c05-d68078b8f66e] POST /api/v1/kundli/geocode - 422 - Couldn't find "Zzzxxqwnotarealplace12345" — try being more specific, e.g. "Jaipur, Rajasthan, India"
+[2026-10-01T05:15:45.188Z] [ERROR] Failed to send email to test2@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34db3e33b73sm3497730eec.18 - gsmtp
+[2026-10-01T05:15:45.188Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abdec7fc07574c9dc07d72b: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34db3e33b73sm3497730eec.18 - gsmtp
+[2026-10-01T05:15:45.272Z] [ERROR] Kundli generation failed for order 6abdec7fc07574c9dc07d72b: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-01T05:30:47.475Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abdf005c07574c9dc07d737: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a4f445d356sm2581958a91.11 - gsmtp
+[2026-10-01T05:30:47.474Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3a4f445d356sm2581958a91.11 - gsmtp
+[2026-10-01T05:30:47.554Z] [ERROR] Kundli generation failed for order 6abdf005c07574c9dc07d737: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-08T10:11:45.967Z] [ERROR] [219cf142-a4c7-4339-951c-e5b399d1b45e] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-10-08T10:12:56.315Z] [ERROR] [63866fa0-c327-4278-891f-cac2d24cacc1] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:56.949Z] [ERROR] [00e315bc-c0c9-4821-be35-4be559cbd81f] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:58.159Z] [ERROR] [61dcd9fe-006f-480a-a8b1-39d9e691568c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.179Z] [ERROR] [6fa2f533-32ad-4717-abc2-a18cd964a39b] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.563Z] [ERROR] [d9ff3bfc-14b3-4c6a-87d8-4bed0a98fafc] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.565Z] [ERROR] [63f6122e-146f-4f7f-99f6-1319520d1f54] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.566Z] [ERROR] [77f346e5-991a-4315-b426-9217725f3a2e] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.568Z] [ERROR] [5135bf23-12bb-45fe-a9b6-05086afbcae6] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.792Z] [ERROR] [ac3240ee-0979-4410-a68a-62d225243be6] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.128Z] [ERROR] [d188c0cb-9df9-40a3-9c9b-aab5eafe597a] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.130Z] [ERROR] [0dfc3fcb-163b-4965-890d-8128a425a8f1] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.132Z] [ERROR] [43025196-f87c-4d4a-8aa9-73a153705f05] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.133Z] [ERROR] [246e90e0-c012-42d5-b8aa-a09f1ada8e2f] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.173Z] [ERROR] [d22d9f4f-de71-4316-944f-7463815c627e] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.175Z] [ERROR] [13972dda-e3b8-4464-b5f4-137a74d5d5d0] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.176Z] [ERROR] [ca90e2a1-47fb-4a6b-afc1-ca697cba65bc] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.177Z] [ERROR] [44097a2e-2834-4fe0-b110-bbdc8813c896] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.735Z] [ERROR] [b9c21729-7348-4e71-a44f-250f1e8c2c91] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.736Z] [ERROR] [19a8a5b8-4dcb-427a-bfa2-cf9721ccc591] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.739Z] [ERROR] [569e0332-4278-4746-bcf1-3462c92937f3] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.740Z] [ERROR] [18c5e7fc-8126-4326-8791-fb68004eee2c] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.998Z] [ERROR] [4e041398-b09c-44f6-9d37-6c3b4151809c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.394Z] [ERROR] [dc07fa99-d164-4a3b-82c0-6e58245f85b1] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.395Z] [ERROR] [4ef18fd9-a69f-42d5-8a67-844107534d5d] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.396Z] [ERROR] [9e76da7a-ecf1-44a6-9005-47db79e318a9] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.397Z] [ERROR] [d5619361-1082-4852-924c-92aae676a9d5] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.948Z] [ERROR] [66026ee5-96dc-4485-a307-116e75433c6c] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.951Z] [ERROR] [4d8af1ab-49a0-4443-b045-78f63c6bde3c] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.953Z] [ERROR] [8582d3e0-5e88-416a-9c39-3b926c543784] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.956Z] [ERROR] [ca472137-094e-4cfd-a1c4-575f9b11e39e] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.414Z] [ERROR] [daacfe2e-a78b-4797-baa2-e092c1151a31] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.953Z] [ERROR] [c1705844-2721-4bcb-bf5d-51a3051f28be] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.956Z] [ERROR] [0b3d96de-2d46-40cd-beaa-837c7b522a4b] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.958Z] [ERROR] [dd92988f-ee82-4a13-bab9-b7d88cea292a] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.961Z] [ERROR] [34274331-a284-4de5-84c3-6326a39a58aa] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.016Z] [ERROR] [fd0363c8-0042-4581-9ffc-605f9225291f] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.021Z] [ERROR] [22830d4b-1091-4a56-b501-a853b0bab545] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.562Z] [ERROR] [d017ff93-02d7-4237-9ae8-35f18c0dc0b7] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.566Z] [ERROR] [fa6c8950-daf9-497c-a55f-fb6578731240] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.569Z] [ERROR] [a173bcbf-bde3-492d-a31a-c679ba9dd768] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.572Z] [ERROR] [83ffb4b0-abd6-4c17-bbce-47d7c658a7b3] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.626Z] [ERROR] [4e5aae48-97de-4a87-bb35-0eb31bb417f7] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:04.231Z] [ERROR] [e00b838c-9502-4a0f-b683-e1d42cf8355d] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.015Z] [ERROR] [4d518297-e8f8-44f9-96c5-9a54a7c51153] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.019Z] [ERROR] [d64b268e-755e-4a8b-b7d2-130317b863c2] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.023Z] [ERROR] [9146761b-9ec4-492e-bf85-f820da4679e2] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.025Z] [ERROR] [491c5b42-07ee-4707-bfdc-6a33c6e5e9ad] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.029Z] [ERROR] [db07ede2-f1ea-438a-b5bc-784060d1e4d9] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:24.951Z] [ERROR] [0f31d4f4-ae97-4f05-9cf4-54af8486a4a6] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:25.556Z] [ERROR] [655460df-1843-4957-804a-5b346dc44666] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:27.016Z] [ERROR] [c0361433-333c-4663-88bf-8b2f9efce5fd] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:28.036Z] [ERROR] [1d116fa4-e925-4668-b221-13f174a05a4c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:28.974Z] [ERROR] [3da82093-c0bb-4c79-bd40-bb47aeb8e2e9] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.096Z] [ERROR] [70eb6a13-2ad8-414e-be2d-6324abf32fb5] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.099Z] [ERROR] [63cfaf60-dbbf-4eff-8340-4f93712163a8] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.100Z] [ERROR] [a8220815-b1fc-4d81-a42b-7faed246ab46] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.102Z] [ERROR] [196d2d2b-a164-4050-ab27-92fc05b6f1dd] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.190Z] [ERROR] [72f88966-2bbb-4a59-a9fc-b42a01c2c655] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.708Z] [ERROR] [57cc74a6-39f0-4fbd-b177-225f444b5b7c] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.710Z] [ERROR] [691ec1ab-e164-47e6-9518-f69db8b7649c] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.711Z] [ERROR] [5cc53860-a8cc-4f0d-839d-0340f4c8797d] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.713Z] [ERROR] [774f6731-738e-43f3-857a-d4919102929f] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.725Z] [ERROR] [adbe6f9c-c176-475f-b12b-4f47c79e7bcc] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.726Z] [ERROR] [f972fce6-6864-4b4d-8704-1352734bdb0e] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.728Z] [ERROR] [09b7d4ad-cbab-42fc-85be-921296b03e11] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.729Z] [ERROR] [86181596-e021-4709-b294-7c6bdf71743c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.731Z] [ERROR] [57db8a9c-6f2c-4ee7-a769-176965e8981b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.733Z] [ERROR] [979258fe-db45-4b02-a675-037fe3f1bfcf] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.735Z] [ERROR] [dc60a268-307b-46fd-8ffa-ffff810148f4] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.738Z] [ERROR] [5c1f99de-a9fe-4437-b018-b3a77eae048c] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.368Z] [ERROR] [4dd8f6e9-7134-4167-a10a-b39f0cabf154] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.371Z] [ERROR] [3c4c31e2-abfc-4923-8c56-cdb65714abf3] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.373Z] [ERROR] [01bc6708-cec4-44b2-a38c-e4b352e5f6db] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.376Z] [ERROR] [e0b80943-b02e-48cd-8c24-9c118aa928d6] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.378Z] [ERROR] [4afa56b5-087f-449b-9fc8-23044c50abea] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.380Z] [ERROR] [f42d188e-6df1-4b08-87b6-1f70f5464ca3] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.381Z] [ERROR] [e80e1b90-15e9-4c44-8785-8e5dfe680a78] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.383Z] [ERROR] [29442090-c585-4422-a94c-fb09eaedb289] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.580Z] [ERROR] [5eb28ab4-776a-485a-acb5-aeea20cd5181] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.582Z] [ERROR] [b0284371-735a-4d2f-a3db-bf7f7dd01934] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.583Z] [ERROR] [4b48379b-2e87-4b86-baea-18e903e6d071] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.585Z] [ERROR] [f23a0f0b-6297-4b39-ac99-35c90154c638] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.588Z] [ERROR] [1b39f0a7-075d-4652-8ce7-b249067f04bb] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.590Z] [ERROR] [ee21bb8b-9444-418a-8ebb-5eaf8011aaba] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.591Z] [ERROR] [ec955c16-c3ba-4489-bde1-2c9bfbdab662] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.592Z] [ERROR] [8da798fb-8156-4a56-8e5c-a7c43abe0968] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.585Z] [ERROR] [609fe440-9890-4302-a27b-4718aa85ebe8] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.589Z] [ERROR] [30b564c1-3556-42f5-b571-f27136a2eab3] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.590Z] [ERROR] [34a2623a-1325-4a35-a59d-b08cf92ce1fa] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.591Z] [ERROR] [870a8f92-b32d-439e-afc0-6e61d8c66a99] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.593Z] [ERROR] [1d535c6c-f69c-4d9d-bdd8-1fa684dadd6b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.596Z] [ERROR] [5e106d31-35b0-4cbd-9464-8e9ed3e10e11] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.599Z] [ERROR] [db2f2c18-e4be-46b5-b051-e37e23928272] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.601Z] [ERROR] [602a001c-5360-45f9-b3c8-33f9b64d3504] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.203Z] [ERROR] [d4bf000c-faf7-4d91-a53c-b8d5413afb41] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.205Z] [ERROR] [0b249101-85c6-47d2-a570-e8c7492903af] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.206Z] [ERROR] [22b3693f-94e9-4165-b512-ca26646faa05] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.207Z] [ERROR] [51a7edd3-8223-4623-a984-7651589245aa] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.209Z] [ERROR] [2a894378-5ceb-4140-9dfb-5f971875c70a] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.210Z] [ERROR] [f5d9cbf9-87a0-4640-8d57-dacfbebbba91] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.212Z] [ERROR] [a2c9d012-373c-485f-9f9c-56fc6821a0f2] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.214Z] [ERROR] [6585e946-151f-4bbc-8e0a-48ad656487c1] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.419Z] [ERROR] [c2994450-aa71-429e-a60b-9a68ca613865] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.421Z] [ERROR] [16533fd0-52c1-4398-90d9-a110ca1abe7c] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.423Z] [ERROR] [75bb3a39-e14d-41fe-9f02-57ddb48fa781] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.426Z] [ERROR] [190bbab7-257b-4386-8170-7fea18b92a27] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.427Z] [ERROR] [1251967d-092a-4a08-9819-cd614a83ef5b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.429Z] [ERROR] [600e7d67-4133-4158-bcaf-ccb456c39501] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.431Z] [ERROR] [de68367f-1643-4d48-89d7-35ee0f5931cb] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.433Z] [ERROR] [d96f3b86-5027-4d9e-a2a9-4c66bd84311f] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T11:05:28.336Z] [ERROR] [9f1e578a-1482-43a6-a5c1-3b7d14d84c33] GET /api/v1/horoscope/service - 400 - Premium Horoscope is not currently available — no active service configured in Consultation Services
+[2026-10-08T11:06:06.858Z] [ERROR] [ff3a1940-1922-461d-a147-36f7d8429204] POST /api/v1/horoscope/generate - 403 - This endpoint is disabled (TEST_MODE is not enabled in this environment)
+[2026-10-08T11:06:25.864Z] [ERROR] Failed to send email to htest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:06:25.864Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac7792ccc3e946051dd84ef: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:06:25.933Z] [ERROR] Horoscope generation failed for order 6ac7792ccc3e946051dd84ef: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-08T11:09:23.774Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:09:23.774Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac779e02b4bc2bca5f76073: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:09:23.853Z] [ERROR] Horoscope generation failed for order 6ac779e02b4bc2bca5f76073: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T04:48:00.268Z] [ERROR] Failed to send email to diagtest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T04:48:00.269Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac871fb504dcf4049aae8b2: Invalid login: 535 Incorrect authentication data
+[2026-10-09T04:48:00.343Z] [ERROR] Kundli generation failed for order 6ac871fb504dcf4049aae8b2: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:01:31.250Z] [ERROR] Failed to send email to pricecheck@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:31.251Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac875263886cff5bf41a17d: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:31.346Z] [ERROR] Kundli generation failed for order 6ac875263886cff5bf41a17d: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:01:48.242Z] [ERROR] Failed to send email to signtest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:48.243Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac875383886cff5bf41a189: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:01:48.313Z] [ERROR] Horoscope generation failed for order 6ac875383886cff5bf41a189: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:13:04.605Z] [ERROR] [946c36d2-ae15-47c4-afdb-62c940a9b8fe] PUT /api/v1/consultations/services/6ac874043886cff5bf41a179 - 400 - Cast to Object failed for value "[object Object]" (type string) at path "seo", Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-10-09T05:13:06.256Z] [ERROR] [c947c6b9-a908-4c30-bcdc-465eec1cca73] PUT /api/v1/consultations/services/6ac874043886cff5bf41a179 - 400 - Cast to Object failed for value "[object Object]" (type string) at path "seo", Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-10-09T05:14:06.557Z] [ERROR] Geocoding failed for birth place "nouida": Could not resolve coordinates for birth place "nouida"
+[2026-10-09T05:14:06.558Z] [ERROR] [30d96119-50dd-4f42-9101-858b6fa54ea2] POST /api/v1/kundli/geocode - 422 - Couldn't find "nouida" — try being more specific, e.g. "Jaipur, Rajasthan, India"
+[2026-10-09T05:14:16.092Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:14:16.092Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac878248dc415c530121933: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:14:16.169Z] [ERROR] Horoscope generation failed for order 6ac878248dc415c530121933: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:25:31.104Z] [ERROR] [4108ed9e-48b9-4bf6-9219-7aab3ae6937f] POST /api/v1/kundli/payment/verify - 400 - Unexpected token '◇', "◇ injected"... is not valid JSON
+[2026-10-09T05:26:00.095Z] [ERROR] Failed to send email to flowtrace@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:26:00.095Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac87a97527dbf1c72649f9a: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:26:00.170Z] [ERROR] Kundli generation failed for order 6ac87a97527dbf1c72649f9a: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-09T05:26:45.719Z] [ERROR] [2b18e06b-0be6-4723-bfd3-63442f749d5c] POST /api/v1/kundli/payment/verify - 400 - Payment verification failed: invalid signature
+[2026-10-09T05:30:09.130Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:09.130Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac87bdd8b4c6290d81e7985: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:09.210Z] [ERROR] Horoscope generation failed for order 6ac87bdd8b4c6290d81e7985: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-09T05:30:46.244Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:46.245Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6ac87c038b4c6290d81e7990: Invalid login: 535 Incorrect authentication data
+[2026-10-09T05:30:46.676Z] [ERROR] Kundli generation failed for order 6ac87c038b4c6290d81e7990: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-12T06:02:38.203Z] [ERROR] Failed to send email to checklist_k@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:38.203Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6acc77e3bb8514e88cb6bf06: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:38.271Z] [ERROR] Kundli generation failed for order 6acc77e3bb8514e88cb6bf06: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-12T06:02:45.895Z] [ERROR] Failed to send email to checklist_h@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:45.895Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6acc77e3bb8514e88cb6bf08: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:45.963Z] [ERROR] Horoscope generation failed for order 6acc77e3bb8514e88cb6bf08: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-12T06:09:44.077Z] [ERROR] [e1872e45-1e5c-487d-b158-9c9a125ffc87] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-10-12T06:09:44.084Z] [ERROR] [b46eac88-38b4-41b8-97b8-907d6484a665] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-10-12T06:09:44.088Z] [ERROR] [8aac21af-a853-4cb9-9adb-6fd2a06c0825] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-10-12T06:09:44.113Z] [ERROR] [a6d78811-e0d8-4223-9418-87a912ba3a01] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-10-12T06:36:11.030Z] [ERROR] [02cfd6d3-4121-433f-bcfe-614cd8374ea0] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T06:36:12.571Z] [ERROR] [41f58601-bc3c-42e6-abbd-fe72f906e10d] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T06:37:20.273Z] [ERROR] [66c6c1bd-a2eb-4c3a-a767-89dc51fb860a] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T06:37:21.908Z] [ERROR] [3e77830a-062f-4572-8922-fa7b692c72a7] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T07:02:52.112Z] [ERROR] [b7e0c6a9-73d6-40f1-a546-bd486ed86d5f] PUT /api/v1/admin/premium-horoscope/settings - 401 - Not authorized, token failed or expired
+[2026-10-12T07:07:12.514Z] [ERROR] [936a30d4-705f-456a-883e-2bcea9c69394] PUT /api/v1/admin/premium-horoscope/settings - 401 - Not authorized, token failed or expired
+[2026-10-12T07:07:12.538Z] [ERROR] [5e6e37b7-cad4-42a6-85c0-188141a710ca] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-10-12T07:24:23.873Z] [ERROR] [0bde00dd-d1d8-4523-9b4f-55f21f0ef1da] GET /api/v1/admin/home-sections - 401 - Not authorized, token failed or expired
+[2026-10-12T07:24:23.911Z] [ERROR] [f01d3d69-5812-467a-806f-b9eebf35889a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token

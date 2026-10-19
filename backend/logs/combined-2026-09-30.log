@@ -1,0 +1,617 @@
+[2026-09-30T08:52:12.145Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T08:52:12.930Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T08:52:12.932Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T08:52:39.136Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T08:52:39.939Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T08:52:39.941Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T08:52:52.496Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 78.113 ms - -[0m
+[2026-09-30T08:52:52.497Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 78.842 ms - -[0m
+[2026-09-30T08:52:52.500Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.624 ms - -[0m
+[2026-09-30T08:52:52.507Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 85.218 ms - 882[0m
+[2026-09-30T08:52:52.508Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 88.658 ms - -[0m
+[2026-09-30T08:52:52.528Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 105.583 ms - -[0m
+[2026-09-30T08:52:52.544Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 122.865 ms - -[0m
+[2026-09-30T08:53:07.970Z] [ERROR] [e3af2a50-10b5-42f9-a50f-a75c74c2e01b] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.977Z] [ERROR] [263d0c95-7ac5-4867-a34e-ae7fc5a7a1f6] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.982Z] [ERROR] [cb92f7a1-b31b-4d0e-9fe2-45f8b8f60bfc] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-30T08:53:07.995Z] [INFO] [0mGET /api/v1/notifications?limit=8 [33m401[0m 42.663 ms - -[0m
+[2026-09-30T08:53:07.996Z] [INFO] [0mGET /api/v1/wishlist [33m401[0m 47.118 ms - -[0m
+[2026-09-30T08:53:07.997Z] [INFO] [0mGET /api/v1/cart [33m401[0m 53.260 ms - -[0m
+[2026-09-30T08:53:08.007Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 1.143 ms - -[0m
+[2026-09-30T08:53:08.008Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 82.299 ms - -[0m
+[2026-09-30T08:53:08.016Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 5.793 ms - -[0m
+[2026-09-30T08:53:08.016Z] [INFO] [0mGET /api/v1/settings [36m304[0m 5.452 ms - -[0m
+[2026-09-30T08:53:08.024Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 92.743 ms - -[0m
+[2026-09-30T08:53:08.026Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 92.129 ms - -[0m
+[2026-09-30T08:53:08.066Z] [ERROR] [00719afb-c2e5-46c6-8e95-9a92f8ed3a2c] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T08:53:08.069Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 57.316 ms - -[0m
+[2026-09-30T08:53:08.070Z] [INFO] [0mPOST /api/v1/auth/refresh-token [33m401[0m 3.585 ms - -[0m
+[2026-09-30T08:53:12.956Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.972 ms - -[0m
+[2026-09-30T08:53:12.954Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 2.819 ms - -[0m
+[2026-09-30T08:53:12.957Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.648 ms - -[0m
+[2026-09-30T08:53:12.979Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 31.599 ms - -[0m
+[2026-09-30T08:53:12.982Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 32.243 ms - -[0m
+[2026-09-30T08:53:12.983Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 32.171 ms - -[0m
+[2026-09-30T08:53:12.985Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 32.142 ms - -[0m
+[2026-09-30T08:53:16.303Z] [INFO] [0mGET /api/v1/brands [32m200[0m 31.432 ms - 100[0m
+[2026-09-30T08:53:16.305Z] [INFO] [0mGET /api/v1/categories [32m200[0m 33.420 ms - 580[0m
+[2026-09-30T08:53:16.386Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [32m200[0m 114.459 ms - -[0m
+[2026-09-30T08:53:17.693Z] [INFO] [0mGET /api/v1/products/sdfs-88932 [32m200[0m 76.621 ms - 1002[0m
+[2026-09-30T08:53:17.789Z] [INFO] [0mGET /api/v1/products/6aba5d58030b90cdec499761/reviews [32m200[0m 84.928 ms - 315[0m
+[2026-09-30T08:53:17.791Z] [INFO] [0mGET /api/v1/products/6aba5d58030b90cdec499761/reviews/rating-distribution [32m200[0m 84.953 ms - 314[0m
+[2026-09-30T08:53:17.816Z] [INFO] [0mGET /api/v1/products/6aba5d58030b90cdec499761/related [32m200[0m 109.002 ms - 102[0m
+[2026-09-30T08:54:09.491Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 168.454 ms - 721[0m
+[2026-09-30T08:54:09.914Z] [INFO] [0mGET /api/v1/admin/dashboard/charts?range=30 [32m200[0m 76.456 ms - 114[0m
+[2026-09-30T08:54:09.916Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-consultation-bookings [32m200[0m 73.832 ms - 114[0m
+[2026-09-30T08:54:09.917Z] [INFO] [0mGET /api/v1/admin/dashboard/stats [32m200[0m 78.621 ms - 265[0m
+[2026-09-30T08:54:09.942Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-orders [32m200[0m 100.959 ms - -[0m
+[2026-09-30T08:54:09.957Z] [INFO] [0mGET /api/v1/admin/dashboard/low-stock [32m200[0m 114.798 ms - 133[0m
+[2026-09-30T08:54:09.963Z] [INFO] [0mGET /api/v1/admin/dashboard/inventory-stats [32m200[0m 119.410 ms - 221[0m
+[2026-09-30T08:54:11.948Z] [INFO] [0mGET /api/v1/categories [36m304[0m 4.425 ms - -[0m
+[2026-09-30T08:54:11.975Z] [INFO] [0mGET /api/v1/brands [36m304[0m 30.874 ms - -[0m
+[2026-09-30T08:54:12.074Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [32m200[0m 128.458 ms - -[0m
+[2026-09-30T08:54:14.289Z] [INFO] [0mGET /api/v1/units [32m200[0m 35.810 ms - 98[0m
+[2026-09-30T08:54:14.320Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [32m200[0m 69.500 ms - 1002[0m
+[2026-09-30T08:54:14.414Z] [INFO] [0mGET /api/v1/categories/6aba5d30030b90cdec499760/attribute-template [32m200[0m 66.748 ms - 113[0m
+[2026-09-30T08:54:32.672Z] [ERROR] [cb53d7ec-b438-4dc1-bdad-19d6f5e73254] PUT /api/v1/products/6aba5d58030b90cdec499761 - 400 - Parameter "obj" to Document() must be an object, got "" (type string)
+[2026-09-30T08:54:32.673Z] [INFO] [0mPUT /api/v1/products/6aba5d58030b90cdec499761 [33m400[0m 4233.303 ms - 917[0m
+[2026-09-30T08:54:51.345Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 100.055 ms - -[0m
+[2026-09-30T08:54:53.752Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 67.893 ms - -[0m
+[2026-09-30T08:54:57.720Z] [INFO] [0mPOST /api/v1/auth/check-mobile [32m200[0m 37.597 ms - 318[0m
+[2026-09-30T08:55:09.615Z] [INFO] [0mGET /api/v1/coupons [32m200[0m 97.178 ms - 102[0m
+[2026-09-30T08:55:12.799Z] [WARN] [SMS not configured] Would send to 7852865819: Your verification code is 825282. It expires in 5 minutes.
+[2026-09-30T08:55:12.800Z] [INFO] [0mPOST /api/v1/auth/otp/request [32m200[0m 68.185 ms - 142[0m
+[2026-09-30T08:55:12.801Z] [WARN] [SMS not configured] Would send to 7852865819: Your verification code is 293589. It expires in 5 minutes.
+[2026-09-30T08:55:12.801Z] [INFO] [0mPOST /api/v1/auth/otp/request [32m200[0m 67.874 ms - 142[0m
+[2026-09-30T08:55:20.705Z] [INFO] [0mPOST /api/v1/auth/otp/verify [32m200[0m 197.224 ms - 1021[0m
+[2026-09-30T08:55:20.878Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 106.611 ms - -[0m
+[2026-09-30T08:55:20.887Z] [INFO] [0mGET /api/v1/notifications?limit=8 [32m200[0m 117.228 ms - -[0m
+[2026-09-30T08:55:20.891Z] [INFO] [0mGET /api/v1/cart [36m304[0m 121.335 ms - -[0m
+[2026-09-30T08:55:20.897Z] [INFO] [0mGET /api/v1/users/address [32m200[0m 127.035 ms - 358[0m
+[2026-09-30T08:55:21.028Z] [ERROR] [46be94c9-b88d-4768-afc1-d0687522954b] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-30T08:55:21.029Z] [INFO] [0mPOST /api/v1/orders [31m500[0m 265.303 ms - 839[0m
+[2026-09-30T08:55:31.017Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 107.632 ms - -[0m
+[2026-09-30T08:55:33.216Z] [ERROR] [f8918081-1e84-49fd-9df1-84d3c0edfdbc] POST /api/v1/orders - 500 - No default warehouse configured. Create a warehouse and mark it isDefault first.
+[2026-09-30T08:55:33.219Z] [INFO] [0mPOST /api/v1/orders [31m500[0m 248.063 ms - 839[0m
+[2026-09-30T08:55:38.945Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 2.681 ms - -[0m
+[2026-09-30T08:55:38.946Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.516 ms - -[0m
+[2026-09-30T08:55:38.972Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 31.672 ms - -[0m
+[2026-09-30T08:55:38.973Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 31.042 ms - -[0m
+[2026-09-30T08:55:39.004Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 60.998 ms - -[0m
+[2026-09-30T08:55:40.920Z] [INFO] [0mGET /api/v1/consultations/services/kundli-ucr8e [32m200[0m 34.981 ms - 832[0m
+[2026-09-30T08:55:51.016Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 122.539 ms - -[0m
+[2026-09-30T08:56:01.148Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 108.506 ms - -[0m
+[2026-09-30T08:56:05.027Z] [ERROR] [0dc074e7-140e-402c-9de0-e1732b3d990a] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-30T08:56:05.028Z] [INFO] [0mPOST /api/v1/consultations/bookings [33m409[0m 183.808 ms - 474[0m
+[2026-09-30T08:56:41.272Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 97.859 ms - -[0m
+[2026-09-30T08:56:45.756Z] [INFO] [0mGET /api/v1/categories [36m304[0m 1.661 ms - -[0m
+[2026-09-30T08:56:45.821Z] [INFO] [0mGET /api/v1/brands [36m304[0m 65.357 ms - -[0m
+[2026-09-30T08:56:45.843Z] [INFO] [0mGET /api/v1/cart [36m304[0m 97.012 ms - -[0m
+[2026-09-30T08:56:45.853Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 101.108 ms - -[0m
+[2026-09-30T08:56:45.923Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [36m304[0m 169.513 ms - -[0m
+[2026-09-30T08:56:47.860Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 3.548 ms - -[0m
+[2026-09-30T08:56:47.860Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.860 ms - -[0m
+[2026-09-30T08:56:48.044Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 193.535 ms - -[0m
+[2026-09-30T08:56:48.045Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 191.429 ms - -[0m
+[2026-09-30T08:56:48.088Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 232.654 ms - -[0m
+[2026-09-30T08:57:18.289Z] [INFO] [0mGET /api/v1/categories [36m304[0m 32.930 ms - -[0m
+[2026-09-30T08:57:18.320Z] [INFO] [0mGET /api/v1/brands [36m304[0m 61.466 ms - -[0m
+[2026-09-30T08:57:18.431Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [36m304[0m 170.364 ms - -[0m
+[2026-09-30T08:57:20.246Z] [INFO] [0mGET /api/v1/units [36m304[0m 42.282 ms - -[0m
+[2026-09-30T09:04:40.249Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:04:41.470Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:04:41.472Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:05:07.640Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:05:08.485Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:05:08.486Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:05:17.405Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:05:18.064Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:05:18.066Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:07:35.987Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:07:36.585Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:07:36.586Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:08:19.576Z] [INFO] [0mGET /api/v1/brands [36m304[0m 67.876 ms - -[0m
+[2026-09-30T09:08:21.426Z] [INFO] [0mGET /api/v1/categories [36m304[0m 68.935 ms - -[0m
+[2026-09-30T09:08:25.119Z] [INFO] [0mGET /api/v1/categories [36m304[0m 3.594 ms - -[0m
+[2026-09-30T09:08:25.154Z] [INFO] [0mGET /api/v1/brands [36m304[0m 32.909 ms - -[0m
+[2026-09-30T09:08:25.278Z] [INFO] [0mGET /api/v1/inventory/summary?page=1&limit=15 [32m200[0m 154.001 ms - 505[0m
+[2026-09-30T09:08:26.423Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [36m304[0m 135.225 ms - -[0m
+[2026-09-30T09:08:48.505Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:08:49.220Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:08:49.222Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:09:15.977Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:09:16.806Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:09:16.810Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:09:26.229Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:09:26.879Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:09:26.881Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:09:49.507Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:09:50.302Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:09:50.304Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:10:08.348Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:10:08.930Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:10:08.932Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:10:21.483Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:10:22.183Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:10:22.185Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:10:28.291Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:10:28.945Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:10:28.947Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:10:38.929Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:10:39.544Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:10:39.546Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:10:49.181Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:10:50.061Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:10:50.063Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:42:06.832Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T09:42:07.630Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T09:42:07.632Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T09:55:34.084Z] [INFO] [0mGET /api/v1/brands [36m304[0m 70.806 ms - -[0m
+[2026-09-30T09:55:34.119Z] [INFO] [0mGET /api/v1/categories [36m304[0m 107.901 ms - -[0m
+[2026-09-30T09:55:34.212Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [36m304[0m 198.612 ms - -[0m
+[2026-09-30T09:55:36.366Z] [INFO] [0mGET /api/v1/units [36m304[0m 48.532 ms - -[0m
+[2026-09-30T09:55:36.412Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 95.196 ms - -[0m
+[2026-09-30T09:55:36.529Z] [INFO] [0mGET /api/v1/categories/6aba5d30030b90cdec499760/attribute-template [36m304[0m 99.591 ms - -[0m
+[2026-09-30T09:55:44.035Z] [ERROR] [b9529bd0-2126-44cf-8011-78ab35245a58] PUT /api/v1/products/6aba5d58030b90cdec499761 - 401 - Not authorized, token failed or expired
+[2026-09-30T09:55:44.053Z] [INFO] [0mPUT /api/v1/products/6aba5d58030b90cdec499761 [33m401[0m 6.419 ms - -[0m
+[2026-09-30T09:55:44.086Z] [ERROR] [7a93a269-15a7-4da3-95a1-fb43e7da1773] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T09:55:44.088Z] [INFO] [0mPOST /api/v1/auth/refresh-token [33m401[0m 2.470 ms - -[0m
+[2026-09-30T09:55:46.049Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 185.243 ms - 721[0m
+[2026-09-30T09:55:46.503Z] [INFO] [0mGET /api/v1/admin/dashboard/charts?range=30 [36m304[0m 112.806 ms - -[0m
+[2026-09-30T09:55:46.505Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-consultation-bookings [36m304[0m 112.102 ms - -[0m
+[2026-09-30T09:55:46.519Z] [INFO] [0mGET /api/v1/admin/dashboard/stats [32m200[0m 130.129 ms - 265[0m
+[2026-09-30T09:55:46.540Z] [INFO] [0mGET /api/v1/admin/dashboard/low-stock [36m304[0m 145.396 ms - -[0m
+[2026-09-30T09:55:46.563Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-orders [32m200[0m 169.475 ms - -[0m
+[2026-09-30T09:55:46.923Z] [INFO] [0mGET /api/v1/admin/dashboard/inventory-stats [36m304[0m 527.328 ms - -[0m
+[2026-09-30T09:55:48.654Z] [INFO] [0mGET /api/v1/categories [36m304[0m 2.761 ms - -[0m
+[2026-09-30T09:55:48.699Z] [INFO] [0mGET /api/v1/brands [36m304[0m 46.602 ms - -[0m
+[2026-09-30T09:55:49.158Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [36m304[0m 504.365 ms - -[0m
+[2026-09-30T09:55:52.253Z] [INFO] [0mGET /api/v1/units [36m304[0m 48.366 ms - -[0m
+[2026-09-30T09:56:19.527Z] [INFO] [0mGET /api/v1/categories/6aba5d30030b90cdec499760/attribute-template [36m304[0m 174.808 ms - -[0m
+[2026-09-30T09:56:20.957Z] [INFO] No default warehouse found — auto-created 'Main Warehouse' (MAIN)
+[2026-09-30T09:56:21.472Z] [INFO] [0mPOST /api/v1/products [32m201[0m 866.058 ms - 947[0m
+[2026-09-30T09:56:21.511Z] [INFO] [0mGET /api/v1/categories [36m304[0m 2.765 ms - -[0m
+[2026-09-30T09:56:21.552Z] [INFO] [0mGET /api/v1/brands [36m304[0m 43.144 ms - -[0m
+[2026-09-30T09:56:21.665Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [32m200[0m 152.590 ms - -[0m
+[2026-09-30T09:56:24.296Z] [INFO] [0mGET /api/v1/units [36m304[0m 41.963 ms - -[0m
+[2026-09-30T09:56:24.331Z] [INFO] [0mGET /api/v1/products/id/6abcdcc43108a2845cdf7a73 [32m200[0m 78.120 ms - -[0m
+[2026-09-30T09:56:38.065Z] [INFO] [0mPUT /api/v1/products/6abcdcc43108a2845cdf7a73 [32m200[0m 4040.285 ms - -[0m
+[2026-09-30T09:56:38.404Z] [INFO] [0mGET /api/v1/products/id/6abcdcc43108a2845cdf7a73 [32m200[0m 329.266 ms - -[0m
+[2026-09-30T09:56:51.471Z] [INFO] [0mPUT /api/v1/products/6abcdcc43108a2845cdf7a73 [32m200[0m 3934.770 ms - -[0m
+[2026-09-30T09:56:51.592Z] [INFO] [0mGET /api/v1/products/id/6abcdcc43108a2845cdf7a73 [32m200[0m 109.111 ms - -[0m
+[2026-09-30T09:56:55.516Z] [INFO] [0mGET /api/v1/inventory/stock/6abcdcc43108a2845cdf7a73 [32m200[0m 147.072 ms - 521[0m
+[2026-09-30T09:56:55.520Z] [INFO] [0mGET /api/v1/inventory/movements?productId=6abcdcc43108a2845cdf7a73&limit=30 [32m200[0m 150.021 ms - 688[0m
+[2026-09-30T09:56:57.028Z] [INFO] [0mGET /api/v1/categories [36m304[0m 0.731 ms - -[0m
+[2026-09-30T09:56:59.831Z] [INFO] [0mGET /api/v1/settings [36m304[0m 31.170 ms - -[0m
+[2026-09-30T09:56:59.838Z] [ERROR] [9c35d7b7-34b4-4ff1-8367-09c3f5da1860] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.840Z] [ERROR] [66ec00f3-5129-4456-8a71-ce4900718c0a] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.843Z] [ERROR] [a2566c11-4220-4b78-a5e9-e50d06b8131e] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T09:56:59.847Z] [INFO] [0mGET /api/v1/cart [33m401[0m 40.646 ms - -[0m
+[2026-09-30T09:56:59.848Z] [INFO] [0mGET /api/v1/wishlist [33m401[0m 41.578 ms - -[0m
+[2026-09-30T09:56:59.849Z] [INFO] [0mGET /api/v1/notifications?limit=8 [33m401[0m 47.119 ms - -[0m
+[2026-09-30T09:56:59.859Z] [ERROR] [696bb295-5beb-4cc0-9284-79d93c25919f] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T09:56:59.860Z] [INFO] [0mPOST /api/v1/auth/refresh-token [33m401[0m 2.592 ms - -[0m
+[2026-09-30T09:56:59.868Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 69.552 ms - -[0m
+[2026-09-30T09:56:59.940Z] [INFO] [0mGET /api/v1/categories/dd [32m200[0m 145.239 ms - 578[0m
+[2026-09-30T09:56:59.967Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 88.788 ms - -[0m
+[2026-09-30T09:57:04.527Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 34.367 ms - -[0m
+[2026-09-30T09:57:04.528Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 35.993 ms - -[0m
+[2026-09-30T09:57:04.532Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 44.049 ms - -[0m
+[2026-09-30T09:57:04.533Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 39.265 ms - -[0m
+[2026-09-30T09:57:04.535Z] [INFO] [0mGET /api/v1/settings [36m304[0m 3.690 ms - -[0m
+[2026-09-30T09:57:04.536Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 45.101 ms - -[0m
+[2026-09-30T09:57:04.561Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 71.717 ms - -[0m
+[2026-09-30T09:57:04.571Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 40.152 ms - -[0m
+[2026-09-30T09:57:08.078Z] [INFO] [0mGET /api/v1/categories [36m304[0m 0.986 ms - -[0m
+[2026-09-30T09:57:08.113Z] [INFO] [0mGET /api/v1/brands [36m304[0m 35.362 ms - -[0m
+[2026-09-30T09:57:08.188Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [32m200[0m 111.041 ms - -[0m
+[2026-09-30T09:57:09.653Z] [INFO] [0mGET /api/v1/products/dsfasf-80778 [32m200[0m 73.129 ms - -[0m
+[2026-09-30T09:57:09.701Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/reviews/rating-distribution [32m200[0m 36.395 ms - 314[0m
+[2026-09-30T09:57:09.699Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/reviews [32m200[0m 36.340 ms - 315[0m
+[2026-09-30T09:57:09.776Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/related [32m200[0m 110.891 ms - 1000[0m
+[2026-09-30T09:57:19.103Z] [INFO] [0mGET /api/v1/products/id/6abcdcc43108a2845cdf7a73 [36m304[0m 103.893 ms - -[0m
+[2026-09-30T09:57:22.888Z] [INFO] [0mPOST /api/v1/auth/check-mobile [32m200[0m 49.397 ms - 318[0m
+[2026-09-30T09:57:26.101Z] [WARN] [SMS not configured] Would send to 7852865819: Your verification code is 768308. It expires in 5 minutes.
+[2026-09-30T09:57:26.102Z] [INFO] [0mPOST /api/v1/auth/otp/request [32m200[0m 66.330 ms - 142[0m
+[2026-09-30T09:57:26.106Z] [WARN] [SMS not configured] Would send to 7852865819: Your verification code is 218557. It expires in 5 minutes.
+[2026-09-30T09:57:26.107Z] [INFO] [0mPOST /api/v1/auth/otp/request [32m200[0m 73.771 ms - 142[0m
+[2026-09-30T09:57:48.367Z] [INFO] [0mPOST /api/v1/auth/otp/verify [32m200[0m 578.320 ms - 1021[0m
+[2026-09-30T09:57:48.535Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 114.508 ms - -[0m
+[2026-09-30T09:57:48.545Z] [INFO] [0mGET /api/v1/cart [36m304[0m 123.579 ms - -[0m
+[2026-09-30T09:57:48.558Z] [INFO] [0mGET /api/v1/users/address [36m304[0m 135.980 ms - -[0m
+[2026-09-30T09:57:48.561Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 138.997 ms - -[0m
+[2026-09-30T09:57:51.024Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-14d02f90bcdsm3955110c88.0 - gsmtp
+[2026-09-30T09:57:51.027Z] [INFO] [0mPOST /api/v1/orders [32m201[0m 2607.727 ms - -[0m
+[2026-09-30T09:57:51.491Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [32m200[0m 139.362 ms - -[0m
+[2026-09-30T09:57:51.653Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b/track [32m200[0m 150.394 ms - 534[0m
+[2026-09-30T10:13:30.844Z] [ERROR] [1644d19e-d1f2-4f72-91b7-144c0df04b7c] GET /api/v1/orders/6abcdd1c3108a2845cdf7a9b - 401 - Not authorized, token failed or expired
+[2026-09-30T10:13:30.848Z] [ERROR] [96135003-c0bd-4f00-ba5d-d3d4a7fba975] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T10:13:30.849Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [33m401[0m 34.869 ms - -[0m
+[2026-09-30T10:13:30.850Z] [INFO] [0mGET /api/v1/notifications?limit=8 [33m401[0m 33.159 ms - -[0m
+[2026-09-30T10:13:30.856Z] [ERROR] [3140cdc4-0170-49b8-b1af-ab78c7de2b7a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T10:13:30.857Z] [INFO] [0mPOST /api/v1/auth/refresh-token [33m401[0m 1.510 ms - -[0m
+[2026-09-30T10:13:34.533Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 30.824 ms - -[0m
+[2026-09-30T10:13:34.541Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 36.227 ms - -[0m
+[2026-09-30T10:13:34.542Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 35.902 ms - -[0m
+[2026-09-30T10:13:34.544Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.492 ms - -[0m
+[2026-09-30T10:13:34.551Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 43.265 ms - -[0m
+[2026-09-30T10:13:34.553Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 44.831 ms - -[0m
+[2026-09-30T10:13:34.568Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 34.075 ms - -[0m
+[2026-09-30T10:13:34.570Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 66.172 ms - -[0m
+[2026-09-30T10:13:37.347Z] [INFO] [0mGET /api/v1/consultations/services/kundli-ucr8e [36m304[0m 35.253 ms - -[0m
+[2026-09-30T11:04:19.418Z] [INFO] [0mGET /api/v1/categories [36m304[0m 70.546 ms - -[0m
+[2026-09-30T11:04:20.914Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.538 ms - -[0m
+[2026-09-30T11:04:20.940Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 31.277 ms - -[0m
+[2026-09-30T11:04:20.943Z] [INFO] [0mGET /api/v1/consultations/services/kundli-ucr8e [36m304[0m 31.853 ms - -[0m
+[2026-09-30T11:04:20.979Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 69.042 ms - -[0m
+[2026-09-30T11:11:48.380Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:11:51.671Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:12:08.329Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:12:10.172Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:12:10.183Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:12:27.312Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:12:27.976Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:12:27.978Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:12:50.748Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:12:52.254Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:12:52.257Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:13:00.798Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:13:01.441Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:13:01.443Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:13:17.070Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:13:17.706Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:13:17.707Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:13:30.813Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:13:31.889Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:13:31.893Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:13:44.377Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:13:45.208Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:13:45.213Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:14:00.778Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:14:01.481Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:14:01.488Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:20:47.861Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:20:48.743Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:20:48.746Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:32:03.561Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T11:32:04.154Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T11:32:04.155Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T11:32:38.996Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 65.184 ms - -[0m
+[2026-09-30T11:32:38.997Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 66.323 ms - -[0m
+[2026-09-30T11:32:38.998Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 69.164 ms - -[0m
+[2026-09-30T11:32:38.999Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.142 ms - -[0m
+[2026-09-30T11:32:39.003Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 70.816 ms - -[0m
+[2026-09-30T11:32:39.012Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 78.903 ms - -[0m
+[2026-09-30T11:32:39.015Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 82.654 ms - -[0m
+[2026-09-30T11:32:52.048Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 52.219 ms - -[0m
+[2026-09-30T11:32:52.051Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 1.673 ms - -[0m
+[2026-09-30T11:32:52.054Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.282 ms - -[0m
+[2026-09-30T11:32:52.072Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 80.840 ms - -[0m
+[2026-09-30T11:32:52.079Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 91.673 ms - -[0m
+[2026-09-30T11:32:52.080Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 87.966 ms - -[0m
+[2026-09-30T11:32:52.102Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 106.474 ms - -[0m
+[2026-09-30T11:32:52.135Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 141.754 ms - -[0m
+[2026-09-30T11:32:54.754Z] [INFO] [0mGET /api/v1/consultations/services/kundli-ucr8e [36m304[0m 35.080 ms - -[0m
+[2026-09-30T11:34:22.062Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 267.556 ms - 721[0m
+[2026-09-30T11:34:22.564Z] [INFO] [0mGET /api/v1/admin/dashboard/stats [32m200[0m 167.999 ms - 265[0m
+[2026-09-30T11:34:22.584Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-consultation-bookings [36m304[0m 183.223 ms - -[0m
+[2026-09-30T11:34:22.638Z] [INFO] [0mGET /api/v1/admin/dashboard/charts?range=30 [36m304[0m 239.106 ms - -[0m
+[2026-09-30T11:34:22.697Z] [INFO] [0mGET /api/v1/admin/dashboard/low-stock [36m304[0m 295.410 ms - -[0m
+[2026-09-30T11:34:22.705Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-orders [32m200[0m 290.541 ms - -[0m
+[2026-09-30T11:34:22.925Z] [INFO] [0mGET /api/v1/admin/dashboard/inventory-stats [32m200[0m 520.926 ms - 221[0m
+[2026-09-30T11:34:26.246Z] [INFO] [0mGET /api/v1/brands [36m304[0m 32.717 ms - -[0m
+[2026-09-30T11:34:26.250Z] [INFO] [0mGET /api/v1/categories [36m304[0m 34.422 ms - -[0m
+[2026-09-30T11:34:26.368Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [32m200[0m 152.236 ms - -[0m
+[2026-09-30T11:34:27.940Z] [INFO] [0mGET /api/v1/categories [36m304[0m 1.016 ms - -[0m
+[2026-09-30T11:34:29.191Z] [INFO] [0mGET /api/v1/brands [36m304[0m 32.354 ms - -[0m
+[2026-09-30T11:34:30.672Z] [INFO] [0mGET /api/v1/orders?page=1&limit=15 [32m200[0m 214.949 ms - -[0m
+[2026-09-30T11:34:31.916Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [32m200[0m 108.411 ms - -[0m
+[2026-09-30T11:34:41.123Z] [INFO] [0mPATCH /api/v1/orders/6abcdd1c3108a2845cdf7a9b/status [32m200[0m 316.000 ms - -[0m
+[2026-09-30T11:34:41.238Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [32m200[0m 105.871 ms - -[0m
+[2026-09-30T11:34:51.494Z] [INFO] [0mGET /api/v1/orders/6abcce852fc8dfbc1a765690 [32m200[0m 154.456 ms - -[0m
+[2026-09-30T11:35:02.209Z] [INFO] [0mPATCH /api/v1/orders/6abcdd1c3108a2845cdf7a9b/status [32m200[0m 285.163 ms - -[0m
+[2026-09-30T11:35:02.323Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [32m200[0m 101.343 ms - -[0m
+[2026-09-30T11:35:04.993Z] [INFO] [0mPATCH /api/v1/orders/6abcdd1c3108a2845cdf7a9b/status [32m200[0m 272.945 ms - -[0m
+[2026-09-30T11:35:05.107Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [32m200[0m 106.125 ms - -[0m
+[2026-09-30T11:35:10.035Z] [ERROR] [960a1a9a-f899-4421-bded-e85b1a14a4bf] POST /api/v1/orders/6abcdd1c3108a2845cdf7a9b/shipment - 400 - Shiprocket integration is disabled. Set SHIPROCKET_ENABLED=true and configure credentials, or manage this shipment manually.
+[2026-09-30T11:35:10.036Z] [INFO] [0mPOST /api/v1/orders/6abcdd1c3108a2845cdf7a9b/shipment [33m400[0m 81.895 ms - -[0m
+[2026-09-30T11:35:25.762Z] [WARN] [SMS not configured] Would send to 7852865819: Your verification code is 561268. It expires in 5 minutes.
+[2026-09-30T11:35:25.764Z] [INFO] [0mPOST /api/v1/auth/otp/request [32m200[0m 80.685 ms - 142[0m
+[2026-09-30T11:35:34.194Z] [INFO] [0mPOST /api/v1/auth/otp/verify [32m200[0m 159.024 ms - 1021[0m
+[2026-09-30T11:35:34.631Z] [INFO] [0mGET /api/v1/cart [36m304[0m 101.753 ms - -[0m
+[2026-09-30T11:35:34.634Z] [INFO] [0mGET /api/v1/users/profile [32m200[0m 102.377 ms - 742[0m
+[2026-09-30T11:35:34.636Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 104.189 ms - -[0m
+[2026-09-30T11:35:34.638Z] [INFO] [0mGET /api/v1/notifications?limit=8 [32m200[0m 104.398 ms - -[0m
+[2026-09-30T11:35:36.350Z] [INFO] [0mGET /api/v1/orders/my-orders [32m200[0m 125.039 ms - -[0m
+[2026-09-30T11:35:37.952Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [32m200[0m 96.382 ms - -[0m
+[2026-09-30T11:35:38.037Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b/track [32m200[0m 69.031 ms - 834[0m
+[2026-09-30T11:35:42.022Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b/track [36m304[0m 70.755 ms - -[0m
+[2026-09-30T11:35:42.093Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b/track [36m304[0m 68.317 ms - -[0m
+[2026-09-30T11:35:42.906Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b/track [36m304[0m 74.376 ms - -[0m
+[2026-09-30T11:35:42.976Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b/track [36m304[0m 68.172 ms - -[0m
+[2026-09-30T11:35:44.079Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [36m304[0m 111.810 ms - -[0m
+[2026-09-30T11:35:47.980Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 104.446 ms - -[0m
+[2026-09-30T11:35:50.207Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [36m304[0m 112.874 ms - -[0m
+[2026-09-30T11:35:56.727Z] [INFO] [0mGET /api/v1/orders/6abcdd1c3108a2845cdf7a9b [36m304[0m 97.036 ms - -[0m
+[2026-09-30T11:35:57.742Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 1.341 ms - -[0m
+[2026-09-30T11:35:57.743Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.509 ms - -[0m
+[2026-09-30T11:35:57.764Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 31.350 ms - -[0m
+[2026-09-30T11:35:57.768Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 32.939 ms - -[0m
+[2026-09-30T11:35:57.807Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 69.391 ms - -[0m
+[2026-09-30T11:35:59.342Z] [INFO] [0mGET /api/v1/consultations/services/kundli-ucr8e [36m304[0m 68.927 ms - -[0m
+[2026-09-30T11:36:07.814Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 90.845 ms - -[0m
+[2026-09-30T11:36:17.924Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 97.497 ms - -[0m
+[2026-09-30T11:36:28.062Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 106.113 ms - -[0m
+[2026-09-30T11:36:28.189Z] [ERROR] [bbba9220-40e5-444a-b8d3-2afb8921cec6] POST /api/v1/consultations/bookings - 409 - The selected time slot is no longer available — please choose another
+[2026-09-30T11:36:28.189Z] [INFO] [0mPOST /api/v1/consultations/bookings [33m409[0m 229.736 ms - 474[0m
+[2026-09-30T11:39:41.046Z] [INFO] [0mGET /api/v1/consultations/services/kundli-ucr8e [36m304[0m 112.044 ms - -[0m
+[2026-09-30T11:39:49.955Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.966 ms - -[0m
+[2026-09-30T11:39:49.983Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 37.809 ms - -[0m
+[2026-09-30T11:39:50.008Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 60.996 ms - -[0m
+[2026-09-30T11:39:50.010Z] [INFO] [0mGET /api/v1/cart [36m304[0m 58.207 ms - -[0m
+[2026-09-30T11:39:50.011Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 62.331 ms - -[0m
+[2026-09-30T11:39:50.012Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 59.062 ms - -[0m
+[2026-09-30T11:40:58.979Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 31.905 ms - -[0m
+[2026-09-30T11:40:59.008Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 62.172 ms - -[0m
+[2026-09-30T11:40:59.009Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 62.438 ms - -[0m
+[2026-09-30T11:40:59.010Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 62.793 ms - -[0m
+[2026-09-30T11:41:13.963Z] [INFO] [0mGET /api/v1/settings [36m304[0m 31.905 ms - -[0m
+[2026-09-30T11:41:20.005Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 65.038 ms - -[0m
+[2026-09-30T11:41:20.007Z] [INFO] [0mGET /api/v1/cart [36m304[0m 69.538 ms - -[0m
+[2026-09-30T11:42:47.559Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 103.616 ms - -[0m
+[2026-09-30T11:42:52.142Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.041 ms - -[0m
+[2026-09-30T11:42:52.169Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 31.198 ms - -[0m
+[2026-09-30T11:42:52.168Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 31.360 ms - -[0m
+[2026-09-30T11:42:52.173Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 33.282 ms - -[0m
+[2026-09-30T11:42:52.207Z] [INFO] [0mGET /api/v1/cart [36m304[0m 66.159 ms - -[0m
+[2026-09-30T11:42:52.208Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 68.777 ms - -[0m
+[2026-09-30T11:42:52.209Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 66.659 ms - -[0m
+[2026-09-30T11:43:48.325Z] [ERROR] [64a98e06-92bd-479e-b929-c3bff0a031dd] GET /api/services - 404 - Route not found - /api/services
+[2026-09-30T11:43:48.327Z] [INFO] [0mGET /api/services [33m404[0m 1.833 ms - -[0m
+[2026-09-30T11:43:48.590Z] [ERROR] [ddf4d3da-591f-4f26-a6d7-808e10c4ea08] GET /favicon.ico - 404 - Route not found - /favicon.ico
+[2026-09-30T11:43:48.591Z] [INFO] [0mGET /favicon.ico [33m404[0m 1.925 ms - -[0m
+[2026-09-30T11:49:23.999Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 64.515 ms - -[0m
+[2026-09-30T11:49:54.996Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 31.364 ms - -[0m
+[2026-09-30T11:49:55.040Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 76.008 ms - -[0m
+[2026-09-30T11:49:55.040Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 74.831 ms - -[0m
+[2026-09-30T11:49:55.041Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 76.078 ms - -[0m
+[2026-09-30T11:50:07.979Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 33.212 ms - -[0m
+[2026-09-30T11:50:07.981Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.803 ms - -[0m
+[2026-09-30T11:50:07.986Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 39.307 ms - -[0m
+[2026-09-30T11:50:07.989Z] [INFO] [0mGET /api/v1/settings [36m304[0m 37.152 ms - -[0m
+[2026-09-30T11:50:08.005Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 63.165 ms - -[0m
+[2026-09-30T11:50:08.007Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 62.944 ms - -[0m
+[2026-09-30T11:50:08.010Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 67.502 ms - -[0m
+[2026-09-30T11:50:08.012Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 65.789 ms - -[0m
+[2026-09-30T11:50:08.017Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 65.576 ms - -[0m
+[2026-09-30T11:50:08.047Z] [INFO] [0mGET /api/v1/cart [36m304[0m 97.862 ms - -[0m
+[2026-09-30T11:50:08.048Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 101.087 ms - -[0m
+[2026-09-30T11:50:08.048Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 103.135 ms - -[0m
+[2026-09-30T11:50:08.049Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 98.962 ms - -[0m
+[2026-09-30T11:50:12.928Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 1.664 ms - -[0m
+[2026-09-30T11:50:12.928Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 0.900 ms - -[0m
+[2026-09-30T11:50:12.933Z] [INFO] [0mGET /api/v1/settings [36m304[0m 2.354 ms - -[0m
+[2026-09-30T11:50:12.934Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.627 ms - -[0m
+[2026-09-30T11:50:12.956Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 31.591 ms - -[0m
+[2026-09-30T11:50:12.957Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 31.200 ms - -[0m
+[2026-09-30T11:50:12.958Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 32.688 ms - -[0m
+[2026-09-30T11:50:12.960Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 33.230 ms - -[0m
+[2026-09-30T11:50:12.962Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 30.430 ms - -[0m
+[2026-09-30T11:50:12.991Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 62.451 ms - -[0m
+[2026-09-30T11:50:12.992Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 60.877 ms - -[0m
+[2026-09-30T11:50:12.995Z] [INFO] [0mGET /api/v1/cart [36m304[0m 64.661 ms - -[0m
+[2026-09-30T11:50:12.996Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 66.462 ms - -[0m
+[2026-09-30T11:50:16.919Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 2.019 ms - -[0m
+[2026-09-30T11:50:16.919Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.168 ms - -[0m
+[2026-09-30T11:50:16.921Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.847 ms - -[0m
+[2026-09-30T11:50:16.942Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.941 ms - -[0m
+[2026-09-30T11:50:16.944Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 29.005 ms - -[0m
+[2026-09-30T11:50:16.947Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 32.588 ms - -[0m
+[2026-09-30T11:50:16.948Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 32.662 ms - -[0m
+[2026-09-30T11:50:16.949Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 32.369 ms - -[0m
+[2026-09-30T11:50:16.971Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 29.589 ms - -[0m
+[2026-09-30T11:50:16.989Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 54.542 ms - -[0m
+[2026-09-30T11:50:16.998Z] [INFO] [0mGET /api/v1/notifications?limit=8 [36m304[0m 61.458 ms - -[0m
+[2026-09-30T11:50:16.999Z] [INFO] [0mGET /api/v1/cart [36m304[0m 60.361 ms - -[0m
+[2026-09-30T11:50:17.004Z] [INFO] [0mGET /api/v1/wishlist [36m304[0m 63.494 ms - -[0m
+[2026-09-30T11:51:27.025Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 31.787 ms - -[0m
+[2026-09-30T11:51:27.026Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 30.987 ms - -[0m
+[2026-09-30T11:51:27.053Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 61.925 ms - -[0m
+[2026-09-30T11:51:27.060Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 65.628 ms - -[0m
+[2026-09-30T11:51:41.990Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 69.189 ms - -[0m
+[2026-09-30T11:52:16.991Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 59.529 ms - -[0m
+[2026-09-30T11:52:22.194Z] [ERROR] [12a799e1-f97d-4a66-af17-6ad3542e8b81] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-09-30T11:52:22.196Z] [INFO] [0mGET /api/v1/notifications?limit=8 [33m401[0m 1.927 ms - -[0m
+[2026-09-30T11:52:22.205Z] [ERROR] [678ece59-7494-4605-8907-656b628e9081] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T11:52:22.206Z] [INFO] [0mPOST /api/v1/auth/refresh-token [33m401[0m 2.225 ms - -[0m
+[2026-09-30T11:52:22.290Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 72.601 ms - -[0m
+[2026-09-30T11:52:45.974Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 38.566 ms - -[0m
+[2026-09-30T11:52:45.974Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 38.087 ms - -[0m
+[2026-09-30T11:52:46.009Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 75.309 ms - -[0m
+[2026-09-30T11:52:46.010Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 74.548 ms - -[0m
+[2026-09-30T11:53:54.969Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 33.944 ms - -[0m
+[2026-09-30T11:53:54.971Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.633 ms - -[0m
+[2026-09-30T11:53:54.988Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 58.016 ms - -[0m
+[2026-09-30T11:53:54.995Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 62.664 ms - -[0m
+[2026-09-30T11:53:54.996Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 62.798 ms - -[0m
+[2026-09-30T11:53:54.997Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 65.461 ms - -[0m
+[2026-09-30T11:53:55.000Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 66.614 ms - -[0m
+[2026-09-30T11:53:59.926Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 1.205 ms - -[0m
+[2026-09-30T11:53:59.931Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.200 ms - -[0m
+[2026-09-30T11:53:59.931Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.983 ms - -[0m
+[2026-09-30T11:53:59.958Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 34.142 ms - -[0m
+[2026-09-30T11:53:59.957Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 29.259 ms - -[0m
+[2026-09-30T11:53:59.959Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 33.546 ms - -[0m
+[2026-09-30T11:53:59.960Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 32.114 ms - -[0m
+[2026-09-30T11:54:03.933Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 4.136 ms - -[0m
+[2026-09-30T11:54:03.934Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 1.524 ms - -[0m
+[2026-09-30T11:54:03.935Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.578 ms - -[0m
+[2026-09-30T11:54:03.959Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 30.985 ms - -[0m
+[2026-09-30T11:54:03.960Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 30.000 ms - -[0m
+[2026-09-30T11:54:03.961Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 30.045 ms - -[0m
+[2026-09-30T11:54:03.962Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 30.784 ms - -[0m
+[2026-09-30T12:00:50.183Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 36.181 ms - -[0m
+[2026-09-30T12:00:50.197Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 87.405 ms - -[0m
+[2026-09-30T12:00:50.198Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.734 ms - -[0m
+[2026-09-30T12:00:50.224Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 78.299 ms - -[0m
+[2026-09-30T12:00:50.225Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 77.373 ms - -[0m
+[2026-09-30T12:00:50.226Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 78.685 ms - -[0m
+[2026-09-30T12:00:50.227Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 36.201 ms - -[0m
+[2026-09-30T12:00:50.255Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 111.299 ms - -[0m
+[2026-09-30T12:01:34.249Z] [ERROR] [cdbb4cde-6c57-4cd1-a1de-b0f92eb903fe] GET /api/v1/admin/consultation-bookings?limit=100 - 401 - Not authorized, token failed or expired
+[2026-09-30T12:01:34.251Z] [INFO] [0mGET /api/v1/admin/consultation-bookings?limit=100 [33m401[0m 3.552 ms - -[0m
+[2026-09-30T12:01:34.259Z] [ERROR] [d34d61a3-fc86-411d-b42f-1859b8d13729] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-09-30T12:01:34.260Z] [INFO] [0mPOST /api/v1/auth/refresh-token [33m401[0m 2.168 ms - -[0m
+[2026-09-30T12:01:36.709Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 498.631 ms - 721[0m
+[2026-09-30T12:01:37.338Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-consultation-bookings [36m304[0m 68.362 ms - -[0m
+[2026-09-30T12:01:37.342Z] [INFO] [0mGET /api/v1/admin/dashboard/charts?range=30 [36m304[0m 73.494 ms - -[0m
+[2026-09-30T12:01:37.343Z] [INFO] [0mGET /api/v1/admin/dashboard/stats [36m304[0m 76.833 ms - -[0m
+[2026-09-30T12:01:37.368Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-orders [32m200[0m 95.878 ms - -[0m
+[2026-09-30T12:01:37.371Z] [INFO] [0mGET /api/v1/admin/dashboard/low-stock [36m304[0m 100.429 ms - -[0m
+[2026-09-30T12:01:37.603Z] [INFO] [0mGET /api/v1/admin/dashboard/inventory-stats [36m304[0m 329.576 ms - -[0m
+[2026-09-30T12:01:40.404Z] [INFO] [0mGET /api/v1/admin/consultation-bookings?limit=100 [32m200[0m 69.140 ms - 163[0m
+[2026-09-30T12:01:41.526Z] [INFO] [0mGET /api/v1/consultations/services?all=true [36m304[0m 95.953 ms - -[0m
+[2026-09-30T12:05:15.685Z] [INFO] [0mPOST /api/v1/consultations/services [32m201[0m 126.914 ms - 683[0m
+[2026-09-30T12:05:15.761Z] [INFO] [0mGET /api/v1/consultations/services?all=true [32m200[0m 66.963 ms - -[0m
+[2026-09-30T12:05:23.580Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.842 ms - -[0m
+[2026-09-30T12:05:23.606Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 30.913 ms - -[0m
+[2026-09-30T12:05:23.607Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 28.695 ms - -[0m
+[2026-09-30T12:05:23.612Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 33.879 ms - -[0m
+[2026-09-30T12:05:23.641Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 63.926 ms - -[0m
+[2026-09-30T12:08:27.503Z] [INFO] [0mGET /api/v1/consultations/services?limit=50 [32m200[0m 63.075 ms - -[0m
+[2026-09-30T12:08:27.531Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 90.616 ms - -[0m
+[2026-09-30T12:08:30.272Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 31.201 ms - -[0m
+[2026-09-30T12:09:01.406Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 35.856 ms - -[0m
+[2026-09-30T12:09:01.432Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 62.990 ms - -[0m
+[2026-09-30T12:09:01.436Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 64.667 ms - -[0m
+[2026-09-30T12:09:01.439Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 66.642 ms - -[0m
+[2026-09-30T12:09:06.370Z] [INFO] [0mGET /api/v1/categories [36m304[0m 31.281 ms - -[0m
+[2026-09-30T12:09:06.371Z] [INFO] [0mGET /api/v1/brands [36m304[0m 31.953 ms - -[0m
+[2026-09-30T12:09:06.438Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [32m200[0m 95.943 ms - -[0m
+[2026-09-30T12:13:49.988Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 39.207 ms - -[0m
+[2026-09-30T12:13:49.988Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 40.655 ms - -[0m
+[2026-09-30T12:13:49.990Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.550 ms - -[0m
+[2026-09-30T12:13:50.016Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 69.334 ms - -[0m
+[2026-09-30T12:13:50.017Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 68.102 ms - -[0m
+[2026-09-30T12:13:50.017Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 69.020 ms - -[0m
+[2026-09-30T12:13:50.018Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 68.402 ms - -[0m
+[2026-09-30T12:16:34.099Z] [INFO] [0mGET /api/v1/settings [36m304[0m 32.419 ms - -[0m
+[2026-09-30T12:16:34.132Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 66.518 ms - -[0m
+[2026-09-30T12:16:34.137Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 72.114 ms - -[0m
+[2026-09-30T12:16:34.138Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 74.545 ms - -[0m
+[2026-09-30T12:16:34.173Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 107.791 ms - -[0m
+[2026-09-30T12:16:36.191Z] [INFO] [0mGET /api/v1/categories [36m304[0m 0.901 ms - -[0m
+[2026-09-30T12:16:36.226Z] [INFO] [0mGET /api/v1/brands [36m304[0m 35.367 ms - -[0m
+[2026-09-30T12:16:36.291Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [36m304[0m 101.643 ms - -[0m
+[2026-09-30T12:16:39.068Z] [INFO] [0mGET /api/v1/categories/dd [36m304[0m 67.820 ms - -[0m
+[2026-09-30T12:16:39.215Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt&category=6aba5d30030b90cdec499760 [32m200[0m 138.566 ms - -[0m
+[2026-09-30T12:16:39.515Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 29.144 ms - -[0m
+[2026-09-30T12:16:39.517Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 32.816 ms - -[0m
+[2026-09-30T12:16:39.520Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 34.971 ms - -[0m
+[2026-09-30T12:16:41.702Z] [INFO] [0mGET /api/v1/consultations/services/dd-imgpq [32m200[0m 36.003 ms - 683[0m
+[2026-09-30T12:20:04.748Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:20:05.350Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:20:05.352Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:21:03.995Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 74.214 ms - 551[0m
+[2026-09-30T12:22:14.906Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:22:15.664Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:22:15.665Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:22:30.000Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 73.613 ms - 553[0m
+[2026-09-30T12:22:58.008Z] [ERROR] [3657f2eb-6fcb-4f09-8801-9c6c8f3191b0] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:22:58.010Z] [INFO] [0mPOST /api/v1/kundli/order [31m502[0m 332.865 ms - 415[0m
+[2026-09-30T12:23:03.451Z] [ERROR] [3a926bf1-3965-4c3b-a549-1d1af971a6cc] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:23:03.453Z] [INFO] [0mPOST /api/v1/kundli/order [31m502[0m 248.193 ms - 415[0m
+[2026-09-30T12:23:13.934Z] [ERROR] [b3474f4d-e8bc-4b51-a9b9-291044c5185c] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:23:13.936Z] [INFO] [0mPOST /api/v1/kundli/order [31m502[0m 273.708 ms - 415[0m
+[2026-09-30T12:37:26.208Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 64.302 ms - -[0m
+[2026-09-30T12:37:26.215Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 73.537 ms - 553[0m
+[2026-09-30T12:37:26.234Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 86.938 ms - -[0m
+[2026-09-30T12:37:26.239Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 93.286 ms - -[0m
+[2026-09-30T12:37:26.240Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 92.441 ms - -[0m
+[2026-09-30T12:40:24.420Z] [INFO] [0mGET /api/v1/settings [36m304[0m 44.448 ms - -[0m
+[2026-09-30T12:40:24.441Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 64.785 ms - -[0m
+[2026-09-30T12:40:24.465Z] [INFO] [0mGET /api/v1/consultations/services?limit=50 [36m304[0m 88.624 ms - -[0m
+[2026-09-30T12:40:24.500Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 125.449 ms - -[0m
+[2026-09-30T12:40:26.690Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 30.226 ms - -[0m
+[2026-09-30T12:40:50.648Z] [ERROR] [42ca5375-87aa-49c5-b209-2afa7e99e5bb] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:40:50.649Z] [INFO] [0mPOST /api/v1/kundli/order [31m502[0m 419.150 ms - 415[0m
+[2026-09-30T12:43:23.811Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:43:24.422Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:43:24.424Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:43:28.237Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 50.069 ms - -[0m
+[2026-09-30T12:43:28.238Z] [INFO] [0mGET /api/v1/settings [36m304[0m 51.805 ms - -[0m
+[2026-09-30T12:43:28.268Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 81.938 ms - -[0m
+[2026-09-30T12:43:28.270Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 88.927 ms - -[0m
+[2026-09-30T12:43:28.295Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 111.296 ms - -[0m
+[2026-09-30T12:43:46.592Z] [ERROR] [5a705874-1f38-4223-825c-20a58c324898] POST /api/v1/kundli/order - 502 - Payment gateway error: Authentication failed
+[2026-09-30T12:43:46.602Z] [INFO] [0mPOST /api/v1/kundli/order [31m502[0m 333.711 ms - 415[0m
+[2026-09-30T12:45:12.408Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:45:13.230Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:45:13.233Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:45:17.276Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 1722.856 ms - -[0m
+[2026-09-30T12:45:26.028Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 737.767 ms - -[0m
+[2026-09-30T12:46:24.114Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:46:25.676Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:46:25.678Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:46:30.288Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 403.370 ms - -[0m
+[2026-09-30T12:49:36.690Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:49:37.379Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:49:37.380Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:49:53.003Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 65.435 ms - -[0m
+[2026-09-30T12:51:07.995Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 482.441 ms - -[0m
+[2026-09-30T12:51:11.178Z] [INFO] [0mGET /api/v1/settings [36m304[0m 5.780 ms - -[0m
+[2026-09-30T12:51:11.205Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 43.958 ms - -[0m
+[2026-09-30T12:51:11.207Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 36.398 ms - -[0m
+[2026-09-30T12:51:11.214Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 47.968 ms - -[0m
+[2026-09-30T12:51:11.236Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 73.273 ms - -[0m
+[2026-09-30T12:51:22.939Z] [INFO] [0mPOST /api/v1/kundli/order [32m201[0m 310.866 ms - -[0m
+[2026-09-30T12:53:00.988Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:53:01.621Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:53:01.622Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:53:18.783Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:53:19.413Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:53:19.414Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:53:26.724Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:53:27.353Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:53:27.355Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:53:32.366Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:53:33.040Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:53:33.042Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:53:37.938Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:53:38.596Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:53:38.598Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:53:52.994Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 44.685 ms - -[0m
+[2026-09-30T12:53:52.994Z] [INFO] [0mGET /api/v1/settings [36m304[0m 43.633 ms - -[0m
+[2026-09-30T12:53:53.014Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 64.792 ms - -[0m
+[2026-09-30T12:53:53.018Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 67.619 ms - 553[0m
+[2026-09-30T12:53:53.019Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 72.994 ms - -[0m
+[2026-09-30T12:53:53.026Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 31.563 ms - -[0m
+[2026-09-30T12:53:53.027Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 76.932 ms - -[0m
+[2026-09-30T12:55:57.931Z] [ERROR] [14fe6a76-d45b-415d-81d8-b6a23e47e902] POST /api/v1/kundli/generate - 403 - This endpoint is disabled (SKIP_KUNDLI_PAYMENT is not enabled in this environment)
+[2026-09-30T12:55:57.932Z] [INFO] [0mPOST /api/v1/kundli/generate [33m403[0m 45.191 ms - 1364[0m
+[2026-09-30T12:56:27.104Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:56:27.787Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:56:27.789Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-09-30T12:56:39.633Z] [WARN] Dev-only /kundli/generate used — order PKO-5672F4D5 created with payment skipped entirely (no Razorpay request made)
+[2026-09-30T12:56:41.255Z] [ERROR] Failed to send email to test@example.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8872539a16esm779896b3a.14 - gsmtp
+[2026-09-30T12:56:41.256Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abd07076544040c3999b5fc: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8872539a16esm779896b3a.14 - gsmtp
+[2026-09-30T12:56:41.341Z] [ERROR] Kundli generation failed for order 6abd07076544040c3999b5fc: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-09-30T12:56:41.424Z] [INFO] [0mPOST /api/v1/kundli/generate [32m201[0m 1915.437 ms - 1424[0m
+[2026-09-30T12:57:15.579Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 47.459 ms - -[0m
+[2026-09-30T12:57:15.579Z] [INFO] [0mGET /api/v1/settings [36m304[0m 46.206 ms - -[0m
+[2026-09-30T12:57:15.591Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 59.268 ms - -[0m
+[2026-09-30T12:57:15.611Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 84.149 ms - -[0m
+[2026-09-30T12:57:15.658Z] [INFO] [0mGET /api/v1/products/id/6aba5d58030b90cdec499761 [36m304[0m 129.209 ms - -[0m
+[2026-09-30T12:57:27.965Z] [WARN] Dev-only /kundli/generate used — order PKO-7FDACBA2 created with payment skipped entirely (no Razorpay request made)
+[2026-09-30T12:57:29.798Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34cf553e787sm4203448eec.17 - gsmtp
+[2026-09-30T12:57:29.799Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6abd07376544040c3999b608: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34cf553e787sm4203448eec.17 - gsmtp
+[2026-09-30T12:57:29.880Z] [ERROR] Kundli generation failed for order 6abd07376544040c3999b608: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-09-30T12:57:29.973Z] [INFO] [0mPOST /api/v1/kundli/generate [32m201[0m 2446.648 ms - -[0m
+[2026-09-30T12:59:45.819Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-09-30T12:59:46.421Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-09-30T12:59:46.423Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)

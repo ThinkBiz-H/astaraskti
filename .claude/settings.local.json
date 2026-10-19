@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /tmp/kundli_guest_order.json -w '\\\\nHTTP_STATUS:%{http_code}\\\\n' -X POST http://localhost:5999/api/v1/kundli/order -H 'Content-Type: application/json' -d '{ *)",
+      "Bash(node -e ' *)",
+      "Bash(curl -s -o /tmp/kundli_verify_result.json -w '\\\\nHTTP_STATUS:%{http_code}\\\\n' -X POST http://localhost:5999/api/v1/kundli/payment/verify -H 'Content-Type: application/json' -d @/tmp/kundli_verify_payload.json)"
+    ]
+  }
+}

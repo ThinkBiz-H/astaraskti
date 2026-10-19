@@ -1,0 +1,229 @@
+[2026-10-08T09:37:48.406Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T09:37:48.979Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-08T09:37:48.981Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-08T09:38:03.356Z] [INFO] [0mGET /api/v1/settings [32m200[0m 63.013 ms - 952[0m
+[2026-10-08T09:38:03.357Z] [INFO] [0mGET /api/v1/products/featured/list [32m200[0m 66.733 ms - 103[0m
+[2026-10-08T09:38:03.358Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 71.342 ms - -[0m
+[2026-10-08T09:38:03.363Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 75.063 ms - -[0m
+[2026-10-08T09:38:03.372Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 80.968 ms - -[0m
+[2026-10-08T09:38:03.387Z] [INFO] [0mGET /api/v1/home-sections [32m200[0m 28.308 ms - 109[0m
+[2026-10-08T09:38:03.397Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 107.855 ms - -[0m
+[2026-10-08T09:38:16.744Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 29.711 ms - -[0m
+[2026-10-08T09:38:16.747Z] [INFO] [0mGET /api/v1/settings [32m200[0m 2.338 ms - 952[0m
+[2026-10-08T09:38:16.755Z] [INFO] [0mGET /api/v1/home-sections [32m200[0m 36.630 ms - 109[0m
+[2026-10-08T09:38:16.771Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 58.034 ms - -[0m
+[2026-10-08T09:38:16.780Z] [INFO] [0mGET /api/v1/products/featured/list [32m200[0m 62.906 ms - 103[0m
+[2026-10-08T09:38:16.783Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 63.518 ms - -[0m
+[2026-10-08T09:38:16.784Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 68.204 ms - -[0m
+[2026-10-08T09:38:24.123Z] [INFO] [0mGET /api/v1/brands [32m200[0m 30.396 ms - 100[0m
+[2026-10-08T09:38:24.124Z] [INFO] [0mGET /api/v1/categories [32m200[0m 32.600 ms - 580[0m
+[2026-10-08T09:38:24.204Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [32m200[0m 110.886 ms - -[0m
+[2026-10-08T09:38:26.112Z] [INFO] [0mGET /api/v1/products/dsfasf-80778 [32m200[0m 74.172 ms - -[0m
+[2026-10-08T09:38:26.180Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/reviews/rating-distribution [32m200[0m 37.178 ms - 314[0m
+[2026-10-08T09:38:26.177Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/reviews [32m200[0m 35.774 ms - 315[0m
+[2026-10-08T09:38:26.240Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/related [32m200[0m 96.599 ms - 1000[0m
+[2026-10-08T09:38:35.534Z] [INFO] [0mGET /api/v1/products/id/6abcdcc43108a2845cdf7a73 [32m200[0m 175.713 ms - -[0m
+[2026-10-08T09:38:44.331Z] [INFO] [0mPOST /api/v1/auth/check-mobile [32m200[0m 35.704 ms - 318[0m
+[2026-10-08T10:09:37.412Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 255.347 ms - -[0m
+[2026-10-08T10:09:37.414Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 255.372 ms - -[0m
+[2026-10-08T10:09:37.417Z] [INFO] [0mGET /api/v1/settings [36m304[0m 1.914 ms - -[0m
+[2026-10-08T10:09:37.419Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 260.349 ms - -[0m
+[2026-10-08T10:09:37.421Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 262.452 ms - -[0m
+[2026-10-08T10:09:37.422Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 261.291 ms - -[0m
+[2026-10-08T10:09:37.422Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 261.307 ms - -[0m
+[2026-10-08T10:09:43.285Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 3.510 ms - -[0m
+[2026-10-08T10:09:43.287Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 0.820 ms - -[0m
+[2026-10-08T10:09:43.288Z] [INFO] [0mGET /api/v1/settings [36m304[0m 0.522 ms - -[0m
+[2026-10-08T10:09:43.573Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 292.157 ms - -[0m
+[2026-10-08T10:09:43.575Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 292.433 ms - -[0m
+[2026-10-08T10:09:43.583Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 305.703 ms - -[0m
+[2026-10-08T10:09:43.586Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 302.115 ms - -[0m
+[2026-10-08T10:09:43.615Z] [INFO] [0mGET /api/v1/products/id/6abcdcc43108a2845cdf7a73 [36m304[0m 335.326 ms - -[0m
+[2026-10-08T10:11:45.967Z] [ERROR] [219cf142-a4c7-4339-951c-e5b399d1b45e] OPTIONS /api/v1/auth/login - 500 - Not allowed by CORS
+[2026-10-08T10:12:28.712Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T10:12:29.516Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-08T10:12:29.523Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-08T10:12:38.009Z] [INFO] [0mPOST /api/v1/auth/login [32m200[0m 175.971 ms - 721[0m
+[2026-10-08T10:12:38.432Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-consultation-bookings [32m200[0m 80.832 ms - 114[0m
+[2026-10-08T10:12:38.434Z] [INFO] [0mGET /api/v1/admin/dashboard/charts?range=30 [32m200[0m 86.495 ms - 114[0m
+[2026-10-08T10:12:38.464Z] [INFO] [0mGET /api/v1/admin/dashboard/low-stock [32m200[0m 111.213 ms - 133[0m
+[2026-10-08T10:12:38.466Z] [INFO] [0mGET /api/v1/admin/dashboard/recent-orders [32m200[0m 112.682 ms - -[0m
+[2026-10-08T10:12:38.643Z] [INFO] [0mGET /api/v1/admin/dashboard/stats [32m200[0m 298.376 ms - 265[0m
+[2026-10-08T10:12:38.652Z] [INFO] [0mGET /api/v1/admin/dashboard/inventory-stats [32m200[0m 300.653 ms - 221[0m
+[2026-10-08T10:12:41.331Z] [INFO] [0mGET /api/v1/brands [36m304[0m 36.224 ms - -[0m
+[2026-10-08T10:12:41.334Z] [INFO] [0mGET /api/v1/categories [36m304[0m 38.437 ms - -[0m
+[2026-10-08T10:12:41.422Z] [INFO] [0mGET /api/v1/products?page=1&limit=15 [32m200[0m 128.886 ms - -[0m
+[2026-10-08T10:12:46.410Z] [INFO] [0mGET /api/v1/admin/consultation-bookings?limit=100 [32m200[0m 61.896 ms - 163[0m
+[2026-10-08T10:12:48.478Z] [INFO] [0mGET /api/v1/consultations/services?all=true [36m304[0m 65.039 ms - -[0m
+[2026-10-08T10:12:56.315Z] [ERROR] [63866fa0-c327-4278-891f-cac2d24cacc1] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:56.949Z] [ERROR] [00e315bc-c0c9-4821-be35-4be559cbd81f] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:58.159Z] [ERROR] [61dcd9fe-006f-480a-a8b1-39d9e691568c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.179Z] [ERROR] [6fa2f533-32ad-4717-abc2-a18cd964a39b] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.563Z] [ERROR] [d9ff3bfc-14b3-4c6a-87d8-4bed0a98fafc] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.565Z] [ERROR] [63f6122e-146f-4f7f-99f6-1319520d1f54] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.566Z] [ERROR] [77f346e5-991a-4315-b426-9217725f3a2e] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.568Z] [ERROR] [5135bf23-12bb-45fe-a9b6-05086afbcae6] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:12:59.792Z] [ERROR] [ac3240ee-0979-4410-a68a-62d225243be6] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.128Z] [ERROR] [d188c0cb-9df9-40a3-9c9b-aab5eafe597a] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.130Z] [ERROR] [0dfc3fcb-163b-4965-890d-8128a425a8f1] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.132Z] [ERROR] [43025196-f87c-4d4a-8aa9-73a153705f05] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.133Z] [ERROR] [246e90e0-c012-42d5-b8aa-a09f1ada8e2f] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.173Z] [ERROR] [d22d9f4f-de71-4316-944f-7463815c627e] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.175Z] [ERROR] [13972dda-e3b8-4464-b5f4-137a74d5d5d0] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.177Z] [ERROR] [44097a2e-2834-4fe0-b110-bbdc8813c896] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.176Z] [ERROR] [ca90e2a1-47fb-4a6b-afc1-ca697cba65bc] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.735Z] [ERROR] [b9c21729-7348-4e71-a44f-250f1e8c2c91] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.736Z] [ERROR] [19a8a5b8-4dcb-427a-bfa2-cf9721ccc591] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.739Z] [ERROR] [569e0332-4278-4746-bcf1-3462c92937f3] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.740Z] [ERROR] [18c5e7fc-8126-4326-8791-fb68004eee2c] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:00.998Z] [ERROR] [4e041398-b09c-44f6-9d37-6c3b4151809c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.394Z] [ERROR] [dc07fa99-d164-4a3b-82c0-6e58245f85b1] GET /api/v1/products?page=1&limit=12&sort=-createdAt - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.395Z] [ERROR] [4ef18fd9-a69f-42d5-8a67-844107534d5d] GET /api/v1/categories - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.396Z] [ERROR] [9e76da7a-ecf1-44a6-9005-47db79e318a9] GET /api/v1/brands - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.397Z] [ERROR] [d5619361-1082-4852-924c-92aae676a9d5] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.948Z] [ERROR] [66026ee5-96dc-4485-a307-116e75433c6c] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.951Z] [ERROR] [4d8af1ab-49a0-4443-b045-78f63c6bde3c] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.953Z] [ERROR] [8582d3e0-5e88-416a-9c39-3b926c543784] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:01.956Z] [ERROR] [ca472137-094e-4cfd-a1c4-575f9b11e39e] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.414Z] [ERROR] [daacfe2e-a78b-4797-baa2-e092c1151a31] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.953Z] [ERROR] [c1705844-2721-4bcb-bf5d-51a3051f28be] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.956Z] [ERROR] [0b3d96de-2d46-40cd-beaa-837c7b522a4b] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.958Z] [ERROR] [dd92988f-ee82-4a13-bab9-b7d88cea292a] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:02.961Z] [ERROR] [34274331-a284-4de5-84c3-6326a39a58aa] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.016Z] [ERROR] [fd0363c8-0042-4581-9ffc-605f9225291f] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.021Z] [ERROR] [22830d4b-1091-4a56-b501-a853b0bab545] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.562Z] [ERROR] [d017ff93-02d7-4237-9ae8-35f18c0dc0b7] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.566Z] [ERROR] [fa6c8950-daf9-497c-a55f-fb6578731240] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.569Z] [ERROR] [a173bcbf-bde3-492d-a31a-c679ba9dd768] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.572Z] [ERROR] [83ffb4b0-abd6-4c17-bbce-47d7c658a7b3] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:03.626Z] [ERROR] [4e5aae48-97de-4a87-bb35-0eb31bb417f7] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:04.231Z] [ERROR] [e00b838c-9502-4a0f-b683-e1d42cf8355d] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.015Z] [ERROR] [4d518297-e8f8-44f9-96c5-9a54a7c51153] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.019Z] [ERROR] [d64b268e-755e-4a8b-b7d2-130317b863c2] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.023Z] [ERROR] [9146761b-9ec4-492e-bf85-f820da4679e2] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.025Z] [ERROR] [491c5b42-07ee-4707-bfdc-6a33c6e5e9ad] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:13:05.029Z] [ERROR] [db07ede2-f1ea-438a-b5bc-784060d1e4d9] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:13:07.131Z] [INFO] [0mDELETE /api/v1/consultations/services/6aba5e65030b90cdec49976b [32m200[0m 159.590 ms - 93[0m
+[2026-10-08T10:13:07.225Z] [INFO] [0mGET /api/v1/consultations/services?all=true [32m200[0m 67.025 ms - 162[0m
+[2026-10-08T10:14:24.951Z] [ERROR] [0f31d4f4-ae97-4f05-9cf4-54af8486a4a6] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:25.556Z] [ERROR] [655460df-1843-4957-804a-5b346dc44666] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:27.016Z] [ERROR] [c0361433-333c-4663-88bf-8b2f9efce5fd] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:28.036Z] [ERROR] [1d116fa4-e925-4668-b221-13f174a05a4c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:28.974Z] [ERROR] [3da82093-c0bb-4c79-bd40-bb47aeb8e2e9] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.096Z] [ERROR] [70eb6a13-2ad8-414e-be2d-6324abf32fb5] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.099Z] [ERROR] [63cfaf60-dbbf-4eff-8340-4f93712163a8] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.100Z] [ERROR] [a8220815-b1fc-4d81-a42b-7faed246ab46] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.102Z] [ERROR] [196d2d2b-a164-4050-ab27-92fc05b6f1dd] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.190Z] [ERROR] [72f88966-2bbb-4a59-a9fc-b42a01c2c655] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.708Z] [ERROR] [57cc74a6-39f0-4fbd-b177-225f444b5b7c] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.710Z] [ERROR] [691ec1ab-e164-47e6-9518-f69db8b7649c] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.711Z] [ERROR] [5cc53860-a8cc-4f0d-839d-0340f4c8797d] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:30.713Z] [ERROR] [774f6731-738e-43f3-857a-d4919102929f] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.725Z] [ERROR] [adbe6f9c-c176-475f-b12b-4f47c79e7bcc] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.726Z] [ERROR] [f972fce6-6864-4b4d-8704-1352734bdb0e] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.728Z] [ERROR] [09b7d4ad-cbab-42fc-85be-921296b03e11] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.729Z] [ERROR] [86181596-e021-4709-b294-7c6bdf71743c] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.731Z] [ERROR] [57db8a9c-6f2c-4ee7-a769-176965e8981b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.733Z] [ERROR] [979258fe-db45-4b02-a675-037fe3f1bfcf] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.735Z] [ERROR] [dc60a268-307b-46fd-8ffa-ffff810148f4] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:31.738Z] [ERROR] [5c1f99de-a9fe-4437-b018-b3a77eae048c] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.368Z] [ERROR] [4dd8f6e9-7134-4167-a10a-b39f0cabf154] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.371Z] [ERROR] [3c4c31e2-abfc-4923-8c56-cdb65714abf3] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.373Z] [ERROR] [01bc6708-cec4-44b2-a38c-e4b352e5f6db] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.376Z] [ERROR] [e0b80943-b02e-48cd-8c24-9c118aa928d6] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.378Z] [ERROR] [4afa56b5-087f-449b-9fc8-23044c50abea] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.380Z] [ERROR] [f42d188e-6df1-4b08-87b6-1f70f5464ca3] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.381Z] [ERROR] [e80e1b90-15e9-4c44-8785-8e5dfe680a78] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:32.383Z] [ERROR] [29442090-c585-4422-a94c-fb09eaedb289] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.580Z] [ERROR] [5eb28ab4-776a-485a-acb5-aeea20cd5181] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.582Z] [ERROR] [b0284371-735a-4d2f-a3db-bf7f7dd01934] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.583Z] [ERROR] [4b48379b-2e87-4b86-baea-18e903e6d071] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.585Z] [ERROR] [f23a0f0b-6297-4b39-ac99-35c90154c638] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.588Z] [ERROR] [1b39f0a7-075d-4652-8ce7-b249067f04bb] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.590Z] [ERROR] [ee21bb8b-9444-418a-8ebb-5eaf8011aaba] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.591Z] [ERROR] [ec955c16-c3ba-4489-bde1-2c9bfbdab662] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:33.592Z] [ERROR] [8da798fb-8156-4a56-8e5c-a7c43abe0968] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.585Z] [ERROR] [609fe440-9890-4302-a27b-4718aa85ebe8] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.589Z] [ERROR] [30b564c1-3556-42f5-b571-f27136a2eab3] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.590Z] [ERROR] [34a2623a-1325-4a35-a59d-b08cf92ce1fa] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.591Z] [ERROR] [870a8f92-b32d-439e-afc0-6e61d8c66a99] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.593Z] [ERROR] [1d535c6c-f69c-4d9d-bdd8-1fa684dadd6b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.596Z] [ERROR] [5e106d31-35b0-4cbd-9464-8e9ed3e10e11] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.599Z] [ERROR] [db2f2c18-e4be-46b5-b051-e37e23928272] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:34.601Z] [ERROR] [602a001c-5360-45f9-b3c8-33f9b64d3504] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.203Z] [ERROR] [d4bf000c-faf7-4d91-a53c-b8d5413afb41] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.205Z] [ERROR] [0b249101-85c6-47d2-a570-e8c7492903af] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.206Z] [ERROR] [22b3693f-94e9-4165-b512-ca26646faa05] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.207Z] [ERROR] [51a7edd3-8223-4623-a984-7651589245aa] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.209Z] [ERROR] [2a894378-5ceb-4140-9dfb-5f971875c70a] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.210Z] [ERROR] [f5d9cbf9-87a0-4640-8d57-dacfbebbba91] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.212Z] [ERROR] [a2c9d012-373c-485f-9f9c-56fc6821a0f2] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:35.214Z] [ERROR] [6585e946-151f-4bbc-8e0a-48ad656487c1] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.419Z] [ERROR] [c2994450-aa71-429e-a60b-9a68ca613865] GET /api/v1/announcements - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.421Z] [ERROR] [16533fd0-52c1-4398-90d9-a110ca1abe7c] GET /api/v1/products/id/6abcdcc43108a2845cdf7a73 - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.423Z] [ERROR] [75bb3a39-e14d-41fe-9f02-57ddb48fa781] GET /api/v1/categories?parent=root - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.426Z] [ERROR] [190bbab7-257b-4386-8170-7fea18b92a27] GET /api/v1/kundli/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.427Z] [ERROR] [1251967d-092a-4a08-9819-cd614a83ef5b] GET /api/v1/products/featured/list - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.429Z] [ERROR] [600e7d67-4133-4158-bcaf-ccb456c39501] GET /api/v1/home-sections - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.431Z] [ERROR] [de68367f-1643-4d48-89d7-35ee0f5931cb] GET /api/v1/settings - 500 - Not allowed by CORS
+[2026-10-08T10:14:36.433Z] [ERROR] [d96f3b86-5027-4d9e-a2a9-4c66bd84311f] GET /api/v1/consultations/services?limit=4 - 500 - Not allowed by CORS
+[2026-10-08T10:18:35.142Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T11:05:18.605Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T11:05:19.456Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-08T11:05:19.457Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-08T11:05:28.336Z] [ERROR] [9f1e578a-1482-43a6-a5c1-3b7d14d84c33] GET /api/v1/horoscope/service - 400 - Premium Horoscope is not currently available — no active service configured in Consultation Services
+[2026-10-08T11:05:28.341Z] [INFO] [0mGET /api/v1/horoscope/service [33m400[0m 71.983 ms - 664[0m
+[2026-10-08T11:05:55.309Z] [INFO] [0mGET /api/v1/horoscope/service [32m200[0m 65.317 ms - 759[0m
+[2026-10-08T11:06:06.858Z] [ERROR] [ff3a1940-1922-461d-a147-36f7d8429204] POST /api/v1/horoscope/generate - 403 - This endpoint is disabled (TEST_MODE is not enabled in this environment)
+[2026-10-08T11:06:06.859Z] [INFO] [0mPOST /api/v1/horoscope/generate [33m403[0m 43.609 ms - 1341[0m
+[2026-10-08T11:06:19.069Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T11:06:19.896Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-08T11:06:19.898Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-08T11:06:20.984Z] [WARN] Dev-only /horoscope/generate used — order PHO-A9209BEC created with payment skipped entirely (no Razorpay request made)
+[2026-10-08T11:06:25.864Z] [ERROR] Failed to send email to htest@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:06:25.864Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac7792ccc3e946051dd84ef: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:06:25.933Z] [ERROR] Horoscope generation failed for order 6ac7792ccc3e946051dd84ef: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-08T11:06:26.002Z] [INFO] [0mPOST /api/v1/horoscope/generate [32m201[0m 5438.187 ms - 1425[0m
+[2026-10-08T11:07:32.547Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T11:08:14.387Z] [INFO] MongoDB Connected: ac-h2slc0s-shard-00-00.e3dxvfc.mongodb.net
+[2026-10-08T11:08:15.053Z] [INFO] Admin user already exists, skipping admin seeding
+[2026-10-08T11:08:15.056Z] [INFO] Scheduler started (notification queue, scheduled blog publishing, job cleanup, audit retention)
+[2026-10-08T11:08:40.834Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 60.564 ms - 553[0m
+[2026-10-08T11:08:40.837Z] [INFO] [0mGET /api/v1/settings [32m200[0m 0.963 ms - 952[0m
+[2026-10-08T11:08:40.838Z] [INFO] [0mGET /api/v1/announcements [32m200[0m 69.458 ms - 114[0m
+[2026-10-08T11:08:40.841Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 65.735 ms - 804[0m
+[2026-10-08T11:08:40.842Z] [INFO] [0mGET /api/v1/products/featured/list [32m200[0m 69.148 ms - 103[0m
+[2026-10-08T11:08:40.867Z] [INFO] [0mGET /api/v1/categories?parent=root [32m200[0m 95.535 ms - 580[0m
+[2026-10-08T11:08:40.868Z] [INFO] [0mGET /api/v1/home-sections [32m200[0m 92.649 ms - 109[0m
+[2026-10-08T11:08:44.942Z] [INFO] [0mGET /api/v1/categories?parent=root [32m200[0m 1.189 ms - 580[0m
+[2026-10-08T11:08:44.947Z] [INFO] [0mGET /api/v1/home-sections [32m200[0m 0.506 ms - 109[0m
+[2026-10-08T11:08:44.958Z] [INFO] [0mGET /api/v1/settings [32m200[0m 0.711 ms - 952[0m
+[2026-10-08T11:08:44.972Z] [INFO] [0mGET /api/v1/announcements [32m200[0m 32.375 ms - 114[0m
+[2026-10-08T11:08:44.977Z] [INFO] [0mGET /api/v1/kundli/settings [32m200[0m 34.122 ms - 553[0m
+[2026-10-08T11:08:44.979Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [32m200[0m 34.324 ms - 804[0m
+[2026-10-08T11:08:44.983Z] [INFO] [0mGET /api/v1/products/featured/list [32m200[0m 39.366 ms - 103[0m
+[2026-10-08T11:09:01.967Z] [INFO] [0mGET /api/v1/consultations/services?limit=50 [32m200[0m 78.776 ms - 805[0m
+[2026-10-08T11:09:05.889Z] [INFO] [0mGET /api/v1/horoscope/service [32m200[0m 45.883 ms - 759[0m
+[2026-10-08T11:09:18.230Z] [INFO] [0mPOST /api/v1/kundli/geocode [32m200[0m 818.664 ms - 247[0m
+[2026-10-08T11:09:20.323Z] [WARN] Dev-only /horoscope/generate used — order PHO-9D654D0D created with payment skipped entirely (no Razorpay request made)
+[2026-10-08T11:09:23.774Z] [ERROR] Failed to send email to sgks.org.in@gmail.com: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:09:23.774Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6ac779e02b4bc2bca5f76073: Invalid login: 535 Incorrect authentication data
+[2026-10-08T11:09:23.853Z] [ERROR] Horoscope generation failed for order 6ac779e02b4bc2bca5f76073: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-08T11:09:23.950Z] [INFO] [0mPOST /api/v1/horoscope/generate [32m201[0m 3713.660 ms - -[0m
+[2026-10-08T11:14:12.216Z] [INFO] [0mGET /api/v1/categories?parent=root [36m304[0m 35.152 ms - -[0m
+[2026-10-08T11:14:12.245Z] [INFO] [0mGET /api/v1/kundli/settings [36m304[0m 65.768 ms - -[0m
+[2026-10-08T11:14:12.246Z] [INFO] [0mGET /api/v1/products/featured/list [36m304[0m 65.569 ms - -[0m
+[2026-10-08T11:14:12.251Z] [INFO] [0mGET /api/v1/consultations/services?limit=4 [36m304[0m 68.631 ms - -[0m
+[2026-10-08T11:14:12.252Z] [INFO] [0mGET /api/v1/home-sections [36m304[0m 69.559 ms - -[0m
+[2026-10-08T11:14:20.702Z] [INFO] [0mGET /api/v1/consultations/services?limit=50 [36m304[0m 37.494 ms - -[0m
+[2026-10-08T11:14:23.104Z] [INFO] [0mGET /api/v1/settings [36m304[0m 35.103 ms - -[0m
+[2026-10-08T11:14:23.140Z] [INFO] [0mGET /api/v1/brands [32m200[0m 72.420 ms - 100[0m
+[2026-10-08T11:14:23.139Z] [INFO] [0mGET /api/v1/announcements [36m304[0m 70.931 ms - -[0m
+[2026-10-08T11:14:23.142Z] [INFO] [0mGET /api/v1/categories [32m200[0m 75.076 ms - 580[0m
+[2026-10-08T11:14:23.226Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt [32m200[0m 158.971 ms - -[0m
+[2026-10-08T11:14:25.440Z] [INFO] [0mGET /api/v1/categories/dd [32m200[0m 97.464 ms - 578[0m
+[2026-10-08T11:14:25.605Z] [INFO] [0mGET /api/v1/products?page=1&limit=12&sort=-createdAt&category=6aba5d30030b90cdec499760 [32m200[0m 154.622 ms - -[0m
+[2026-10-08T11:14:28.283Z] [INFO] [0mGET /api/v1/products/dsfasf-80778 [32m200[0m 76.118 ms - -[0m
+[2026-10-08T11:14:28.332Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/reviews [32m200[0m 35.633 ms - 315[0m
+[2026-10-08T11:14:28.333Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/reviews/rating-distribution [32m200[0m 35.381 ms - 314[0m
+[2026-10-08T11:14:28.392Z] [INFO] [0mGET /api/v1/products/6abcdcc43108a2845cdf7a73/related [32m200[0m 93.926 ms - 1000[0m

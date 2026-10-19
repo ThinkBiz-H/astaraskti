@@ -1,0 +1,1 @@
+const t="ass_buy_now",e=s=>{sessionStorage.setItem(t,JSON.stringify(s))},o=()=>{try{const s=sessionStorage.getItem(t);return s?JSON.parse(s):null}catch{return null}},n=()=>{sessionStorage.removeItem(t)};export{n as c,o as g,e as s};

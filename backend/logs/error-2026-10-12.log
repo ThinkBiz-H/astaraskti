@@ -1,0 +1,19 @@
+[2026-10-12T06:02:38.203Z] [ERROR] Failed to send email to checklist_k@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:38.203Z] [ERROR] Non-fatal: premium kundli order confirmation email failed for order 6acc77e3bb8514e88cb6bf06: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:38.271Z] [ERROR] Kundli generation failed for order 6acc77e3bb8514e88cb6bf06: AstrologyAPI is not configured yet (ASTROLOGY_API_USER_ID / ASTROLOGY_API_KEY missing)
+[2026-10-12T06:02:45.895Z] [ERROR] Failed to send email to checklist_h@example.com: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:45.895Z] [ERROR] Non-fatal: premium horoscope order confirmation email failed for order 6acc77e3bb8514e88cb6bf08: Invalid login: 535 Incorrect authentication data
+[2026-10-12T06:02:45.963Z] [ERROR] Horoscope generation failed for order 6acc77e3bb8514e88cb6bf08: AstrologyAPI key is not configured yet (ASTROLOGY_API_KEY missing)
+[2026-10-12T06:09:44.077Z] [ERROR] [e1872e45-1e5c-487d-b158-9c9a125ffc87] GET /api/v1/notifications?limit=8 - 401 - Not authorized, token failed or expired
+[2026-10-12T06:09:44.084Z] [ERROR] [b46eac88-38b4-41b8-97b8-907d6484a665] GET /api/v1/cart - 401 - Not authorized, token failed or expired
+[2026-10-12T06:09:44.088Z] [ERROR] [8aac21af-a853-4cb9-9adb-6fd2a06c0825] GET /api/v1/wishlist - 401 - Not authorized, token failed or expired
+[2026-10-12T06:09:44.113Z] [ERROR] [a6d78811-e0d8-4223-9418-87a912ba3a01] POST /api/v1/auth/refresh-token - 401 - Refresh token is required
+[2026-10-12T06:36:11.030Z] [ERROR] [02cfd6d3-4121-433f-bcfe-614cd8374ea0] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T06:36:12.571Z] [ERROR] [41f58601-bc3c-42e6-abbd-fe72f906e10d] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T06:37:20.273Z] [ERROR] [66c6c1bd-a2eb-4c3a-a767-89dc51fb860a] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T06:37:21.908Z] [ERROR] [3e77830a-062f-4572-8922-fa7b692c72a7] POST /api/v1/horoscope/order - 502 - Payment gateway error: Authentication failed
+[2026-10-12T07:02:52.112Z] [ERROR] [b7e0c6a9-73d6-40f1-a546-bd486ed86d5f] PUT /api/v1/admin/premium-horoscope/settings - 401 - Not authorized, token failed or expired
+[2026-10-12T07:07:12.514Z] [ERROR] [936a30d4-705f-456a-883e-2bcea9c69394] PUT /api/v1/admin/premium-horoscope/settings - 401 - Not authorized, token failed or expired
+[2026-10-12T07:07:12.538Z] [ERROR] [5e6e37b7-cad4-42a6-85c0-188141a710ca] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
+[2026-10-12T07:24:23.873Z] [ERROR] [0bde00dd-d1d8-4523-9b4f-55f21f0ef1da] GET /api/v1/admin/home-sections - 401 - Not authorized, token failed or expired
+[2026-10-12T07:24:23.911Z] [ERROR] [f01d3d69-5812-467a-806f-b9eebf35889a] POST /api/v1/auth/refresh-token - 401 - Invalid or expired refresh token
